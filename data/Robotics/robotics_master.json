@@ -1,0 +1,49 @@
+[{
+  "course_name": "Masters Diploma in Robotics",
+  "course_category": "Master Courses",
+  "course_duration": "8 Months",
+  "department":"Robotics",
+  "objective": "This intensive program is designed to equip participants with a thorough understanding of both robotics and artificial intelligence. The course aims to cover essential theoretical concepts, practical skills, and hands-on experiences to prepare students for a career in the rapidly evolving fields of robotics and AI.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Robotics Fundamentals and Programming",
+      "topics": [
+        "Introduction to Robotics",
+        "Mechanical Design and Kinematics",
+        "Programming Fundamentals for Robotics",
+        "Embedded C",
+        "Python"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Robotics Systems and Simulation",
+      "topics": [
+        "Robotics Perception and Sensing",
+        "Robotics Control Systems",
+        "Robotics Simulation"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Artificial Intelligence Fundamentals",
+      "topics": [
+        "Introduction to AI",
+        "AI Concepts and Applications",
+        "Building Simple NLP Models",
+        "Hands-on Lab: AI Project - Machine Learning Application"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Advanced AI and Robotics Integration",
+      "topics": [
+        "Robotics and AI Integration",
+        "Reinforcement Learning",
+        "Ethical Considerations in AI and Robotics"
+      ]
+    }
+  ]
+}
+]

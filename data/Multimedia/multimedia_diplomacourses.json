@@ -1,0 +1,616 @@
+[{
+  "course_name": "Diploma In Multimedia & Animation",
+  "course_category": "Diploma Courses",
+  "course_duration": "8 Months",
+  "department":"Multimedia",
+  "objective": "This program serves as a quick introduction to the world of the print and animation industry. It enables students to work with graphics and animation technologies and software, empowering them to create images and animations for print and visual media.",
+  "course_outline": {
+    "module_1": {
+      "title": "Graphic Design Tools",
+      "subjects": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "CorelDraw",
+        "Adobe InDesign"
+      ]
+    },
+    "module_2": {
+      "title": "Animation",
+      "theory": [
+        "Concepts of Animation",
+        "Concepts of Animation Movie Making",
+        "Principles of Animation",
+        "Introduction to Digital Animation",
+        "Pre-production",
+        "Production",
+        "Post-production"
+      ],
+      "practical": {
+        "2d_animation": [
+          "Adobe Animate"
+        ],
+        "3d_animation": [
+          "3DS Max",
+          "Autodesk Maya"
+        ]
+      }
+    }
+  },
+  "final_project": "Final Project and Presentation"
+},
+{
+  "course_name": "Graphic and Web Expert",
+  "course_category": "Diploma Courses",
+  "course_duration": "8 Months",
+  "department":"Multimedia",
+  "objective": "The future looks bright for students who choose a career in the Graphic and Web Industry. Many G-TEC students have secured placements in various companies through job fairs and recruitment drives. In today's technology-driven world, the scope and growth of the Print Media and Web Industry continue to expand, creating increasing job opportunities. The Graphic and Web Expert course from G-TEC provides students with the skills and professional expertise needed to excel in this field.",
+  "course_outline": {
+    "module_1": {
+      "title": "Graphic Design and Web Development Tools",
+      "subjects": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Corel Draw",
+        "Adobe InDesign",
+        "Adobe Animate",
+        "Adobe Dreamweaver"
+      ]
+    }
+  },
+  "project": "Project"
+},
+{
+  "course_name": "Architectural Visualization Expert",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Multimedia",
+  "objective": "Become an expert in the field of motion graphics and visualization by mastering industry-standard software such as Adobe After Effects, Adobe Premiere, Photoshop, and Illustrator. The course equips students with the skills required for professional visual design, rendering, video editing, and architectural visualization workflows.",
+  "course_outline": {
+    "module_1": {
+      "title": "Architectural Visualization and Multimedia Tools",
+      "subjects": [
+        "Adobe Photoshop",
+        "3DS Max with Character Studio",
+        "Advanced Lighting & Rendering Tools",
+        "V-Ray",
+        "Adobe Premiere Pro",
+        "Sony Sound Forge"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Professional Diploma In Digital Marketing",
+  "course_category": "Diploma Courses",
+  "course_duration": "9 Months",
+  "department":"Multimedia",
+  "objective": "The objective of the course is to help students understand digital marketing methods. The course aims to provide participants with a comprehensive set of digital skills to devise, plan, and implement engaging and successful digital strategies that support and deliver business objectives.",
+  "course_outline": {
+    "module_1": {
+      "title": "Web Design Fundamentals",
+      "subjects": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "HTML",
+        "WordPress"
+      ]
+    },
+    "module_2": {
+      "title": "Digital Marketing Fundamentals",
+      "subjects": [
+        "Digital Marketing Overview",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Mobile Marketing",
+        "Facebook Marketing",
+        "Twitter Marketing",
+        "LinkedIn Marketing",
+        "YouTube Marketing",
+        "Instagram Marketing",
+        "Pinterest Marketing",
+        "Content Marketing",
+        "Live Project"
+      ]
+    },
+    "module_3": {
+      "title": "Advanced Digital Marketing",
+      "subjects": [
+        "Conversion Rate Optimization (CRO)",
+        "Web Analytics",
+        "Google Ads",
+        "Search Engine Optimization (SEO)",
+        "Search Engine Marketing (SEM)",
+        "Pay Per Click (PPC)",
+        "Affiliate Marketing",
+        "Blogging",
+        "Vlogging",
+        "Funnels"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Adobe Certified Professional",
+  "course_category": "Diploma Courses",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "Adobe Certified Professional (ACPro) is an industry-recognized certification that demonstrates proficiency in Adobe Creative Cloud software and essential knowledge for digital media careers. Each certification exam is integrated with an Adobe application and designed by experts to provide an authentic assessment of job-ready skills. Adobe Creative Cloud expertise is highly valued in the industry, and certification provides credibility and a competitive advantage. It helps professionals showcase their ability to create, design, publish, animate, and produce digital content using Adobe's leading creative applications.",
+  "course_outline": {
+    "certifications": [
+      {
+        "title": "Adobe Certified Professional in Visual Design",
+        "software": "Adobe Photoshop 2021"
+      },
+      {
+        "title": "Adobe Certified Professional in Graphic Design and Illustration",
+        "software": "Adobe Illustrator 2021"
+      },
+      {
+        "title": "Adobe Certified Professional in Print & Digital Media Publication",
+        "software": "Adobe InDesign 2021"
+      },
+      {
+        "title": "Adobe Certified Professional in Visual Effects and Motion Graphics",
+        "software": "Adobe After Effects 2021"
+      },
+      {
+        "title": "Adobe Certified Professional in Digital Video",
+        "software": "Adobe Premiere Pro 2021"
+      },
+      {
+        "title": "Adobe Certified Professional in Multiplatform Animation",
+        "software": "Adobe Animate 2021"
+      },
+      {
+        "title": "Adobe Certified Professional in Web Authoring",
+        "software": "Adobe Dreamweaver 2021"
+      }
+    ]
+  }
+},
+{
+  "course_name": "Professional Diploma in Motion Graphics",
+  "course_category": "Diploma Courses",
+  "course_duration": "10 Months",
+  "department":"Multimedia",
+  "objective": "Learn the art of storytelling through digital design and animation. The Motion Graphics Artist program is designed to develop creative visualization skills and provide hands-on experience with multinational projects of international standards. The course offers practical exposure, real-time project experience, and industry-oriented training to help candidates build successful careers in the multimedia industry. It also includes internship opportunities and project-based learning to enhance professional growth.",
+  "course_outline": {
+    "module_1": {
+      "title": "Motion Graphics Software",
+      "subjects": [
+        "Adobe After Effects",
+        "Adobe Premiere",
+        "Articulate Storyline"
+      ]
+    },
+    "module_2": {
+      "title": "Assessment and Practical Training",
+      "subjects": [
+        "Practical Assignment",
+        "Assessment Test",
+        "Key Performance Indicator Assessment"
+      ]
+    },
+    "module_3": {
+      "title": "Professional Development",
+      "subjects": [
+        "Communication Skill Development",
+        "Project",
+        "Internship"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Advanced Diploma In Multimedia Training",
+  "course_category": "Diploma Courses",
+  "course_duration": "10 Months",
+  "department":"Multimedia",
+  "objective": "This program serves as a comprehensive introduction to the print, animation, and web industries. It enables students to work with graphic design, animation, and web technologies, helping them create images, animations, and websites for print and visual media applications.",
+  "course_outline": {
+    "module_1": {
+      "title": "Graphic Design",
+      "subjects": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "CorelDraw",
+        "Adobe InDesign"
+      ]
+    },
+    "module_2": {
+      "title": "Animation",
+      "subjects": {
+        "2d_animation": [
+          "Adobe Animate"
+        ],
+        "3d_animation": [
+          "3DS Max",
+          "Autodesk Maya"
+        ]
+      }
+    },
+    "module_3": {
+      "title": "Web Development",
+      "subjects": [
+        "Dreamweaver",
+        "JavaScript"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Advanced Diploma In Motion Graphics",
+  "course_category": "Diploma Courses",
+  "department":"Multimedia",
+  "course_duration": "9 Months",
+  "objective": "Become an expert in the field of motion graphics by mastering industry-standard software such as Adobe After Effects, Adobe Premiere Pro, DaVinci Resolve, Adobe Photoshop, Adobe Illustrator, and Blender. The course is designed to develop creative and technical skills required for professional motion graphics, video editing, visual effects, and 3D content creation.",
+  "course_outline": {
+    "module_1": {
+      "title": "Design Fundamentals",
+      "subjects": [
+        "Introduction to Motion Graphics",
+        "Introduction to Adobe Photoshop",
+        "Introduction to Adobe Illustrator"
+      ]
+    },
+    "module_2": {
+      "title": "Video Editing and Motion Graphics",
+      "subjects": [
+        "Introduction to Adobe Premiere Pro",
+        "Introduction to Adobe After Effects",
+        "Advanced Techniques in After Effects",
+        "Introduction to DaVinci Resolve",
+        "Advanced Techniques in DaVinci Resolve"
+      ]
+    },
+    "module_3": {
+      "title": "3D Design and Animation",
+      "subjects": [
+        "Introduction to Blender",
+        "Advanced Techniques in Blender"
+      ]
+    },
+    "module_4": {
+      "title": "Portfolio and Project Development",
+      "subjects": [
+        "Portfolio Development",
+        "Final Project and Presentation"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Diploma in Motion Graphics",
+  "course_category": "Diploma Courses",
+  "course_duration": "7 Months",
+  "department":"Multimedia",
+  "objective": "Become an expert in the field of motion graphics by mastering industry-standard software such as Adobe After Effects, Adobe Premiere Pro, Adobe Photoshop, and Adobe Illustrator. The course is designed to develop creative and technical skills required for professional motion graphics, visual effects, and video production.",
+  "course_outline": {
+    "module_1": {
+      "title": "Design Fundamentals",
+      "subjects": [
+        "Introduction to Motion Graphics",
+        "Introduction to Adobe Photoshop",
+        "Introduction to Adobe Illustrator"
+      ]
+    },
+    "module_2": {
+      "title": "Motion Graphics and Video Editing",
+      "subjects": [
+        "Introduction to Adobe Premiere Pro",
+        "Introduction to Adobe After Effects",
+        "Advanced Techniques in After Effects"
+      ]
+    },
+    "module_3": {
+      "title": "Portfolio and Project Development",
+      "subjects": [
+        "Portfolio Development",
+        "Final Project and Presentation"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Diploma In Animation",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Multimedia",
+  "objective": "This course enables students to gain strong control over the animation world through a solid understanding of animation concepts, principles, and industry-standard software. It provides specialized training in both 2D and 3D animation, including character animation, interactive media creation, walkthrough animation, and digital production workflows, helping learners build professional skills in the animation industry.",
+  "course_outline": {
+    "module_1": {
+      "title": "Animation Fundamentals",
+      "subjects": [
+        "Concepts of Animation",
+        "Concepts of Animation Movie Making",
+        "Principles of Animation",
+        "Introduction to Digital Animation",
+        "Pre-production",
+        "Production",
+        "Post-production"
+      ]
+    },
+    "module_2": {
+      "title": "2D Animation and Design Tools",
+      "subjects": [
+        "Adobe Photoshop",
+        "Adobe Animate",
+        "Krita"
+      ]
+    },
+    "module_3": {
+      "title": "3D Animation",
+      "subjects": [
+        "3DS Max with Character Studio",
+        "Autodesk Maya"
+      ]
+    },
+    "module_4": {
+      "title": "Audio Production",
+      "subjects": [
+        "Adobe Audition"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Diploma In 2D Animation",
+  "course_category": "Diploma Courses",
+  "department":"Multimedia",
+  "course_duration": "6 Months",
+  "objective": "This premium 2D Animation course is designed for all kinds of 2D work in the animation industry. It provides specialized training to help individuals become professional 2D animators with skills in character animation, walkthrough animation, and related creative workflows.",
+  "course_outline": {
+    "module_1": {
+      "title": "2D Animation Fundamentals",
+      "subjects": [
+        "Concept of Animation",
+        "Introduction to Digital Animation",
+        "Principle of Animation",
+        "Concept Creation",
+        "Cartoon Drawings",
+        "Live Sketching",
+        "Acting Classes",
+        "Perspective Drawings",
+        "Animation Exercises",
+        "Animation Movie Making"
+      ]
+    }
+  },
+  "project": "Project"
+},
+{
+  "course_name": "Diploma In Digital Marketing",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Multimedia",
+  "objective": "The objective of the course is to help students understand digital marketing methods. The course aims to provide participants with a comprehensive set of digital skills to devise, plan, and implement engaging and successful digital strategies that support and deliver business objectives.",
+  "course_outline": {
+    "module_1": {
+      "title": "Web Design Fundamentals",
+      "subjects": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "HTML",
+        "WordPress"
+      ]
+    },
+    "module_2": {
+      "title": "Digital Marketing Fundamentals",
+      "subjects": [
+        "Digital Marketing Overview",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Mobile Marketing",
+        "Facebook Marketing",
+        "Twitter Marketing",
+        "LinkedIn Marketing",
+        "YouTube Marketing",
+        "Instagram Marketing",
+        "Pinterest Marketing",
+        "Content Marketing",
+        "Introduction to SEO"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Professional Diploma In Graphics And Web Designing",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Multimedia",
+  "objective": "This diploma focuses on building the design and development skills required for both graphic design and web design. It covers the creation of logos, website user interfaces, sketches for fashion and industrial design, typefaces, print media, animated characters, advertisements, flyers, movie credits, newspaper headlines, and textile designs. With the advancement of technology and smart devices, the demand for interactive illustrations is increasing. This course equips aspirants with essential graphic and web tools to meet industry requirements and prepare for professional careers.",
+  "course_outline": {
+    "module_1": {
+      "title": "Design and Web Tools",
+      "subjects": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe Dreamweaver",
+        "Adobe Animate"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Diploma In Digital Imaging",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Multimedia",
+  "objective": "This course enables users to specialize in graphical outputs such as layouts, digital photo editing, graphic design, pre-press work, and illustrations. It focuses on creating brochures, cards, logos, digital photo manipulation, and high-quality effects for print media, film making, and advertisement works.",
+  "course_outline": {
+    "module_1": {
+      "title": "Graphic Design and Imaging Tools",
+      "subjects": [
+        "Adobe Photoshop",
+        "CorelDraw",
+        "Adobe Illustrator",
+        "Autodesk Sketchbook",
+        "Adobe InDesign"
+      ]
+    },
+    "module_2": {
+      "title": "Practical Training",
+      "subjects": [
+        "Live Project"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Diploma In 3D Animation",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Multimedia",
+  "objective": "This premium 3D Animation course is designed for all types of 3D work in the animation industry. It helps individuals become professional 3D animators with specialized training in character animation, walkthrough animation, and related production workflows.",
+  "course_outline": {
+    "module_1": {
+      "title": "3D Animation Fundamentals and Production",
+      "subjects": [
+        "Anatomy (Human & Animal)",
+        "Sketching",
+        "Modeling",
+        "Texturing",
+        "Lighting",
+        "Camera",
+        "BG Modeling",
+        "Rendering",
+        "Principles of Animation",
+        "Character Animation",
+        "Animation Exercises",
+        "Animation Movie Making"
+      ]
+    }
+  },
+  "projects": "Projects"
+},
+{
+  "course_name": "Diploma In AI Integrated Graphic Designing",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Multimedia",
+  "objective": "The objective of this course is to equip students with advanced skills in Adobe Creative Cloud applications, enabling them to create professional-grade graphic designs, illustrations, and multimedia content. By mastering tools like Photoshop, Illustrator, InDesign, Lightroom, Adobe Express, Adobe Firefly, Creative Cloud App, and Behance, students will be prepared to excel in the dynamic field of graphic design and digital media.",
+  "course_outline": {
+    "modules": [
+      {
+        "module": "Module 1",
+        "subject": "Adobe Photoshop (Advanced)"
+      },
+      {
+        "module": "Module 2",
+        "subject": "Adobe Illustrator (Advanced)"
+      },
+      {
+        "module": "Module 3",
+        "subject": "Adobe InDesign (Essentials)"
+      },
+      {
+        "module": "Module 4",
+        "subject": "Adobe Acrobat Pro (Advanced)"
+      },
+      {
+        "module": "Module 5",
+        "subject": "Adobe Lightroom (Advanced)"
+      },
+      {
+        "module": "Module 6",
+        "subject": "Adobe Firefly (Advanced)"
+      },
+      {
+        "module": "Module 7",
+        "subject": "Adobe Express (Essentials)"
+      },
+      {
+        "module": "Module 8",
+        "subject": "Adobe Creative Cloud (Essentials)"
+      },
+      {
+        "module": "Module 9",
+        "subject": "Behance (Essentials)"
+      }
+    ]
+  }
+}
+,
+{
+  "course_name": "Diploma In Video Editing",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Multimedia",
+  "objective": "This program is specialized in audio and video editing and post-production work. After completing this course, students can work with editing and compositing software using professional edit suites and advanced equipment, including background sound design, music integration, and dynamic special effects.",
+  "course_outline": {
+    "module_1": {
+      "title": "Video Editing and Post Production Tools",
+      "subjects": [
+        "Adobe Photoshop",
+        "Adobe Premiere Pro",
+        "Edius",
+        "Adobe After Effects"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Diploma In Graphic Designing",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Multimedia",
+  "objective": "Through this course, students can specialize in graphical outputs such as layouts, digital photo editing, graphic design, pre-press work, and illustrations. It focuses on creating brochures, cards, logos, digital photo manipulation, and high-quality effects for print media, film making, and advertisement works.",
+  "course_outline": {
+    "module_1": {
+      "title": "Graphic Design Tools",
+      "subjects": [
+        "Adobe Photoshop",
+        "CorelDraw",
+        "Adobe Illustrator",
+        "Adobe InDesign"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Professional Diploma in Photography & Videography",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Multimedia",
+  "objective": "The Professional Diploma in Photography & Videography integrates practical outdoor training with hands-on experience using the latest cameras. The course includes training in Adobe Photoshop for image editing, Adobe Premiere Pro for video editing, Edius for fast editing, and Adobe After Effects for motion graphics and visual effects. It also covers multi-cam live production skills and project-based learning to ensure comprehensive industry readiness. Students gain practical expertise in photography and videography across diverse environments, preparing them for professional careers in the media industry.",
+  "course_outline": {
+    "module_1": {
+      "title": "Photography & Videography Fundamentals",
+      "subjects": [
+        "Overview of Videography",
+        "Cameras and Lenses",
+        "Tripods and Stabilizers",
+        "Mounts and Lighting Equipment",
+        "Audio Equipment",
+        "Editing Software and Hardware",
+        "Composition and Framing",
+        "Camera Angles and Movements",
+        "Lighting Techniques",
+        "Color Theory in Videography",
+        "Storyboarding",
+        "Scriptwriting",
+        "Planning and Organization",
+        "Location Scouting",
+        "Camera Operation",
+        "Lighting Setups"
+      ]
+    },
+    "module_2": {
+      "title": "Editing Software Training",
+      "subjects": [
+        "Photoshop Basics",
+        "Edius Basics",
+        "Adobe Premiere Pro Basics",
+        "Adobe After Effects Basics"
+      ]
+    },
+    "module_3": {
+      "title": "Final Project",
+      "subjects": [
+        "Final Project and Portfolio"
+      ]
+    }
+  }
+}
+]

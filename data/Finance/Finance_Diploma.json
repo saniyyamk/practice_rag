@@ -1,0 +1,796 @@
+[
+{
+  "course_name": "Professional Accountant",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Accounting",
+  "objective": "Professional Accountant is a practical training course on computerized accounting and taxation designed to enhance skills in modern accounting systems. The course covers computerized accounting using the latest version of Tally, including all levels, and concludes with GST filing. It prepares learners for professional certification in Tally and G-TEC Global Certification.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Fundamentals of Accounting",
+      "topics": [
+        "Manual Accounting",
+        "Tally Essential Comprehensive"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Taxation and Compliance",
+      "topics": [
+        "GST Filing"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Advanced Diploma in Accounting Training",
+  "course_category": "Diploma Courses",
+  "course_duration": "10 Months",
+  "department":"Accounting",
+  "objective": "This course is designed for candidates who have a strong interest in becoming accounting software trainers. It begins with basic accounting concepts and teaches how to prepare accounting transactions and final records using leading accounting software, along with theoretical and practical knowledge in E-Accounting and accounting practices.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "MS Office"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals and Software",
+      "topics": [
+        "Basic Accounting Standards (Manual Accounting)",
+        "Tally Essential Comprehensive",
+        "Sage 50",
+        "QuickBooks"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "E-Accounting Concepts",
+      "topics": [
+        "E-Accounting Concept"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Practical Accounting Training",
+      "topics": [
+        "Practical Accounting"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Diploma in Indian and Foreign Accounting",
+  "course_category": "Diploma Courses",
+  "course_duration": "8 Months",
+  "department":"Accounting",
+  "objective": "This diploma program is designed to make learners proficient in both manual and computerized accounting. The course begins with essential computer fundamentals, covers MS Office applications, progresses through manual and computerized accounting, and concludes with key concepts in E-Accounting.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "MS Office"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals and Software",
+      "topics": [
+        "Basic Accounting Standards (Manual Accounting)",
+        "Tally Essential Comprehensive",
+        "Sage 50",
+        "QuickBooks"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "E-Accounting Concepts",
+      "topics": [
+        "E-Accounting Concept"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Diploma in Computerized Accounting Packages",
+  "course_category": "Diploma Courses",
+  "course_duration": "7 Months",
+  "department":"Accounting",
+  "objective": "This diploma program is designed to make learners experts in both manual and computerized accounting. It begins with computer basics, covers MS Office, progresses into manual accounting, and concludes with computerized accounting systems.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals",
+      "topics": [
+        "IT Basics and Windows",
+        "MS Office"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals and Software",
+      "topics": [
+        "Basic Accounting (Manual)",
+        "Tally Essential Comprehensive",
+        "Sage 50",
+        "QuickBooks"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Diploma in Financial Accounting",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Accounting",
+  "objective": "The course modules are designed to convert a novice into an expert in financial accounting using accounting software of their choice. The program begins with computer basics, advances through MS Office applications, and progresses into manual and computerized accounting. It concludes with training in one of the most widely used accounting software systems.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals",
+      "topics": [
+        "IT Basics and Windows",
+        "MS Office"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals",
+      "topics": [
+        "Basic Accounting (Manual)",
+        "Tally Essential Comprehensive"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Certified Accounting and Management Professional",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Accounting",
+  "objective": "The course is tailored for individuals who want to upgrade their skill set and perform as successful accountants or finance managers. The program covers practical accounting, management of men, material and portfolio, and includes essentials of share trading and financial laws.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Management and Financial Systems",
+      "topics": [
+        "Portfolio Management",
+        "Men and Material Management",
+        "Material Requirement Planning",
+        "Import and Export",
+        "Share Trading"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Practical Accounting",
+      "topics": [
+        "Practical Accounting"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Smart Accountant",
+  "course_category": "Diploma Courses",
+  "course_duration": "8 Months",
+  "department":"Accounting",
+  "objective": "The Professional Certification in AI Integrated Accounting equips students with a comprehensive understanding of AI tools and their seamless integration within MS Office tools (Word, Excel, PowerPoint). Students learn to leverage AI for data analysis, presentation creation, document editing, and automation, enhancing efficiency in accounting tasks such as data entry and invoice processing while reducing human error and enabling focus on value-driven activities.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals and Accounting Basics",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "Basic Accounting Standards (Manual Accounting)"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Software Training",
+      "topics": [
+        "Tally Essential Comprehensive",
+        "Sage 50",
+        "QuickBooks"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Advanced Accounting Concepts and Systems",
+      "topics": [
+        "E-Accounting Concept",
+        "Practical Accounting",
+        "Hardware Essentials"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Professional Gulf Accountant",
+  "course_category": "Diploma Courses",
+  "course_duration": "8 Months",
+  "department":"Accounting",
+  "objective": "This course prepares students to become professional accountants recognized globally, especially in the GCC region. It covers computer fundamentals, MS Office, Advanced Excel, manual and computerized accounting, ERP and E-Accounting systems, and concludes with IFRS, providing a complete evolution of accounting skills.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals and Office Tools",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "MS Office",
+        "Advanced Excel"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting and Regional Compliance",
+      "topics": [
+        "Basic Accounting Standards (Manual Accounting)",
+        "Tally Essential Comprehensive",
+        "GCC VAT",
+        "Sage 50"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Advanced Accounting Concepts",
+      "topics": [
+        "E-Accounting Concept",
+        "IFRS"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Diploma in Sales & Distribution - SAP",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"SAP",
+  "objective": "This comprehensive course covers every aspect of the Sales and Distribution (SD) cycle. From order processing to sales execution, shipment handling, and warehouse management, it equips learners with in-depth knowledge and practical skills to become globally employable SD professionals.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals and Office Basics",
+      "topics": [
+        "IT Basics and Windows",
+        "MS Office Basics"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "SAP Sales and Distribution",
+      "topics": [
+        "SAP Sales and Distribution - Basics",
+        "SAP Power User - SD"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Diploma in SAP Material Management",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"SAP",
+  "objective": "This course is designed for individuals seeking a promising career in the Material Management domain. It builds expertise in SAP ERP, the world's leading ERP solution used across industries globally. The program equips students with the skills required to work on SAP MM modules after mastering the fundamentals of material management.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals and Office Basics",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "MS Office Basics"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "SAP Material Management",
+      "topics": [
+        "SAP Material Management - Basics",
+        "SAP Power User - MM"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Diploma in SAP Production Planning",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"SAP",
+  "objective": "This course is designed for individuals seeking a promising career in the production and manufacturing industry. It builds expertise in SAP ERP Production Planning (PP), one of the most widely used ERP modules across global industries. The program equips students with the skills required to work on SAP PP modules after mastering the fundamentals of production planning.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals and Office Basics",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "MS Office Basics"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "SAP Production Planning",
+      "topics": [
+        "SAP Production Planning - Basics",
+        "SAP Power User - PP"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Diploma in International Finance Management with SAP FICO",
+  "course_category": "Diploma Courses",
+  "course_duration": "9 Months",
+  "department":"SAP",
+  "objective": "This program is designed to shape international career opportunities in accounting and finance. It prepares learners for multinational company job roles by combining IFRS-based international accounting standards, Sage for foreign accounting practices, Tally for computerized accounting fundamentals, and SAP FICO for enterprise resource planning. The course aims to make students highly competitive in the accounting industry.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals and Office Tools",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "MS Office Basics",
+        "Advanced Excel"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals",
+      "topics": [
+        "Basic Accounting (Manual)",
+        "IFRS Basics"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Accounting Software Training",
+      "topics": [
+        "Tally Essential Comprehensive",
+        "Sage 50"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "SAP Finance Module",
+      "topics": [
+        "SAP FICO - Power User"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Professional Accounts Practitioner",
+  "course_category": "Diploma Courses",
+  "course_duration": "9 Months",
+  "department":"Accounting",
+  "objective": "This comprehensive course is designed to equip learners with the skills needed to become globally recognized professional accountants. It begins with fundamentals of computers, MS Office, and Advanced Excel, then progresses through manual accounting, computerized accounting using Tally Prime and Sage 50, taxation and GST filing, ERP and E-Accounting systems, and culminates with IFRS training. The program provides a complete understanding of modern accounting practices.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals and Office Applications",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "MS Office",
+        "Advanced Excel"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting and Taxation Systems",
+      "topics": [
+        "Basic Accounting (Manual)",
+        "Tally Essential Comprehensive",
+        "GST Filing",
+        "Sage 50"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Advanced Accounting Concepts",
+      "topics": [
+        "E-Accounting Concept",
+        "IFRS"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Diploma in International Finance Management with SAP S/4 HANA",
+  "course_category": "Diploma Courses",
+  "course_duration": "9 Months",
+  "department":"SAP",
+  "objective": "This program is designed to shape international career opportunities in accounting and finance. It prepares learners for multinational company job roles by combining IFRS-based international accounting standards, Sage for foreign accounting practices, Tally for computerized accounting fundamentals, and SAP FICO for enterprise resource planning using SAP S/4 HANA. The course aims to make students highly competitive in the global accounting industry.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals and Office Tools",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "MS Office Basics",
+        "Advanced Excel"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals",
+      "topics": [
+        "Basic Accounting (Manual)",
+        "IFRS Basics"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Accounting Software Training",
+      "topics": [
+        "Tally Essential Comprehensive",
+        "Sage 50"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "SAP Finance Module",
+      "topics": [
+        "SAP FICO - Power User (SAP S/4 HANA)"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Professional Certification in AI Integrated Accounting",
+  "course_category": "Diploma Courses",
+  "course_duration": "8 Months",
+  "department":"Accounting",
+  "objective": "The Professional Certification in AI Integrated Accounting equips students with a comprehensive understanding of AI tools and their seamless integration within MS Office tools (Word, Excel, PowerPoint). Students learn to leverage AI for enhanced data analysis, presentation creation, document editing, and automation, empowering them for office-centric roles while reducing manual effort in accounting tasks such as data entry and invoice processing, minimizing human error and improving productivity.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "MS Office and AI Integration",
+      "topics": [
+        "MS Office Word",
+        "MS Office Excel",
+        "MS Office PowerPoint",
+        "AI with Word, Excel & PowerPoint"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Advanced Data Handling",
+      "topics": [
+        "Advanced Excel"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Manual Accounting Fundamentals",
+      "topics": [
+        "Manual Accounting"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Accounting Software",
+      "topics": [
+        "Tally Essential Comprehensive"
+      ]
+    },
+    {
+      "module": 5,
+      "title": "Cloud Accounting",
+      "topics": [
+        "Zoho Books"
+      ]
+    },
+    {
+      "module": 6,
+      "title": "Taxation and Compliance",
+      "topics": [
+        "Taxation & Statutory Filing"
+      ]
+    },
+    {
+      "module": 7,
+      "title": "Data Visualization and BI",
+      "topics": [
+        "Power BI"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Professional Accounts Analyst and Taxation Expert",
+  "course_category": "Diploma Courses",
+  "course_duration": "7 Months",
+  "department":"Accounting",
+  "objective": "This course is designed to provide individuals with knowledge and skills in accounting, financial analysis, taxation, and statutory filing. It prepares learners to become proficient in financial analysis and taxation practices through hands-on training and practical challenges. The program includes certifications such as ABMA, Tally, and MEPSC along with G-TEC certification, enhancing global career opportunities in finance and accounting.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Accounting Fundamentals",
+      "topics": [
+        "Manual Accounting",
+        "MS Excel"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Software and Cloud Tools",
+      "topics": [
+        "Tally Essential Comprehensive",
+        "Zoho Books Accounting"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Professional Roles and Certification",
+      "topics": [
+        "Financial Executive"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Diploma in Finance Management with SAP FICO & Tally",
+  "course_category": "Diploma Courses",
+  "course_duration": "7 Months",
+  "department":"SAP",
+  "objective": "This program is designed for individuals aspiring to build a career in accounting. It offers a combination of manual, computerized, and ERP accounting to develop skilled professionals. The course provides exposure to Indian and international accounting practices using tools such as Tally, Sage, and SAP FICO, ensuring practical expertise across multiple platforms.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "MS Office Basics"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals and Software",
+      "topics": [
+        "Basic Accounting (Manual)",
+        "Tally Essential Comprehensive",
+        "Sage 50"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "ERP Accounting",
+      "topics": [
+        "SAP FICO - Power User"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Diploma in Finance Management with SAP S4 HANA & Tally",
+  "course_category": "Diploma Courses",
+  "department":"SAP",
+  "course_duration": "7 Months",
+  "objective": "This program is designed for individuals looking to build a career in accounting. It offers an ideal combination of manual, computerized, and ERP accounting to develop skilled accounting professionals. The course provides comprehensive exposure to Indian, international, and ERP accounting systems, including hands-on training with Tally, Sage, and SAP S/4HANA.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "MS Office Basics"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals and Software",
+      "topics": [
+        "Basic Accounting (Manual)",
+        "Tally Essential Comprehensive",
+        "Sage 50"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "ERP Accounting Systems",
+      "topics": [
+        "SAP S/4HANA"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Diploma in Professional Accounting and Taxation with Tally Prime",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Accounting",
+  "objective": "The course is designed to help students enter the world of accounting and financial transactions using computerized systems. It begins with computer basics and progresses through manual accounting required for computerized accounting using Tally Prime. Students gain practical knowledge in accounting and taxation and receive certification and courseware from Tally Solutions.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Accounting Fundamentals",
+      "topics": [
+        "Basic Accounting (Manual)",
+        "Tally Essential Comprehensive"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Taxation and Compliance",
+      "topics": [
+        "Statutory & Taxation - GST Filing"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Practical Accounting",
+      "topics": [
+        "Practical Accounting"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Certified Global Accountant",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Accounting",
+  "objective": "Certified Global Accountant (CGA) is a professional course designed to develop expertise in Indian and foreign accounting and taxation including VAT. The program starts with manual accounting basics, MS Excel, and computerized accounting using Tally, followed by statutory taxation including GST and GCC VAT. It concludes with practical accounting training to ensure job readiness from day one. The course also includes Tally Direct Certification and G-TEC Global Certification.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Accounting Fundamentals and Software",
+      "topics": [
+        "Basic Accounting (Manual)",
+        "Tally Essential Comprehensive"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Taxation, Compliance and Practical Accounting",
+      "topics": [
+        "Statutory & Taxation - GST Filing",
+        "GCC VAT",
+        "Practical Accounting"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Computerized Accounting Tools",
+      "topics": [
+        "MS Excel"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Certificate Course in Tally Professional",
+  "course_category": "Diploma Courses",
+  "course_duration": "5 Months",
+  "department":"Accounting",
+  "objective": "This certification validates expertise in using TallyPrime software for accounting, inventory management, payroll, and taxation. It enhances career prospects by proving proficiency, building credibility, and ensuring alignment with industry standards. The program prepares learners for advanced roles and helps businesses operate efficiently using Tally from beginner to advanced levels.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Tally Fundamentals",
+      "topics": [
+        "Tally Essential Comprehensive"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Advanced Tally Applications",
+      "topics": [
+        "Tally Professional"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Diploma in Corporate Finance & Control - SAP",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"SAP",
+  "objective": "This course is designed for individuals seeking a respected career in multinational companies. It builds foundational knowledge in finance management, starting from basic computerized accounting and progressing to SAP-based accounting systems. The program equips learners with practical skills in SAP Finance and Controlling (FICO) modules.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals and Office Basics",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "MS Office Fundamentals"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals",
+      "topics": [
+        "Basic Accounting with Tally Intro"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "SAP Finance and Controlling",
+      "topics": [
+        "SAP Finance & Controlling - Basics",
+        "SAP Power User - FICO"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Certificate Course in Tally and Advanced Excel",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Accounting",
+  "objective": "This course is designed to develop professional accounting skills recognized globally. It begins with Advanced Excel and progresses to Tally Prime, providing learners with a complete understanding of modern accounting practices and software-based financial management.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Advanced Excel",
+      "topics": [
+        "Advanced Excel"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Tally Accounting Software",
+      "topics": [
+        "Tally Essential Comprehensive"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Professional Accountant - Tally Prime with GST",
+  "course_category": "Diploma Courses",
+  "course_duration": "3 Months",
+  "department":"Accounting",
+  "objective": "The objective of this course is to provide learners with a comprehensive understanding of Tally Essential, covering core accounting functions, inventory management, and financial reporting along with in-depth knowledge of GST filing processes. The program equips students with practical skills to manage day-to-day business transactions, apply taxation rules, and ensure GST compliance using Tally Prime. By the end of the course, participants will be capable of efficiently handling accounting tasks and filing GST returns with accuracy and confidence.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Accounting and Taxation in Tally",
+      "topics": [
+        "Tally Essential Comprehensive",
+        "GST Filing"
+      ]
+    }
+  ]
+}]

@@ -1,0 +1,37 @@
+[{
+  "course_name": "Certificate Course in Robotics",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"Robotics",
+  "objective": "Robotics is a branch of engineering that involves the conception, design, manufacture, and operation of robots. The objective of this course is to provide a foundational understanding of Robotics Engineering. It serves as a starting point for individuals interested in exploring the field of robotics and as a supplementary learning opportunity for those already working in related areas.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Introduction to Robotics and Electronics",
+      "topics": [
+        "Introduction to Robotics",
+        "Basic Electronics",
+        "Electronics Circuit",
+        "Simulation - TinkerCAD",
+        "Fritzing Software",
+        "Breadboard Basics and Wiring"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Programming and Arduino Fundamentals",
+      "topics": [
+        "Programming Basics",
+        "Arduino Board",
+        "Arduino Software - Arduino IDE",
+        "Arduino IDE Installation and Configuration",
+        "Conditional Statements and Loops",
+        "Sensors",
+        "Relays",
+        "16x2 LCD Module",
+        "Real-Time Projects"
+      ]
+    }
+  ]
+}
+]

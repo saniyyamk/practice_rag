@@ -1,0 +1,1069 @@
+[
+{
+  "course_name": "Certificate Course in Adobe Premiere",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month / 36 Hours",
+  "department":"Multimedia",
+  "objective": "Adobe Premiere is a digital video editing tool commonly used for editing television programs. It is widely used by professional video editors for digital video (DV) editing solutions. The software allows users to add effects and transitions to enhance video content and achieve professional-quality results.",
+  "course_outline": {
+    "module_1": {
+      "title": "Adobe Premiere Fundamentals",
+      "subjects": [
+        "Introduction to Post Production",
+        "File Formats",
+        "Video Effects",
+        "Exporting the Video",
+        "Titles",
+        "How to Work in the Film Industry"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Digital Marketing",
+  "course_category": "Certificate Course",
+  "course_duration": "3 Months",
+  "department":"Multimedia",
+  "objective": "This course focuses on developing digital marketing concepts along with practical application. It includes marketing through various social media platforms and aims to build student confidence to start a career in digital marketing. The objective is to help students understand different digital marketing methods and strategies.",
+  "course_outline": {
+    "module_1": {
+      "title": "Design Basics",
+      "subjects": [
+        "Adobe Photoshop"
+      ]
+    },
+    "module_2": {
+      "title": "Digital Marketing Fundamentals",
+      "subjects": [
+        "Digital Marketing Overview",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Mobile Marketing",
+        "Facebook Marketing",
+        "Twitter Marketing",
+        "LinkedIn Marketing",
+        "YouTube Marketing",
+        "Instagram Marketing",
+        "Pinterest Marketing",
+        "Content Marketing",
+        "Introduction to SEO"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Final Cut Pro",
+  "course_category": "Certificate Course",
+  "course_duration": "3 Months",
+  "department":"Multimedia",
+  "objective": "Final Cut Pro (FCP) is an advanced video editing and compositing software used in the film and television industry. It includes tools for editing, compositing, color correction, titling, and more. This Apple Macintosh-based software provides professional output for film and television post-production workflows.",
+  "course_outline": {
+    "module_1": {
+      "title": "Final Cut Pro Training",
+      "subjects": [
+        "Final Cut Pro Basics",
+        "Import Media",
+        "Analyze Media",
+        "Organize Your Library",
+        "Play Back and Skim Media",
+        "Edit Your Project",
+        "Edit Audio",
+        "Add Transitions, Titles, Effects, and Generators",
+        "Advanced Editing",
+        "Keying and Compositing",
+        "Color Correction",
+        "Share Your Project",
+        "Manage Media, Libraries, and Archives",
+        "Preferences and Metadata"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course in 3DS MAX",
+  "course_category": "Certificate Course",
+  "course_duration": "3 Months",
+  "department":"Multimedia",
+  "objective": "3DS Max is a popular 3D modeling and animation software used in video production, animation, gaming, and architectural visualization. It provides advanced modeling and animation capabilities for creating high-quality 3D content across various industries.",
+  "course_outline": {
+    "module_1": {
+      "title": "3D Modeling and Animation Basics",
+      "subjects": [
+        "Basics of 3D Modeling",
+        "Developing Exterior Designs",
+        "Maps and Materials",
+        "Advanced Modeling Concepts",
+        "Lighting and Texture Interaction",
+        "Layout Designing",
+        "Three-Point Lighting",
+        "Concept of Rigging",
+        "Motion Science",
+        "Camera Techniques",
+        "Detailed Study of Character Animation"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Sound Editing",
+  "course_category": "Certificate Course",
+  "course_duration": "3 Months",
+  "department":"Multimedia",
+  "objective": "The objective of this course is to introduce audio and video editing using tools and techniques prevalent in the industry.",
+  "course_outline": {
+    "module_1": {
+      "title": "Audio and Video Editing Tools",
+      "subjects": [
+        "Adobe Audition",
+        "Adobe Premiere",
+        "Sound Forge Pro"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course in Blender",
+  "course_category": "Certificate Course",
+  "course_duration": "3 Months",
+  "department":"Multimedia",
+  "objective": "By the end of this course, participants will gain comprehensive proficiency in Blender, including 3D modeling, animation, texturing, and rendering techniques. They will acquire the skills necessary to create professional-quality 3D assets, animations, and visualizations, enabling careers in animation, gaming, VFX, architecture, and product design.",
+  "course_outline": {
+    "module_1": {
+      "title": "Blender Fundamentals and 3D Workflow",
+      "subjects": [
+        "Introduction to Blender",
+        "Getting Started with the User Interface (UI)",
+        "Basic 3D Concepts",
+        "Working with Objects",
+        "Materials and Texturing Basics",
+        "Lighting and Cameras",
+        "Rendering Basics",
+        "Introduction to Animation",
+        "Basic Sculpting",
+        "Physics Simulations",
+        "Shortcuts and Tips for Efficiency",
+        "Exporting Models and Files",
+        "Project Walkthrough"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Adobe Premiere Pro",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"Multimedia",
+  "objective": "Adobe Premiere Pro is a digital video editing tool commonly used for editing television programs and professional video content. It is widely used by video editors for digital video editing solutions. The software allows users to add effects, transitions, and enhancements to create high-quality video productions.",
+  "course_outline": {
+    "module_1": {
+      "title": "Adobe Premiere Pro Training",
+      "subjects": [
+        "Adobe Premiere Pro Basics Training",
+        "Setting Up a Project",
+        "Importing Media",
+        "Organizing Media",
+        "Essentials of Video Editing",
+        "Working with Clips and Markers",
+        "Adding Transitions",
+        "Advanced Editing Techniques",
+        "Putting Clips in Motion",
+        "Editing and Mixing Audio",
+        "Sweetening Sound",
+        "Adding Video Effects",
+        "Color Correction and Grading",
+        "Exploring Compositing Techniques",
+        "Creating Titles",
+        "Managing Your Projects",
+        "Exporting Frames, Clips, and Sequences"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Graphic Designing Basics",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "This 1-month course teaches students the basics of graphic design using Adobe Photoshop, CorelDraw, and Adobe InDesign. Through hands-on projects, students will develop essential design skills, technical expertise, and aesthetic sense required for entry-level graphic design work.",
+  "course_outline": {
+    "module_1": {
+      "title": "Graphic Design Essentials",
+      "subjects": [
+        "Adobe Photoshop (Essentials)",
+        "CorelDraw (Essentials)",
+        "Adobe InDesign (Essentials)"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Diploma in Visual Effects (VFX)",
+  "course_category": "Certificate Course",
+  "course_duration": "6 Months",
+  "department":"Multimedia",
+  "objective": "Diploma in Visual Effects is a specialized educational program designed to teach students the skills and techniques required to create visual effects for film, television, video games, and other forms of media. Visual effects (VFX) involve a wide range of digital and practical techniques used to enhance or manipulate footage to achieve desired visual outcomes.",
+  "course_outline": {
+    "module_1": {
+      "title": "Image Editing Basics",
+      "subjects": [
+        "Adobe Photoshop Basics"
+      ]
+    },
+    "module_2": {
+      "title": "Video Editing and Production Workflow",
+      "subjects": [
+        "Introduction to Premiere Pro",
+        "Importing and Organizing Media",
+        "Basic Editing Techniques",
+        "Advanced Editing Techniques",
+        "Working with Text and Graphics",
+        "Audio Editing and Mixing",
+        "Exporting and Delivering Projects",
+        "Workflow Tips and Best Practices",
+        "Final Projects and Portfolios"
+      ]
+    },
+    "module_3": {
+      "title": "Motion Graphics and Compositing (After Effects)",
+      "subjects": [
+        "Introduction to After Effects",
+        "Creating Compositions",
+        "Basic Animation Techniques",
+        "Working with Text and Shape Layers",
+        "Applying Effects and Presets",
+        "Masking and Rotoscoping",
+        "Introduction to 3D Space",
+        "Pre-Compositions and Nesting",
+        "Introduction to Expressions",
+        "Rendering and Exporting",
+        "Advanced Animation Techniques",
+        "Motion Tracking and Stabilization",
+        "Green Screen and Compositing",
+        "Particle Systems and Simulation",
+        "Advanced Effects and Plugins",
+        "Color Correction and Grading",
+        "Advanced Rendering and Optimization"
+      ]
+    },
+    "module_4": {
+      "title": "Node-Based Compositing",
+      "subjects": [
+        "Interface and Workspace",
+        "Nodes and Node-Based Compositing",
+        "Image Import and File Handling",
+        "Compositing Techniques",
+        "Transformations and Tracking",
+        "Channel Manipulation and Mattes",
+        "3D Integration",
+        "Rotoscoping and Paint",
+        "Animation and Time-Based Effects",
+        "Rendering and Output"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Diploma In Web Designing & Animation",
+  "course_category": "Certificate Course",
+  "course_duration": "3 Months",
+  "department":"Multimedia",
+  "objective": "This course enables users to specialize in graphical outputs such as layouts, digital photo editing, graphic design, pre-press work, and illustrations. It focuses on creating brochures, cards, logos, digital photo manipulation, and high-quality effects for print media, film production, and advertising works.",
+  "course_outline": {
+    "module_1": {
+      "title": "Web Designing and Animation Tools",
+      "subjects": [
+        "Adobe Photoshop",
+        "Adobe Animate",
+        "Adobe Dreamweaver"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Autodesk Maya",
+  "course_category": "Certificate Course",
+  "course_duration": "3 Months",
+  "department":"Multimedia",
+  "objective": "Autodesk Maya is a professional 3D modeling and animation software used in the animation industry for creating sophisticated models, texturing, lighting, camera work, animation, dynamic particles, and visual effects.",
+  "course_outline": {
+    "module_1": {
+      "title": "3D Modeling and Animation Workflow",
+      "subjects": [
+        "Production and Different Types of Models",
+        "How to Create Appealing Models",
+        "Developing Interior and Placing Furniture",
+        "Color Separation and Mixing",
+        "Introduction to Industry and Virtual Real Films",
+        "Functions of Human Body for Animation",
+        "Creating Cloth and Hair",
+        "Maps and Materials",
+        "Final Touch and Texture Polishing",
+        "Quality Formats for Rendering"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Desktop Publishing",
+  "course_category": "Certificate Course",
+  "course_duration": "3 Months",
+  "department":"Multimedia",
+  "objective": "Print media has significantly evolved with the invention of media software. Raster, vector, and layout software are widely used in the printing and publishing industry. This course enables users to create various print media elements such as advertisements, books, newspaper ads, layouts for newspapers and magazines, and more.",
+  "course_outline": {
+    "module_1": {
+      "title": "Desktop Publishing Tools",
+      "subjects": [
+        "Adobe Photoshop",
+        "CorelDraw",
+        "Adobe InDesign"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course in Social Media Marketing With SEO",
+  "course_category": "Certificate Course",
+  "course_duration": "3 Months",
+  "department":"Multimedia",
+  "objective": "This course explores the fundamentals of social media advertising, including audience targeting, ad creation, bidding strategies, and performance tracking. It helps learners develop and manage successful ad campaigns across platforms like Facebook, Instagram, Twitter, and LinkedIn. It also covers comprehensive social media marketing strategies aligned with business goals, including audience analysis, competitor research, content planning, and measurable objectives. Additionally, the course provides a strong foundation in SEO principles, best practices, and techniques to optimize online presence and drive organic traffic.",
+  "course_outline": {
+    "module_1": {
+      "title": "Social Media Marketing Fundamentals",
+      "subjects": [
+        "Introduction to Digital Marketing",
+        "Social Media Marketing",
+        "Facebook Marketing",
+        "Instagram Marketing",
+        "WhatsApp Business",
+        "Canva",
+        "Google Business"
+      ]
+    },
+    "module_2": {
+      "title": "Search Engine Optimization and Digital Growth",
+      "subjects": [
+        "Introduction to Search Engine Optimization",
+        "On-Page & Off-Page Optimization",
+        "Keyword Research and Competition",
+        "Google Analytics",
+        "Introduction to PPC Marketing",
+        "Google Ads",
+        "Google AdSense",
+        "Affiliate Marketing",
+        "Conversion Rate Optimization (CRO)",
+        "Outbound and Inbound SMS Campaigns (SMS Marketing)",
+        "Blogging",
+        "Vlogging",
+        "Funnels"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course in Digital Arts",
+  "course_category": "Certificate Course",
+  "course_duration": "3 Months",
+  "department":"Multimedia",
+  "objective": "The course aims to familiarize beginners with essential digital painting software such as Adobe Photoshop, Krita, and Sketchbook. Students will learn how to navigate these tools and create digital artwork and perform basic animation using these software applications. As these are industry-standard tools, students will be able to create artwork for movies, games, and other creative industries.",
+  "course_outline": {
+    "module_1": {
+      "title": "Adobe Photoshop for Digital Art",
+      "subjects": [
+        "Introduction to Photoshop",
+        "Basic Image Editing",
+        "Selection Tools and Techniques",
+        "Working with Layers",
+        "Retouching",
+        "Filters and Effects",
+        "Text and Typography",
+        "Working with Shapes and Vectors",
+        "Layer Masks",
+        "Smart Objects",
+        "Photo Manipulation",
+        "Digital Art in Photoshop",
+        "Digital Painting Techniques"
+      ]
+    },
+    "module_2": {
+      "title": "Krita for Digital Painting",
+      "subjects": [
+        "Introduction to Krita",
+        "Basic Tools and Techniques",
+        "Digital Painting Fundamentals",
+        "Advanced Techniques",
+        "Textures and Patterns",
+        "Special Effects and Filters",
+        "Digital Illustration and Concept Art",
+        "Basic Animation Techniques",
+        "Animation Tools and Features",
+        "Workflow and Project Management"
+      ]
+    },
+    "module_3": {
+      "title": "Autodesk SketchBook for Illustration",
+      "subjects": [
+        "Introduction to Autodesk SketchBook",
+        "Sketching Fundamentals",
+        "Brushes and Brush Settings",
+        "Layer Management and Blending Modes",
+        "Color Theory and Color Tools",
+        "Digital Inking and Line Art",
+        "Digital Illustration and Concept Art",
+        "Textures and Patterns",
+        "Digital Painting Techniques",
+        "Composition and Perspective",
+        "Special Effects and Finishing Touches",
+        "Exporting and Sharing Artwork"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Graphic Designing",
+  "course_category": "Certificate Course",
+  "course_duration": "3 Months",
+  "department":"Multimedia",
+  "objective": "This 3-month course teaches students graphic design using Adobe Photoshop, Illustrator, and InDesign. Through hands-on projects, students will develop design skills, technical expertise, and aesthetic sense. The course also covers Adobe Creative Cloud and Behance for portfolio building and professional networking.",
+  "course_outline": {
+    "modules": [
+      {
+        "module": "Module I",
+        "subject": "Adobe Photoshop (Essentials)"
+      },
+      {
+        "module": "Module II",
+        "subject": "Adobe Illustrator (Essentials)"
+      },
+      {
+        "module": "Module III",
+        "subject": "Adobe InDesign (Essentials)"
+      },
+      {
+        "module": "Module IV",
+        "subject": "Adobe Creative Cloud (Essentials)"
+      },
+      {
+        "module": "Module V",
+        "subject": "Behance (Essentials)"
+      }
+    ]
+  }
+},
+{
+  "course_name": "Certificate Course In Advanced Adobe Photoshop",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"Multimedia",
+  "objective": "Adobe Photoshop is a premium image editing software widely used in the industry for various image editing tasks such as prepress work, digital photography, and web page design. It is considered a foundational platform software for multiple media technology courses.",
+  "course_outline": {
+    "module_1": {
+      "title": "Adobe Photoshop Fundamentals and Advanced Techniques",
+      "subjects": [
+        "Introduction to Photoshop",
+        "Importance of CMYK in Printing",
+        "Tools",
+        "Saving Images",
+        "Creating and Editing Gradient",
+        "Adding Text",
+        "Applying Effects to Images",
+        "Working with Masking"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course in Nuke",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"Multimedia",
+  "objective": "This course focuses on understanding the concepts and techniques of compositing using Nuke.",
+  "course_outline": {
+    "module_1": {
+      "title": "Nuke Compositing Fundamentals",
+      "subjects": [
+        "Interface and Workspace",
+        "Nodes and Node-Based Compositing",
+        "Image Import and File Handling",
+        "Compositing Techniques",
+        "Transformations and Tracking",
+        "Channel Manipulation and Mattes",
+        "3D Integration",
+        "Rotoscoping and Paint",
+        "Animation and Time-Based Effects",
+        "Rendering and Output"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In SEO",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"Multimedia",
+  "objective": "This course equips students with the knowledge, skills, and strategies necessary to improve the visibility and organic rankings of websites or webpages in search engine results. It provides a comprehensive understanding of SEO principles, best practices, and techniques to optimize online presence and drive targeted organic traffic to websites.",
+  "course_outline": {
+    "module_1": {
+      "title": "SEO and Digital Marketing Fundamentals",
+      "subjects": [
+        "Introduction to Search Engine Optimization",
+        "On-Page & Off-Page Optimization",
+        "Keyword Research and Competition",
+        "Google Analytics",
+        "Introduction to PPC Marketing",
+        "Google AdWords",
+        "Google AdSense",
+        "Affiliate Marketing",
+        "Conversion Rate Optimization (CRO)",
+        "Outbound and Inbound SMS Campaigns (SMS Marketing)",
+        "Blogging",
+        "Vlogging",
+        "Funnels"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In DaVinci Resolve",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"Multimedia",
+  "objective": "The objective of the DaVinci Resolve course is to introduce users to the fundamental functionalities of the software, including editing, color correction, audio manipulation, compositing, and project delivery.",
+  "course_outline": {
+    "module_1": {
+      "title": "DaVinci Resolve Fundamentals",
+      "subjects": [
+        "Introduction to DaVinci Resolve",
+        "Interface Overview",
+        "Media Import and Management",
+        "Timeline and Basic Editing",
+        "Adding Effects and Transitions",
+        "Color Grading Fundamentals",
+        "Secondary Color Corrections",
+        "Introduction to Fairlight Audio",
+        "Audio Mixing and Effects",
+        "Fusion Effects and Compositing",
+        "Finalizing and Exporting"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Advanced After Effects",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"Multimedia",
+  "objective": "The Advanced Adobe After Effects course is designed to take students' After Effects skills to a higher level of proficiency. It builds upon foundational knowledge and focuses on advanced techniques, creative applications, and real-world projects.",
+  "course_outline": {
+    "module_1": {
+      "title": "After Effects Fundamentals",
+      "subjects": [
+        "Introduction to After Effects",
+        "Creating Compositions",
+        "Basic Animation Techniques",
+        "Working with Text and Shape Layers",
+        "Applying Effects and Presets",
+        "Masking and Rotoscoping",
+        "Introduction to 3D Space",
+        "Pre-Compositions and Nesting",
+        "Introduction to Expressions",
+        "Rendering and Exporting"
+      ]
+    },
+    "module_2": {
+      "title": "Advanced After Effects Techniques",
+      "subjects": [
+        "Advanced Animation Techniques",
+        "Motion Tracking and Stabilization",
+        "Green Screen and Compositing",
+        "Particle Systems and Simulation",
+        "Advanced Effects and Plugins",
+        "Color Correction and Grading",
+        "Advanced Rendering and Optimization"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Advanced Photoshop With AI",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"Multimedia",
+  "objective": "This course provides students with comprehensive knowledge and practical skills in professional photo editing. By the end of the course, students will be able to proficiently use a wide range of tools and techniques in Photoshop, including image manipulation, selection, retouching, compositing, and typography. The course also focuses on producing high-quality, visually appealing edited photographs.",
+  "course_outline": {
+    "module_1": {
+      "title": "Advanced Photoshop Techniques",
+      "subjects": [
+        "Introduction to Photoshop and Basic Image Manipulation",
+        "Selection Techniques and Retouching Tools for Precise Editing",
+        "Image Adjustment and Enhancement Using Levels, Curves, and Color Balance",
+        "Layers and Advanced Masking Techniques for Complex Compositions",
+        "Advanced Retouching and Restoration Techniques for Professional Results",
+        "Photo Compositing and Creative Effects Using Blending Modes and Filters",
+        "Automation and Workflow Optimization with Actions and Batch Processing",
+        "Customizing Brushes and Utilizing Adobe Bridge for File Management",
+        "Exporting Images for Various Platforms and Formats",
+        "Final Project and Review of Advanced Techniques"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Autodesk Sketchbook",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "Understand the fundamentals of digital art using Autodesk Sketchbook.",
+  "course_outline": {
+    "module_1": {
+      "title": "Autodesk Sketchbook Fundamentals",
+      "subjects": [
+        "Introduction to Autodesk Sketchbook",
+        "Sketching Fundamentals",
+        "Brushes and Brush Settings",
+        "Layer Management and Blending Modes",
+        "Color Theory and Color Tools",
+        "Digital Inking and Line Art",
+        "Digital Illustration and Concept Art",
+        "Textures and Patterns",
+        "Digital Painting Techniques",
+        "Composition and Perspective",
+        "Special Effects and Finishing Touches",
+        "Exporting and Sharing Artwork"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In E-Marketing",
+  "course_category": "Certificate Course",
+  "course_duration": "15 Days",
+  "department":"Multimedia",
+  "objective": "This course explores the fundamentals of social media advertising, including audience targeting, ad creation, bidding strategies, and performance tracking. It helps learners understand how to develop and manage successful ad campaigns on platforms like Facebook, Instagram, and WhatsApp.",
+  "course_outline": {
+    "module_1": {
+      "title": "E-Marketing Fundamentals",
+      "subjects": [
+        "Introduction to Digital Marketing",
+        "Social Media Marketing",
+        "Facebook Marketing",
+        "Instagram Marketing",
+        "WhatsApp Business",
+        "Canva",
+        "Google Business"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Krita",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "Learn digital painting and animation using the software Krita.",
+  "course_outline": {
+    "module_1": {
+      "title": "Krita Fundamentals",
+      "subjects": [
+        "Introduction to Krita",
+        "Basic Tools and Techniques",
+        "Digital Painting Fundamentals",
+        "Advanced Techniques",
+        "Textures and Patterns",
+        "Special Effects and Filters",
+        "Digital Illustration and Concept Art",
+        "Basic Animation Techniques",
+        "Animation Tools and Features",
+        "Workflow and Project Management"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Adobe Audition",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "Adobe Audition (formerly Cool Edit Pro) is a digital audio workstation from Adobe Systems featuring both multitrack non-destructive mixing/editing and waveform-based destructive editing. It is used for professional audio production, editing, and post-production workflows.",
+  "course_outline": {
+    "module_1": {
+      "title": "Adobe Audition Fundamentals",
+      "subjects": [
+        "Introduction to Adobe Audition",
+        "Workspace and Setup",
+        "Digital Audio Fundamentals",
+        "Importing, Recording, and Playing",
+        "Applying Effects",
+        "Effects Reference",
+        "Mixing Multitrack Sessions",
+        "Video and Surround Sound",
+        "Keyboard Shortcuts",
+        "Saving and Exporting"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Social Media Marketing",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "This course explores the fundamentals of social media advertising, including audience targeting, ad creation, bidding strategies, and performance tracking. It helps learners understand how to develop and manage successful ad campaigns on platforms like Facebook, Instagram, and WhatsApp.",
+  "course_outline": {
+    "module_1": {
+      "title": "Social Media Marketing Fundamentals",
+      "subjects": [
+        "Introduction to Digital Marketing",
+        "Social Media Marketing",
+        "Facebook Marketing",
+        "Instagram Marketing",
+        "WhatsApp Business",
+        "Canva",
+        "Google Business"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In ZBrush",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "This software is designed to make 3D modeling fun and easy. It is specifically designed to cater to the 3D animation and gaming industry's need for smooth and detailed polygon meshes.",
+  "course_outline": {
+    "module_1": {
+      "title": "ZBrush Fundamentals and Sculpting",
+      "subjects": [
+        "Introduction to ZBrush Interface",
+        "Creating 3D Shapes and Objects Using Z-Paint Tools",
+        "Modeling and Sculpting with Z-Spheres",
+        "Modeling and Designing with Q-Mesh Using Z-Modeler Tool",
+        "Modeling and Designing Using Shadowbox",
+        "Creating Layers and Managing Them",
+        "Creating Sub-Meshes in Layers",
+        "Texturing and Lighting",
+        "Creating Texture Maps and Painting the Mesh with Materials",
+        "Rendering and Exporting Meshes to Other 3D Software"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Photography",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "Objective photography is an impersonal image not influenced by feelings, interpretations, or prejudice. It aims to create an unbiased photographic image or documentary. Photographers may point and shoot to create objective pictures or adjust image properties to make them subjective. The difference lies in intent, angle, tone, and color, where objective photography represents reality and subjective photography reflects the photographer's perspective.",
+  "course_outline": {
+    "module_1": {
+      "title": "Photography Fundamentals",
+      "subjects": [
+        "History of Photography",
+        "Introduction to Digital Photography",
+        "Introduction to the Functionalities of a Camera",
+        "Introduction to Creative Photography",
+        "Working with Lights for Photography",
+        "Special Techniques",
+        "Product Photography"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Adobe Lightroom",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "Adobe Lightroom is a photo processor and image organizer developed by Adobe Systems. It allows users to view, organize, and retouch large numbers of digital images. Lightroom provides non-destructive editing capabilities for professional photo workflows.",
+  "course_outline": {
+    "module_1": {
+      "title": "Adobe Lightroom Fundamentals",
+      "subjects": [
+        "Introduction to Adobe Photoshop Lightroom",
+        "Managing Images in Adobe Photoshop Lightroom",
+        "Becoming Familiar with the Workspace",
+        "Importing Images",
+        "Organizing Images in Lightroom",
+        "Editing and Adjusting Images",
+        "Photobooks",
+        "Creating Slideshows",
+        "Printing Images",
+        "Publishing to the Web",
+        "Keeping Your Images and Data Safe"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In CorelDRAW",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "CorelDRAW is a popular vector graphic tool in the media industry. Its user-friendly interface, tools, and options make vector graphic designing easy for designers. It is widely used for all kinds of pre-press designing work.",
+  "course_outline": {
+    "module_1": {
+      "title": "CorelDRAW Fundamentals",
+      "subjects": [
+        "Introduction to Corel Draw",
+        "Tool Bars",
+        "Applying Colors",
+        "Applying Strokes",
+        "Working with Text",
+        "Working with Images",
+        "Masking",
+        "Creating Objects Using Interactive Mesh",
+        "Working with Print Dialog",
+        "Publishing to PDF",
+        "Search Capability in Corel CONNECT"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Adobe InDesign",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "This course enables users to specialize in graphical outputs such as layouts, digital photo editing, graphic design, and pre-press work. It focuses on creating brochures, cards, magazine layouts, and other professional publishing materials.",
+  "course_outline": {
+    "module_1": {
+      "title": "Adobe InDesign Fundamentals",
+      "subjects": [
+        "Introduction to InDesign",
+        "Creating New Artworks",
+        "Creating Objects",
+        "Saving and Loading Selections",
+        "Working with Text",
+        "Masking",
+        "Creating New Symbols",
+        "Saving as PDF"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Adobe PageMaker",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "PageMaker is a layout program designed for publication design and page layout work. It provides tools for creating professional publications and supports both general users and page-layout artists in developing print and digital publishing materials.",
+  "course_outline": {
+    "module_1": {
+      "title": "Page Layout and Publishing Fundamentals",
+      "subjects": [
+        "Introduction to Publishing",
+        "Introduction to PageMaker",
+        "Placing and Manipulating Text",
+        "Importing and Manipulating Graphics",
+        "Integrating Text and Graphics",
+        "Creating Templates",
+        "Using Templates",
+        "Working with Graphics",
+        "Defining Colors",
+        "Graphic Formats",
+        "Contrast and Halftones Printing",
+        "Document Setup",
+        "Color Management",
+        "Trapping",
+        "Advanced Printing",
+        "Electronic Publishing",
+        "Creating Acrobat PDF Files",
+        "HTML Export",
+        "Exporting HTML"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Adobe Photoshop",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "Adobe Photoshop is a leading image editing and compositing software used in the industry. It helps users create accurate compositions and visual effects using tools such as layers, lighting, and camera-based effects for professional image editing and design work.",
+  "course_outline": {
+    "module_1": {
+      "title": "Adobe Photoshop Fundamentals",
+      "subjects": [
+        "Introduction to Photoshop",
+        "Importance of CMYK in Printing",
+        "Tools",
+        "Saving Images",
+        "Creating and Editing Gradient",
+        "Adding Text",
+        "Applying Effects to Images",
+        "Working with Masking",
+        "Creating a Web Photo Gallery"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Adobe After Effects",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "Adobe After Effects is one of the leading video compositing tools in the industry. It helps users create accurate compositions and visual effects using tools such as lights, cameras, and advanced compositing features.",
+  "course_outline": {
+    "module_1": {
+      "title": "After Effects Fundamentals",
+      "subjects": [
+        "Introduction to Post Production",
+        "How to Work in Film Industry",
+        "Matte Painting Practice",
+        "Introduction to Software",
+        "Introduction to Live Action Movies",
+        "Rotoscopy (Masking)",
+        "About Camera and Object Tracking"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Adobe Illustrator",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "Adobe Illustrator is a powerful vector graphic tool used for creating vector and semi-vector graphics for sophisticated designs and models. It offers a wide range of tools and instruments for professional design work and is widely used for creating print-ready vector graphics.",
+  "course_outline": {
+    "module_1": {
+      "title": "Adobe Illustrator Fundamentals",
+      "subjects": [
+        "Introduction to Illustrator",
+        "Creating New Artworks",
+        "Creating Objects",
+        "Saving and Loading Selections",
+        "Working with Text",
+        "Masking",
+        "Creating New Symbols",
+        "Saving as PDF"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Adobe Dreamweaver",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "Adobe Dreamweaver is an Integrated Development Environment (IDE) tool used for web design and development. It allows live preview of frontend changes while coding and helps visualize web content effectively.",
+  "course_outline": {
+    "module_1": {
+      "title": "Web Design and Development Basics",
+      "subjects": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Dreamweaver Designing Tool"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In V-Ray",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "In this course, participants learn how to use V-Ray in 3DS Max to create photorealistic and artistic scenes including exterior, interior day rendering, and interior night rendering. The course focuses on key rendering techniques used in professional 3D visualization workflows.",
+  "course_outline": {
+    "module_1": {
+      "title": "V-Ray Rendering Fundamentals",
+      "subjects": [
+        "Getting Ready to Render with V-Ray",
+        "Critical V-Ray Concepts",
+        "Key Lighting Tools",
+        "Global Illumination",
+        "V-Ray Materials",
+        "Quality Control with Image Sampling",
+        "Physical Workflow",
+        "V-Ray Effects Tools",
+        "Using Render Elements",
+        "V-Ray RT"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Adobe Animate",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "Adobe Animate is a next-generation authoring and presentation tool widely used in the industry. It is an essential tool for 2D animation and interactive content creation, enabling professionals to design animations, presentations, and web-based media.",
+  "course_outline": {
+    "module_1": {
+      "title": "Adobe Animate Fundamentals",
+      "subjects": [
+        "Introduction to Animate",
+        "Tools",
+        "Creating Animation",
+        "Creating Movie Clips",
+        "Primary and Secondary Animation",
+        "Web Banner Advertisement"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Edius",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "EDIUS Workgroup 8 is a professional video editing software designed to improve editing efficiency and workflow. It allows users to focus on editing rather than rendering or conforming, with support for advanced project handling and real-time editing features.",
+  "course_outline": {
+    "module_1": {
+      "title": "EDIUS Video Editing Fundamentals",
+      "subjects": [
+        "Screen Configuration and Functions",
+        "Timeline Window",
+        "Bin Window",
+        "Window Layout",
+        "Creating and Exiting Project",
+        "Importing Sources",
+        "Editing Operations",
+        "Clip Composition",
+        "Setting In and Out Points to Timeline",
+        "Playing Back Timeline",
+        "Creating Color Bar and Color Matte",
+        "Editing Modes",
+        "Trimming a Clip",
+        "Tracks",
+        "Sequence",
+        "Time Adjustment on Clips",
+        "Audio Editing",
+        "Effects",
+        "Title",
+        "Export",
+        "Restoring Offline Clips",
+        "Consolidating Project",
+        "Editing in Multicam Mode",
+        "Adding Plug-ins"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course In Adobe XD",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Multimedia",
+  "objective": "This course helps learners understand the potential of Adobe XD and how to start their own UI/UX design projects. Adobe XD is widely used for UI/UX design and prototyping, allowing users to create, test, and preview complete application interfaces for web and mobile experiences.",
+  "course_outline": {
+    "module_1": {
+      "title": "Adobe XD UI/UX Design Fundamentals",
+      "subjects": [
+        "Introduction to Adobe Experience Design (XD)",
+        "Setting up a Project",
+        "UI Kits",
+        "Creating Graphics in Adobe Experience Design",
+        "Adding Text to Your Design",
+        "Adding Assets from Other Sources",
+        "Creating Accurate Layouts",
+        "Responsive Resize",
+        "Prototyping – Adding Interactivity",
+        "Testing Your Project",
+        "Sharing Your Project",
+        "Export Project and Assets",
+        "Designing and Prototyping Your Own Project"
+      ]
+    }
+  }
+}
+]

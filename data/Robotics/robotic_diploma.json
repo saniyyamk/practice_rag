@@ -1,0 +1,153 @@
+
+[{
+  "course_name": "Professional Course in Robotics",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Robotics",
+  "objective": "Robotics is a branch of engineering focused on creating and operating robots and other machines that can work on their own or under guidance. In this course, students learn in-depth knowledge of how robots are designed, programmed, and used in real life, along with the basics of automation and sensors.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Fundamentals of Robotics and Electronics",
+      "topics": [
+        "Introduction to Robotics",
+        "Basic Electronics",
+        "Electronics Circuit",
+        "Simulation – TinkerCAD",
+        "Fritzing Software",
+        "Breadboard Basics and Wiring"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Programming and Arduino",
+      "topics": [
+        "Programming Basics",
+        "Arduino Board",
+        "Arduino Software - Arduino IDE",
+        "Arduino IDE Installation and Configuration",
+        "Conditional Statements and Loops",
+        "Sensors",
+        "Relays",
+        "16x2 LCD Module",
+        "Real-Time Projects"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Embedded Systems and Components",
+      "topics": [
+        "NodeMCU ESP8266",
+        "GSM Module",
+        "Bluetooth Module",
+        "16x2 I2C LCD Display",
+        "Flame Sensor",
+        "MQ Series Sensors",
+        "RTC Module",
+        "Gyroscope",
+        "Servo Motor",
+        "L293D Motor Driver Module",
+        "BO Motor"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Robot Development Projects",
+      "topics": [
+        "MIT App Inventor",
+        "Obstacle Avoiding Robot",
+        "Line Following Robot",
+        "Fire Fighting Robot",
+        "Maze Solver Robot",
+        "Bluetooth Controlled Robot",
+        "Edge Detection Robot"
+      ]
+    },
+    {
+      "module": 5,
+      "title": "Simulation and PCB Design",
+      "topics": [
+        "Proteus Simulation",
+        "KiCad PCB Layout Software"
+      ]
+    },
+    {
+      "module": 6,
+      "title": "IoT and Advanced Programming",
+      "topics": [
+        "MicroPython Programming",
+        "Raspberry Pi",
+        "IoT NodeMCU",
+        "ESP32-CAM"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Advanced Course in Robotics",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Robotics",
+  "objective": "Robotics is a branch of engineering that involves the conception, design, manufacture, and operation of robots. The objective of learning a Diploma in Robotics is to provide participants with a comprehensive and in-depth understanding of the field of robotics. The diploma program aims to equip individuals with the knowledge, skills, and practical experience necessary to pursue a career in robotics engineering or related fields.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Fundamentals of Robotics and Electronics",
+      "topics": [
+        "Introduction to Robotics",
+        "Basic Electronics",
+        "Electronics Circuit",
+        "Simulation - TinkerCAD",
+        "Fritzing Software",
+        "Breadboard Basics and Wiring"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Programming and Arduino",
+      "topics": [
+        "Programming Basics",
+        "Arduino Board",
+        "Arduino Software - Arduino IDE",
+        "Arduino IDE Installation and Configuration",
+        "Conditional Statements and Loops",
+        "Sensors",
+        "Relays",
+        "16x2 LCD Module",
+        "Real-Time Projects"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Embedded Systems and IoT Components",
+      "topics": [
+        "MIT App Inventor",
+        "NodeMCU ESP8266",
+        "GSM Module",
+        "Bluetooth Module",
+        "16x2 I2C LCD Display",
+        "Flame Sensor",
+        "MQ Series Sensors",
+        "RTC Module",
+        "Gyroscope",
+        "Servo Motor",
+        "L293D Motor Driver Module",
+        "BO Motor"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Robotics Projects",
+      "topics": [
+        "Obstacle Avoiding Robot",
+        "Line Following Robot",
+        "Fire Fighting Robot",
+        "Maze Solver Robot",
+        "Bluetooth Controlled Robot",
+        "Edge Detection Robot"
+      ]
+    }
+  ]
+}
+]

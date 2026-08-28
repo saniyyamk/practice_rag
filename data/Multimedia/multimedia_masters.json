@@ -1,0 +1,626 @@
+[{
+  "course_name": "Master Diploma in Film Making",
+  "course_category": "Master Courses",
+  "course_duration": "10 Months",
+  "department":"Multimedia",
+  "objective": "Digital filmmaking course helps students fulfill their ambition in the field of filmmaking by providing comprehensive training in film production. It enables learners to create short films, documentaries, photography portfolios, and storyboards while developing strong creative and technical filmmaking skills.",
+  "course_outline": {
+    "module_1": {
+      "title": "Film and Cinema Fundamentals",
+      "subjects": [
+        "MS Office",
+        "Introduction to Film and Television",
+        "Art and Visual Perception",
+        "Acting for Theater and Cinema",
+        "Indian Cinema and World Cinema",
+        "Understanding Different Aspects of Cinema"
+      ]
+    },
+    "module_2": {
+      "title": "Pre-Production and Design",
+      "subjects": [
+        "Adobe Photoshop",
+        "Adobe InDesign",
+        "Adobe Illustrator",
+        "Corel Draw",
+        "Pencil Drawing",
+        "Developing an Idea",
+        "Script and Screenplay",
+        "Storyboard and Shooting Script",
+        "Dialogue for Cinema",
+        "Image and Sound Component of a Screenplay"
+      ]
+    },
+    "module_3": {
+      "title": "Production Techniques",
+      "subjects": [
+        "DSLR Camera",
+        "Lighting Equipment",
+        "Studio Setup",
+        "Green Screen",
+        "Microphones and Recording Equipment",
+        "Production for Multimedia and Animation",
+        "Photography",
+        "Live Sound Recording and Sync Sound"
+      ]
+    },
+    "module_4": {
+      "title": "Post Production and VFX",
+      "subjects": [
+        "Adobe Lightroom (Advanced)",
+        "Adobe After Effects",
+        "Adobe Premiere Pro",
+        "Adobe Audition",
+        "Editing Principles",
+        "Sound Designing, Sound Mixing, SFX and Dubbing",
+        "VFX and Animation",
+        "Tracking and Placement of Footage and Elements",
+        "2D Point Tracking",
+        "3D Camera Solve",
+        "Planar Tracking",
+        "Object Tracking",
+        "Facial Tracking",
+        "Motion Capture",
+        "Poster Designing",
+        "Tools Used"
+      ]
+    },
+    "module_5": {
+      "title": "Practical Training",
+      "subjects": [
+        "Live Project"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Master Diploma in Film Making with FCP",
+  "course_category": "Master Courses",
+  "course_duration": "11 Months",
+  "department":"Multimedia",
+  "objective": "Digital filmmaking course helps students fulfill their ambition in the field of filmmaking by providing comprehensive training in the filmmaking process. It enables learners to create short films, documentaries, photography portfolios, and storyboards while developing strong creative and technical production skills.",
+  "course_outline": {
+    "module_1": {
+      "title": "Film and Cinema Fundamentals",
+      "subjects": [
+        "MS Office",
+        "Introduction to Film and Television",
+        "Art and Visual Perception",
+        "Acting for Theater and Cinema",
+        "Indian Cinema and World Cinema",
+        "Understanding Different Aspects of Cinema"
+      ]
+    },
+    "module_2": {
+      "title": "Pre-Production and Design",
+      "subjects": [
+        "Adobe Photoshop",
+        "Adobe InDesign",
+        "Adobe Illustrator",
+        "Corel Draw",
+        "Pencil Drawing",
+        "Developing an Idea",
+        "Script and Screenplay",
+        "Storyboard and Shooting Script",
+        "Dialogue for Cinema",
+        "Image and Sound Component of a Screenplay"
+      ]
+    },
+    "module_3": {
+      "title": "Production Techniques",
+      "subjects": [
+        "DSLR Camera",
+        "Lighting Equipment",
+        "Studio",
+        "Green Screen",
+        "Microphones and Recording Equipment",
+        "Production for Multimedia and Animation",
+        "Photography",
+        "Live Sound Recording and Sync Sound"
+      ]
+    },
+    "module_4": {
+      "title": "Post Production and Editing with FCP",
+      "subjects": [
+        "Adobe Lightroom (Advanced)",
+        "Adobe After Effects",
+        "Final Cut Pro X (FCP)",
+        "Pro Tools 12",
+        "Editing Principles",
+        "Sound Designing, Sound Mixing, SFX and Dubbing",
+        "VFX and Animation",
+        "Tracking and Placement of Footage and Elements",
+        "2D Point Tracking",
+        "3D Camera Solve",
+        "Planar Tracking",
+        "Object Tracking",
+        "Facial Tracking",
+        "Motion Capture",
+        "Poster Designing",
+        "Tools Used"
+      ]
+    },
+    "module_5": {
+      "title": "Practical Training",
+      "subjects": [
+        "Live Project"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Master Diploma in Digital Animation",
+  "course_category": "Master Courses",
+  "course_duration": "14 Months",
+  "department":"Multimedia",
+  "objective": "The Master Animation program provides a balance of creative and technical skills necessary for success in animation production. Students gain a strong foundation in both traditional and computer-based animation while understanding the history and evolution of the medium. The program is designed to develop industry-ready skills through structured learning and hands-on creative production experience.",
+  "course_outline": {
+    "module_1": {
+      "title": "Graphics Design",
+      "subjects": [
+        "Adobe Photoshop",
+        "Adobe InDesign",
+        "Adobe Illustrator",
+        "CorelDraw",
+        "Adobe Lightroom"
+      ]
+    },
+    "module_2": {
+      "title": "2D, 3D & VFX Production",
+      "theory": [
+        "Concept of Animation",
+        "Animation Movie Making",
+        "Principles of Animation",
+        "Introduction to Digital Animation",
+        "Pre-Production",
+        "Production",
+        "Post-Production"
+      ],
+      "2d_tools": [
+        "Adobe Animate",
+        "Adobe Character Animator"
+      ],
+      "3d_tools": [
+        "Autodesk 3ds Max",
+        "Blender"
+      ],
+      "vfx_tools": [
+        "Nuke",
+        "Adobe After Effects"
+      ]
+    },
+    "module_3": {
+      "title": "Digital Compositing & Editing (Post-Production)",
+      "subjects": [
+        "Adobe Premiere Pro",
+        "Adobe Audition"
+      ]
+    },
+    "module_4": {
+      "title": "Final Project",
+      "subjects": [
+        "Multimedia Final Project"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Master Diploma in Digital Marketing",
+  "course_category": "Master Courses",
+  "department":"Multimedia",
+  "course_duration": "12 Months (+1 Month Internship)",
+  "objective": "The objective of the Master Diploma in Digital Marketing is to equip learners with in-depth knowledge and hands-on skills in the dynamic and fast-evolving field of digital marketing. The program develops proficiency in SEO, SEM, SMM, content marketing, email marketing, web analytics, e-commerce strategies, and online reputation management. By the end of the course, learners will be capable of planning, executing, and managing result-driven digital marketing strategies aligned with current industry practices and tools.",
+  "course_outline": {
+    "module_1": {
+      "title": "AI and Design Tools",
+      "subjects": [
+        "Leonardo AI",
+        "Looka",
+        "Canva",
+        "VN Video Editor"
+      ]
+    },
+    "module_2": {
+      "title": "Digital Marketing Fundamentals",
+      "subjects": [
+        "Introduction to Digital Marketing",
+        "Social Media Marketing",
+        "Brand Management",
+        "Marketing Funnel / Customer Journey",
+        "Facebook Marketing",
+        "Instagram Marketing",
+        "YouTube Marketing",
+        "LinkedIn Marketing",
+        "X (Twitter) Marketing",
+        "Pinterest Marketing",
+        "Email Marketing",
+        "WhatsApp Marketing",
+        "Meta Marketing",
+        "Project"
+      ]
+    },
+    "module_3": {
+      "title": "AI Integrated Design & Video Tools",
+      "subjects": [
+        "AI Integrated Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe Premiere Pro"
+      ]
+    },
+    "module_4": {
+      "title": "Web Development for Marketing",
+      "subjects": [
+        "HTML",
+        "WordPress",
+        "WooCommerce",
+        "SEO Basics for Website Design",
+        "Landing Page Creation and Settings",
+        "Domain Hosting",
+        "Performance Marketing",
+        "Content Marketing",
+        "AI Tools for Content Marketing (ChatGPT, Gemini, Grok, DeepSeek, Anyword, Copy.ai)",
+        "Social Media Tools for Content Scheduling and Performance Analysis (Hootsuite, Sprout Social, ManyChat)"
+      ]
+    },
+    "module_5": {
+      "title": "SEO and SEM",
+      "subjects": [
+        "Introduction to Search Engine Optimization (SEO)",
+        "On-page Optimization",
+        "Off-page Optimization",
+        "Google Business Profile",
+        "Google Tag Manager",
+        "Keyword Research and Competition",
+        "Google Analytics",
+        "Google Search Console",
+        "PPC Marketing",
+        "Search Engine Marketing (SEM)",
+        "Google AdWords",
+        "Google AdSense",
+        "Ecommerce Marketing",
+        "Affiliate Marketing",
+        "Conversion Rate Optimization (CRO)"
+      ]
+    },
+    "module_6": {
+      "title": "SEO Tools and AI Content Writing",
+      "subjects": [
+        "SEO Free Tools",
+        "SEO Paid Tools",
+        "Content Writing Using AI Tools"
+      ]
+    },
+    "module_7": {
+      "title": "Advanced Optimization Techniques",
+      "subjects": [
+        "Answer Engine Optimization (AEO)",
+        "Generative Engine Optimization (GEO)",
+        "Artificial Intelligence Optimization (AIO)"
+      ]
+    },
+    "module_8": {
+      "title": "Growth and Content Marketing",
+      "subjects": [
+        "Growth Hacking",
+        "Video Marketing",
+        "Influencer Marketing",
+        "Blogging",
+        "Vlogging",
+        "Funnels"
+      ]
+    },
+    "module_9": {
+      "title": "Analytics and Reporting",
+      "subjects": [
+        "Digital Marketing Analytics",
+        "Looker Studio",
+        "NotebookLM"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Master Diploma in Game Development",
+  "course_category": "Master Courses",
+  "course_duration": "14 Months",
+  "department":"Multimedia",
+  "objective": "Master Diploma in Game Development is an intensive program covering the full game development pipeline from concept art to final production. Students learn core skills such as drawing, digital painting, 3D modeling, sculpting, animation, and texturing using tools like Photoshop, Blender, Maya, ZBrush, and Substance Painter. The course also includes game development in Unreal Engine with a focus on C++ programming, enabling hands-on experience in creating interactive real-time gameplay systems.",
+  "course_outline": {
+    "module_1": {
+      "title": "Introduction to Game Design & Concept Art",
+      "subjects": [
+        "Game Design Overview & Pipeline",
+        "History of Arts",
+        "Artistic Analysis",
+        "Traditional Drawing",
+        "Perspective Drawing",
+        "Observation Drawing",
+        "Volumes and Lights",
+        "Painting",
+        "Still Life",
+        "Anatomy",
+        "Composition",
+        "Storyboards"
+      ]
+    },
+    "module_2": {
+      "title": "Photoshop for Digital Painting, Texturing & Concept Art",
+      "subjects": [
+        "Adobe Photoshop"
+      ]
+    },
+    "module_3": {
+      "title": "Illustrator",
+      "subjects": [
+        "Adobe Illustrator"
+      ]
+    },
+    "module_4": {
+      "title": "Blender",
+      "subjects": [
+        "Blender"
+      ]
+    },
+    "module_5": {
+      "title": "Autodesk Maya",
+      "subjects": [
+        "Autodesk Maya"
+      ]
+    },
+    "module_6": {
+      "title": "ZBrush",
+      "subjects": [
+        "ZBrush"
+      ]
+    },
+    "module_7": {
+      "title": "Substance Painter",
+      "subjects": [
+        "Substance Painter"
+      ]
+    },
+    "module_8": {
+      "title": "Unreal Engine Design & Development",
+      "subjects": [
+        "Unreal Engine"
+      ]
+    },
+    "module_9": {
+      "title": "Final Project",
+      "subjects": [
+        "Game Development Final Project"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Professional Diploma in Extended Reality (XR) Development",
+  "course_category": "Master Courses",
+  "course_duration": "12 Months",
+  "department":"Multimedia",
+  "objective": "This program provides students with a comprehensive and practical foundation in digital painting, 3D modeling, texturing, and real-time game development using industry-standard tools such as Photoshop, Blender, Maya, Substance Painter, Unreal Engine, and Unity. It also introduces the fundamentals of Unity programming and the development of immersive Extended Reality (XR) experiences. By the end of the course, students will be able to conceptualize, design, and develop interactive game environments and XR media, culminating in a final game development project showcasing a full production pipeline from concept art to immersive gameplay.",
+  "course_outline": {
+    "module_1": {
+      "title": "Photoshop for Digital Painting, Texturing & Concept Art",
+      "subjects": [
+        "Adobe Photoshop"
+      ]
+    },
+    "module_2": {
+      "title": "Blender",
+      "subjects": [
+        "Blender"
+      ]
+    },
+    "module_3": {
+      "title": "Autodesk Maya",
+      "subjects": [
+        "Maya"
+      ]
+    },
+    "module_4": {
+      "title": "Substance Painter",
+      "subjects": [
+        "Substance Painter"
+      ]
+    },
+    "module_5": {
+      "title": "Unreal Engine",
+      "subjects": [
+        "Unreal Engine"
+      ]
+    },
+    "module_6": {
+      "title": "Basics of Unity",
+      "subjects": [
+        "Unity Basics"
+      ]
+    },
+    "module_7": {
+      "title": "Unity Programming",
+      "subjects": [
+        "Unity Programming"
+      ]
+    },
+    "module_8": {
+      "title": "Final Project",
+      "subjects": [
+        "Game Development Final Project"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Master Diploma in Game Designing",
+  "course_category": "Master Courses",
+  "course_duration": "12 Months",
+  "department":"Multimedia",
+  "objective": "The Master Diploma in Game Design is an intensive program designed to equip students with the essential skills and knowledge required for a successful career in the game design industry. The course covers traditional drawing, digital painting, 3D modeling, animation, sculpting, texturing, and game development using industry-standard tools. Students develop a complete understanding of the game design pipeline from concept art to final game production using Photoshop, Blender, Maya, ZBrush, Substance Painter, and Unreal Engine.",
+  "course_outline": {
+    "module_1": {
+      "title": "Introduction to Game Design & Concept Art",
+      "subjects": [
+        "Game Design Overview & Pipeline",
+        "History of Arts",
+        "Artistic Analysis",
+        "Traditional Drawing",
+        "Perspective Drawing",
+        "Observation Drawing",
+        "Volumes and Lights",
+        "Painting",
+        "Still Life",
+        "Anatomy",
+        "Composition",
+        "Storyboards"
+      ]
+    },
+    "module_2": {
+      "title": "Photoshop for Digital Painting, Texturing & Concept Art",
+      "subjects": [
+        "Adobe Photoshop"
+      ]
+    },
+    "module_3": {
+      "title": "Illustrator",
+      "subjects": [
+        "Adobe Illustrator"
+      ]
+    },
+    "module_4": {
+      "title": "Blender",
+      "subjects": [
+        "Blender"
+      ]
+    },
+    "module_5": {
+      "title": "Autodesk Maya",
+      "subjects": [
+        "Maya"
+      ]
+    },
+    "module_6": {
+      "title": "ZBrush",
+      "subjects": [
+        "ZBrush"
+      ]
+    },
+    "module_7": {
+      "title": "Substance Painter",
+      "subjects": [
+        "Substance Painter"
+      ]
+    },
+    "module_8": {
+      "title": "Unreal Engine",
+      "subjects": [
+        "Unreal Engine"
+      ]
+    },
+    "module_9": {
+      "title": "Final Project",
+      "subjects": [
+        "Game Development Final Project"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Master in New Media & Web Technology",
+  "course_category": "Master Courses",
+  "course_duration": "10 Months",
+  "department":"Multimedia",
+  "objective": "This multimedia program focuses on web and corporate media technologies. It prepares students for careers in web design, animation, multimedia authoring, and web programming. The course enables learners to build professional websites, portfolios, and interactive web applications using modern technologies and tools.",
+  "course_outline": {
+    "module_1": {
+      "title": "Web Design Fundamentals",
+      "subjects": [
+        "Introduction to Web Technologies",
+        "Adobe Photoshop",
+        "Adobe Dreamweaver",
+        "HTML5"
+      ]
+    },
+    "module_2": {
+      "title": "Frontend Development",
+      "subjects": [
+        "CSS3",
+        "Responsive Web Design with Bootstrap",
+        "JavaScript",
+        "jQuery and jQuery UI"
+      ]
+    },
+    "module_3": {
+      "title": "Web Animation and Backend Development",
+      "subjects": [
+        "Adobe Animate",
+        "PHP and MySQL",
+        "AJAX",
+        "XML",
+        "Web Hosting"
+      ]
+    },
+    "module_4": {
+      "title": "Final Project",
+      "subjects": [
+        "Project Development and Implementation"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Master Diploma in Animation and Multimedia",
+  "course_category": "Master Courses",
+  "course_duration": "10 Months",
+  "department":"Multimedia",
+  "objective": "The Master Animation program provides a balance of creative and technical skills necessary for success in animation production. Students gain a strong foundation in both traditional and computer-based animation while understanding the history and evolution of the medium. The program focuses on developing industry-ready skills through structured learning and creative production practice.",
+  "course_outline": {
+    "module_1": {
+      "title": "Graphics Design",
+      "subjects": [
+        "Adobe Photoshop",
+        "Adobe InDesign",
+        "Adobe Illustrator",
+        "CorelDraw",
+        "Adobe Lightroom"
+      ]
+    },
+    "module_2": {
+      "title": "Animation Fundamentals and Production",
+      "subjects": [
+        "Concept of Animation",
+        "Animation Movie Making",
+        "Principles of Animation",
+        "Introduction to Digital Animation",
+        "Pre-Production",
+        "Production",
+        "Post-Production"
+      ],
+      "2d_ultimate": [
+        "Adobe Animate",
+        "Adobe Character Animator"
+      ],
+      "3d_ultimate": [
+        "Autodesk 3ds Max",
+        "Blender"
+      ],
+      "vfx_ultimate": [
+        "Nuke",
+        "Adobe After Effects"
+      ]
+    },
+    "module_3": {
+      "title": "Post Production",
+      "subjects": [
+        "Adobe Premiere Pro",
+        "Adobe Audition"
+      ]
+    },
+    "module_4": {
+      "title": "Final Project",
+      "subjects": [
+        "Multimedia Final Project"
+      ]
+    }
+  }
+}
+]

@@ -1,0 +1,266 @@
+[{
+  "course_name": "Certificate in SAP ABAP (S/4 HANA)",
+  "course_category": "SAP Global Certification",
+  "course_duration": "4 Months",
+  "department":"SAP",
+  "objective": "The SAP ABAP course equips learners with skills to develop, customize, and enhance applications on the SAP platform using Advanced Business Application Programming (ABAP). It covers programming concepts, data dictionary, reporting, module pool programming, performance tuning, and integration techniques to enable efficient business application development and support real-time business processes.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "ABAP Fundamentals and Development Environment",
+      "topics": [
+        "Working with ABAP Development Environment",
+        "Basic techniques in ABAP language",
+        "Using ABAP SQL to access the database",
+        "Object Orientation in ABAP",
+        "Interfaces"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Code Optimization and Best Practices",
+      "topics": [
+        "Analyzing and Testing Code",
+        "Improving Internal Table Performance",
+        "Implementing Authorization Checks",
+        "Designing Effective Object-Oriented Code",
+        "Working with Exception Classes",
+        "Adding Documentation to ABAP Code"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Advanced SAP ABAP Development",
+      "topics": [
+        "CDS Views",
+        "ABAP RESTful Application Programming Model (RAP)",
+        "Transactional Apps",
+        "Extensibility"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Certificate in SAP Extended Warehouse Management (S/4 HANA)",
+  "course_category": "SAP Global Certification",
+  "course_duration": "3 Months",
+  "department":"SAP",
+  "objective": "This course provides a thorough understanding of SAP Extended Warehouse Management (EWM) in the S/4 HANA environment. It equips learners with skills to manage complex warehouse operations, optimize inventory movements, and integrate warehouse processes with supply chain execution. The program focuses on inbound and outbound processing, warehouse structure setup, resource and labour management, and advanced warehouse strategies using real-time data and automation to improve efficiency and accuracy.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "SAP EWM Fundamentals and Customizing",
+      "topics": [
+        "Basic Customizing in SAP Extended Warehouse Management",
+        "Resource Management in SAP Extended Warehouse Management",
+        "Customizing Additional Topics in SAP Extended Warehouse Management"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Advanced Warehouse Processes",
+      "topics": [
+        "Labour Management in SAP Extended Warehouse Management",
+        "Production Integration with SAP Extended Warehouse Management",
+        "Quality Management with SAP Extended Warehouse Management"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Certificate in SAP Human Capital Management (SAP S/4 HANA)",
+  "course_category": "SAP Global Certification",
+  "course_duration": "3 Months",
+  "department":"SAP",
+  "objective": "This course provides comprehensive knowledge and practical skills in managing Human Capital using SAP S/4HANA. It focuses on key HCM processes such as organizational management, personnel administration, time management, payroll, and talent management. Learners gain insights into SAP HCM integration with other SAP modules to improve HR efficiency, ensure compliance, and support strategic decision-making.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Human Capital Management Fundamentals",
+      "topics": [
+        "Management Administration"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "SAP S/4 HANA Applications",
+      "topics": [
+        "SAP S/4 HANA Asset Management"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Certificate in SAP ARIBA (S/4 HANA)",
+  "course_category": "SAP Global Certification",
+  "course_duration": "3 Months",
+  "department":"SAP",
+  "objective": "The SAP Ariba course provides learners with comprehensive knowledge and practical skills in using SAP Ariba solutions for strategic sourcing, procurement, supplier management, and contract management. It enables participants to streamline procurement processes, enhance supplier collaboration, ensure compliance, and achieve cost savings using SAP Ariba’s cloud-based procurement platform.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "SAP Ariba Fundamentals",
+      "topics": [
+        "SAP Ariba Procurement Overview"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "SAP Ariba Operations",
+      "topics": [
+        "Managing SAP Ariba Procurement"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Certificate in SAP SuccessFactors (S/4 HANA)",
+  "course_category": "SAP Global Certification",
+  "course_duration": "3 Months",
+  "department":"SAP",
+  "objective": "The SAP SuccessFactors course provides learners with comprehensive knowledge and practical skills in using SAP SuccessFactors for human capital management, including employee lifecycle management, talent management, and HR analytics. It enables participants to streamline HR processes, improve workforce efficiency, and support strategic HR decision-making using SAP’s cloud-based HR platform.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "SAP SuccessFactors Introduction",
+      "topics": [
+        "Introduction to SAP SuccessFactors and Platform"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "SAP SuccessFactors Operations",
+      "topics": [
+        "Managing SAP SuccessFactors"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Certificate in SAP Finance and Control (S/4 HANA)",
+  "course_category": "SAP Global Certification",
+  "course_duration": "3 Months",
+  "department":"SAP",
+  "objective": "This course provides learners with extensive knowledge and practical skills in SAP Financial Accounting (FI) and Controlling (CO) modules integrated with SAP S/4HANA. It equips participants with the ability to configure, implement, and manage financial and controlling processes in real-time business environments.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Financial Accounting Structure",
+      "topics": [
+        "Financial Accounting Organizational Units"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Organizational Framework",
+      "topics": [
+        "Organizational Structures"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Management Accounting",
+      "topics": [
+        "Management Accounting"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Certificate in SAP Material Management (S/4 HANA)",
+  "course_category": "SAP Global Certification",
+  "course_duration": "3 Months",
+  "department":"SAP",
+  "objective": "This course provides an in-depth understanding of SAP S/4HANA Material Management (MM), focusing on procurement and inventory functions within an organization. It equips learners with skills to manage purchasing processes, inventory management, material valuation, and vendor management using SAP S/4HANA’s simplified data model and real-time processing capabilities.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "SAP Material Management Fundamentals",
+      "topics": [
+        "Introduction to SAP Material Management and Platform"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "SAP Material Management Operations",
+      "topics": [
+        "Managing SAP Material Management"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Certificate in SAP Production Planning (S/4 HANA)",
+  "course_category": "SAP Global Certification",
+  "course_duration": "3 Months",
+  "department":"SAP",
+  "objective": "This course provides comprehensive knowledge and practical skills in SAP Production Planning (PP) using S/4HANA. It equips learners with the ability to plan, execute, and manage production processes effectively within an enterprise environment.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "SAP Production Planning Fundamentals",
+      "topics": [
+        "Introduction to SAP Production Planning"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Production Execution",
+      "topics": [
+        "Introduction to Production Orders"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Certificate in SAP Sales and Distribution (S/4 HANA)",
+  "course_category": "SAP Global Certification",
+  "course_duration": "3 Months",
+  "department":"SAP",
+  "objective": "This course provides a foundational understanding of sales and distribution processes within SAP S/4HANA. It covers key concepts such as order management, billing, and delivery processes, along with integration into financial accounting and inventory systems. The program is designed to equip learners with practical skills to manage end-to-end sales processes in an enterprise environment.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Sales and Distribution Fundamentals",
+      "topics": [
+        "Introduction to SAP Sales and Distribution",
+        "Order Management and Processing",
+        "Sales Transactions and Documentation",
+        "Data Security",
+        "Banking Integration",
+        "Company Data Management",
+        "Financial Statements and MIS Reports"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Taxation and Compliance",
+      "topics": [
+        "GST Introduction",
+        "Hierarchy of Tax Calculation in Transactions",
+        "Recording GST Compliant Transactions",
+        "GST Return Filing",
+        "Introduction to TDS",
+        "TDS Compliant Transactions",
+        "TDS Reports"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Certificate in SAP Business One (S/4 HANA)",
+  "course_category": "SAP Global Certification",
+  "course_duration": "3 Months",
+  "department":"SAP",
+  "objective": "This course provides a broad understanding of SAP Business One integrated with S/4HANA for managing and automating business processes. It equips learners with skills to handle financials, sales, purchasing, inventory, production, and reporting within a unified ERP solution. The program focuses on real-time data access, streamlined workflows, and intelligent business decisions using the HANA database, enabling participants to implement and use SAP Business One effectively for SMEs.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "SAP Business One Fundamentals",
+      "topics": [
+        "SAP B1"
+      ]
+    }
+  ]
+}
+]

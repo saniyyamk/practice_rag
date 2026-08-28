@@ -1,0 +1,271 @@
+[
+  {
+    "course_name": "Post Graduate Diploma in Computer Application",
+    "course_category": "Master Courses",
+    "course_duration": "12 Months",
+    "department":"mixed",
+    "objective": "The objective of this Post Graduate Diploma in Computer Applications program is to equip learners with comprehensive knowledge and practical skills in essential computer applications, digital designing, web development, and software programming.",
+    "course_outline": [
+      {
+        "semester": 1,
+        "modules": [
+          {
+            "module": 1,
+            "topics": [
+              "Computer Basics",
+              "Introduction to OS/GUI & Windows",
+              "Typing",
+              "Manual Accounting",
+              "Introduction to Tally",
+              "MS Word",
+              "MS Excel",
+              "MS PowerPoint"
+            ]
+          },
+          {
+            "module": 2,
+            "topics": [
+              "Adobe Photoshop",
+              "Adobe Illustrator",
+              "Adobe Dreamweaver",
+              "Programming Logic and Practices",
+              "HTML",
+              "CSS",
+              "JavaScript"
+            ]
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "modules": [
+          {
+            "module": 3,
+            "topics": [
+              "Bootstrap",
+              "JSON",
+              "jQuery",
+              "PHP"
+            ]
+          },
+          {
+            "module": 4,
+            "topics": [
+              "Laravel",
+              "MySQL",
+              "Project"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Master in Software Engineering",
+    "course_category": "Master Courses",
+    "course_duration": "24 Months",
+    "department":"Programming",
+    "objective": "Master in Software Engineering is a job-oriented course covering four semesters with the latest IT topics, designed to develop learners from beginners to expert-level developers. It also includes basic computer hardware training and Microsoft Certified Professional preparation to build all-round technical skills.",
+    "course_outline": [
+      {
+        "semester": 1,
+        "modules": [
+          {
+            "module": 1,
+            "topics": [
+              "Programming in C++",
+              "Adobe Photoshop",
+              "Adobe Dreamweaver",
+              "HTML",
+              "CSS",
+              "JavaScript",
+              "JSON",
+              "jQuery"
+            ]
+          },
+          {
+            "module": 2,
+            "topics": [
+              "PHP",
+              "Laravel",
+              "MySQL",
+              "Project"
+            ]
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "modules": [
+          {
+            "module": 3,
+            "topics": [
+              "Dart Programming",
+              "Android Studio",
+              "Flutter"
+            ]
+          },
+          {
+            "module": 4,
+            "topics": [
+              "React JS",
+              "React Native",
+              "SQL Server",
+              "Project"
+            ]
+          }
+        ]
+      },
+      {
+        "semester": 3,
+        "modules": [
+          {
+            "module": 5,
+            "topics": [
+              "Python",
+              "Django",
+              "Tkinter",
+              "Flask and REST API",
+              "SQLite",
+              "Project"
+            ]
+          }
+        ]
+      },
+      {
+        "semester": 4,
+        "modules": [
+          {
+            "module": 6,
+            "topics": [
+              "Java SE",
+              "Java EE",
+              "Spring",
+              "Hibernate",
+              "Project"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Post Graduate Diploma in Information Technology",
+    "course_category": "Master Courses",
+    "course_duration": "12 Months",
+    "department":"Programming",
+    "objective": "This course provides a solid foundation in web and application development, covering programming languages, frontend and backend frameworks, and databases used in modern web and mobile applications.",
+    "course_outline": [
+      {
+        "semester": 1,
+        "modules": [
+          {
+            "module": 1,
+            "topics": [
+              "Programming in C++",
+              "Adobe Photoshop",
+              "Adobe Dreamweaver",
+              "HTML",
+              "CSS",
+              "JavaScript",
+              "JSON",
+              "jQuery"
+            ]
+          },
+          {
+            "module": 2,
+            "topics": [
+              "PHP",
+              "Laravel",
+              "MySQL",
+              "Project"
+            ]
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "modules": [
+          {
+            "module": 3,
+            "topics": [
+              "Dart Programming",
+              "Android Studio",
+              "Flutter"
+            ]
+          },
+          {
+            "module": 4,
+            "topics": [
+              "React JS",
+              "React Native",
+              "SQL Server",
+              "Project"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Master Diploma in AI And Data Science",
+    "course_category": "Master Courses",
+    "course_duration": "12 Months",
+    "department":"Programming",
+    "objective": "The course provides a foundation for developing client/server applications using MySQL and aims to build programming skills from beginner to advanced level. It covers core software development, web technologies, and database concepts.",
+    "course_outline": [
+      {
+        "semester": 1,
+        "modules": [
+          {
+            "module": 1,
+            "topics": [
+              "Computer Basics",
+              "Introduction to OS/GUI & Windows",
+              "Typing",
+              "Manual Accounting",
+              "Introduction to Tally",
+              "MS Word",
+              "MS Excel",
+              "MS PowerPoint"
+            ]
+          },
+          {
+            "module": 2,
+            "topics": [
+              "Adobe Photoshop",
+              "Adobe Illustrator",
+              "Adobe Dreamweaver",
+              "Programming Logic and Practices",
+              "HTML",
+              "CSS",
+              "JavaScript"
+            ]
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "modules": [
+          {
+            "module": 3,
+            "topics": [
+              "Bootstrap",
+              "JSON",
+              "jQuery"
+            ]
+          },
+          {
+            "module": 4,
+            "topics": [
+              "PHP",
+              "Laravel",
+              "MySQL",
+              "Project"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

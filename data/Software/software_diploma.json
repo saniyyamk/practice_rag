@@ -1,0 +1,1692 @@
+[
+{
+  "course_name": "Professional Software Developer",
+  "course_category": "Diploma Courses",
+  "course_duration": "8 Months",
+  "department":"Programming",
+  "objective": "The Professional Software Developer program under the Software Academy of G-TEC Computer Education prepares students to analyze, design, develop, implement, and integrate software applications and databases. The course blends programming languages with database technologies to build strong technical foundations. Students develop critical thinking, problem-solving abilities, debugging skills, and high-caliber programming expertise.",
+  "course_outline": [
+    {
+      "module": "Module 1",
+      "title": "Front-End Development & UI Designing",
+      "topics": [
+        "UI Designing Concepts",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap",
+        "Adobe Dreamweaver"
+      ]
+    },
+    {
+      "module": "Module 2",
+      "title": "Database Technology",
+      "topics": [
+        "SQLite"
+      ]
+    },
+    {
+      "module": "Module 3",
+      "title": "Programming (Elective)",
+      "electives": [
+        {
+          "elective_name": "Elective 1: Microsoft Technologies",
+          "subjects": [
+            "C#.NET",
+            "ASP.NET using C#.NET"
+          ]
+        },
+        {
+          "elective_name": "Elective 2: Java Technologies",
+          "subjects": [
+            "Java SE",
+            "Java EE"
+          ]
+        }
+      ]
+    },
+    {
+      "module": "Module 4",
+      "title": "Python Programming",
+      "topics": [
+        "Python Basics"
+      ]
+    },
+    {
+      "module": "Module 5",
+      "title": "Final Project",
+      "description": "Real-time software development project including front-end, back-end, and database integration with documentation and presentation."
+    }
+  ]
+}
+,
+
+{
+  "course_name": "G-Developer",
+  "course_category": "Diploma Courses",
+  "course_duration": "12 Months",
+  "department":"Programming",
+  "objective": "A course designed to make the candidate an expert in the industry, especially in .NET-based modern technologies. The course covers C#.NET, VB.NET, ASP.NET, and ADO.NET to enable students to build full-fledged web applications. It also includes J2EE, J2SE, and J2ME to equip candidates with the ability to independently develop applications.",
+  "course_outline": [
+    {
+      "module": "Module 1",
+      "subjects": [
+        "Programming in C",
+        "Programming in C++"
+      ]
+    },
+    {
+      "module": "Module 2",
+      "subjects": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "VBScript",
+        "JSON",
+        "jQuery",
+        "XML"
+      ]
+    },
+    {
+      "module": "Module 3",
+      "subjects": [
+        "Software Engineering",
+        "Oracle",
+        "SQL"
+      ]
+    },
+    {
+      "module": "Module 4",
+      "subjects": [
+        "Java SE",
+        "Java EE"
+      ]
+    },
+    {
+      "module": "Module 5",
+      "subjects": [
+        "C#.NET",
+        "ASP.NET Using C#.NET",
+        "Project Development and Reporting"
+      ]
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Computer Teachers Training Program",
+  "course_category": "Diploma Courses",
+  "course_duration": "12 Months",
+  "department":"Ms office/typing",
+  "objective": "This course covers the basics of computers and makes students proficient in operating systems, word processing, spreadsheets, internet operations, and programming in Core Java and Visual Basic. It includes essentials of manual accounting, computerized accounting in Tally, hardware and system maintenance. A paper on student psychology is included to prepare candidates for the teaching field. The final project provides exposure to a real development environment.",
+  "course_structure": {
+    "Semester 1": [
+      {
+        "module": "Module 1",
+        "subjects": [
+          "Computer Basics",
+          "MS Office"
+        ]
+      },
+      {
+        "module": "Module 2",
+        "subjects": [
+          "Linux OS",
+          "Open Office",
+          "Manual Accounting Essentials",
+          "Computerized Accounting in Tally"
+        ]
+      },
+      {
+        "module": "Module 3",
+        "subjects": [
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Adobe InDesign"
+        ]
+      }
+    ],
+    "Semester 2": [
+      {
+        "module": "Module 4",
+        "subjects": [
+          "PC Technician Essentials Group"
+        ]
+      },
+      {
+        "module": "Module 5",
+        "subjects": [
+          "Programming Logic and Practices",
+          "Programming in VB.NET",
+          "Student Psychology and Teaching Technique",
+          "Group Discussion",
+          "Final Project"
+        ]
+      }
+    ]
+  }
+}
+
+,
+{
+  "course_name": "Diploma in Web Designing",
+  "course_category": "Diploma Courses",
+  "course_duration": "3 Months",
+  "department":"Programming",
+  "objective": "This course is designed for individuals with a knack for programming and an eye for aesthetics. It equips students with the technical skills and knowledge required to become a professional web designer.",
+  "course_outline": [
+    {
+      "module": "Module 1",
+      "topics": [
+        "Introduction",
+        "Building Blocks of Web Front End",
+        "Introduction to HTML",
+        "Basic HTML Tags",
+        "Advanced HTML Tags",
+        "HTML Project",
+        "Introduction to CSS",
+        "CSS Basics",
+        "Advanced CSS",
+        "CSS Project"
+      ]
+    },
+    {
+      "module": "Module 2",
+      "topics": [
+        "Introduction to Dynamic HTML",
+        "JavaScript Basics",
+        "Advanced JavaScript Concepts",
+        "DOM (Document Object Model)",
+        "Manipulating DOM Using JavaScript",
+        "DOM Events",
+        "JavaScript Project"
+      ]
+    },
+    {
+      "module": "Module 3",
+      "topics": [
+        "Understanding JavaScript & CSS Frameworks",
+        "Tailwind CSS",
+        "jQuery Basics",
+        "jQuery Advanced",
+        "Bootstrap",
+        "Final Project"
+      ]
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Diploma in Web Technology (.NET)",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "This course prepares students for a career in web development using .NET technologies. It covers the fundamentals of website creation using ASP.NET, database connectivity through ADO.NET, and concludes with web services and cloud deployment concepts.",
+  "course_outline": [
+    {
+      "module": "Module 1",
+      "topics": [
+        "Introduction to .NET Framework",
+        "Programming in C# / VB.NET",
+        "C# / VB.NET Classes and Exceptions",
+        "Advanced C# / VB.NET Features",
+        "Unit Testing in C# / VB.NET",
+        "Desktop Programming Using Windows Forms",
+        "Windows Presentation Foundation (WPF)",
+        "Database Concepts and RDBMS",
+        "ADO.NET",
+        "Working with LINQ",
+        "Software Development Lifecycle",
+        "Project"
+      ]
+    },
+    {
+      "module": "Module 2",
+      "topics": [
+        "Web Designing and Client-Side Programming",
+        "Web Application Development",
+        "ASP.NET Objects & State Management",
+        "ASP.NET Caching & Authentication",
+        "Working with LINQ & ADO.NET in ASP.NET",
+        "JSON",
+        "WCF (Windows Communication Foundation)",
+        "Entity Framework",
+        "ASP.NET MVC",
+        "Web Hosting & Cloud Computing",
+        "Amazon Web Services & Elastic Beanstalk",
+        "Project"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Diploma in Web Technology (Open Source)",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "This course prepares students for a career in web development using widely used open-source technologies. It covers the fundamentals of website creation, client-side scripting, and server-side development using PHP and modern frameworks.",
+  "course_outline": [
+    {
+      "module": "Module 1",
+      "topics": [
+        "UI/UX Designing",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "JSON",
+        "Bootstrap",
+        "Mini Project"
+      ]
+    },
+    {
+      "module": "Module 2",
+      "topics": [
+        "Web Application Development",
+        "RDBMS",
+        "MySQL",
+        "PHP",
+        "Laravel",
+        "Project Work"
+      ]
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Diploma in Computer Application",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "This course is designed to equip learners with essential skills in office applications, accounting software, graphic design, and web development. It prepares students for entry-level roles in administration, IT, and creative fields by combining practical training with a strong foundation in digital literacy. The program also enables learners to pursue higher education or freelance opportunities with enhanced technical proficiency and professional confidence.",
+  "course_outline": [
+    {
+      "module": "Module 1",
+      "topics": [
+        "Computer Basics",
+        "Introduction to OS/GUI",
+        "Microsoft Windows",
+        "Typing",
+        "Manual Accounting",
+        "Introduction to Tally",
+        "MS Office (Word, Excel, PowerPoint)"
+      ]
+    },
+    {
+      "module": "Module 2",
+      "topics": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe Dreamweaver",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Mini Project"
+      ]
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Diploma in Open Source Technology",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "This course is designed for enthusiastic learners to explore modern open-source technologies. It guides students through developing applications using open-source platforms, tools, and frameworks.",
+  "course_outline": [
+    {
+      "module": "Module 1",
+      "topics": [
+        "Introduction to Linux",
+        "Exploring KDE and Web",
+        "Linux File Structure",
+        "OpenOffice",
+        "Creating Graphs",
+        "Playing Sound and Video",
+        "Using Linux Shell",
+        "Shell Scripting",
+        "Extending Linux Systems"
+      ]
+    },
+    {
+      "module": "Module 2",
+      "topics": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JSON",
+        "jQuery",
+        "Apache Web Server",
+        "PHP",
+        "MySQL",
+        "Laravel",
+        "Project Work"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "G-TEC Certified Software Developer",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "The course is tailored to provide students with knowledge in software development and documentation. It is designed to replicate real-world system development processes, covering SSAD, DBMS, and programming tools, and concludes with complete documentation and report generation.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Software Engineering"
+    },
+    {
+      "module": 2,
+      "title": "SQL Server"
+    },
+    {
+      "module": 3,
+      "title": "C#.Net"
+    },
+    {
+      "module": 4,
+      "title": "ASP.Net using C#.Net"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Graduate in Employability Enhancement Program",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Programming",
+  "objective": "The objective of this course is to enhance student’s employability by providing practical training in web technologies, programming, software development, and professional skills, enabling them to excel in technical roles and perform confidently in interviews and workplace environments.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "XML",
+        "jQuery",
+        "JSON",
+        "Adobe Dreamweaver",
+        "Programming Logic and Practices"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Electives",
+      "options": [
+        "Core Java and Android Development",
+        "Python",
+        "C# & ASP.NET",
+        "Java",
+        "PHP and MySQL"
+      ]
+    },
+    {
+      "module": 3,
+      "topics": [
+        "Software Engineering",
+        "Personality Development",
+        "Grooming Interview Skills",
+        "Live Project"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Diploma in Data Entry",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Programming",
+  "objective": "This course is designed to teach touch-typing skills and improve typing speed and efficiency, enabling easy entry into the designing industry, especially BPO and DTP sectors. It helps users save time, improve productivity, and build confidence in computer usage through the e-type (G-TEC) system.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Computer fundamentals and OS",
+        "Getting started with e-type"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Using e-type with applications",
+        "Project (optional)"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Advanced Operator",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Ms office/typing",
+  "objective": "This course is designed for students who wish to learn advanced features of MS Word, Excel, PowerPoint, Access, and Outlook. By the end of the training, students will be able to efficiently use advanced office applications for secretarial and administrative work in an office environment.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Word processing (MS Word)",
+        "Spreadsheet package (MS Excel) basics",
+        "Analytics techniques with MS Excel",
+        "Excel advanced"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Presentation package (PowerPoint)",
+        "Database (MS Access)",
+        "MS Outlook",
+        "Malayalam data entry (ISM)"
+      ]
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Diploma in UI Development",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "A professional course designed to equip students with User Interface (UI) development skills for web designing and application development. The course covers designing, scripting, animation, and data processing to develop industry-relevant professionals from beginners in IT.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Web Designing Tools"
+    },
+    {
+      "module": 2,
+      "title": "Introduction to Dynamic HTML"
+    },
+    {
+      "module": 3,
+      "title": "React JS"
+    },
+    {
+      "module": 4,
+      "topics": [
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Diploma in Cloud Computing",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "Cloud computing is a revolutionary shift in the IT and related industries, creating numerous opportunities in web-based careers. This course provides in-depth training in cloud technologies using AWS, Microsoft Azure, and Python, helping students become industry-ready professionals with strong cloud computing skills.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Introduction to Cloud Computing",
+      "duration": "36H/1M",
+      "topics": [
+        "Cloud Service Models",
+        "Deployment Models",
+        "Cloud Service Providers",
+        "Virtualization and Containerization",
+        "Cloud Infrastructure",
+        "Cloud Security"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Amazon Web Services (AWS)",
+      "topics": [
+        "Introduction to AWS",
+        "Security Management in AWS",
+        "Object Storage Options",
+        "Amazon EC2",
+        "Database Services and Analytics",
+        "Load Balancing, Auto-Scaling, and Route 53",
+        "Networking and Monitoring Services",
+        "Application Services and AWS Lambda",
+        "Configuration Management and Automation",
+        "Migration to AWS"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Microsoft Azure Fundamentals",
+      "topics": [
+        "Azure Virtual Machines",
+        "Introduction to Azure Virtual Network and Services",
+        "Microsoft Azure Storage",
+        "Manage Azure Active Directory",
+        "Manage App Service Plans",
+        "Azure SQL Database",
+        "Azure Backup and Site Recovery",
+        "Project"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Diploma in Android Development with Kotlin & Flask REST",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "This course prepares students for modern Android development using Kotlin along with backend development using Flask REST. It focuses on current industry trends and equips learners with skills required to build scalable mobile applications and RESTful services.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Python Flask",
+      "topics": [
+        "Python basics",
+        "REST API"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "RESTful for more efficient development",
+        "Databases"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Kotlin",
+      "topics": [
+        "Introduction and setup environment",
+        "Kotlin foundation",
+        "Object Oriented Programming",
+        "File handling",
+        "Multithreading"
+      ]
+    },
+    {
+      "module": 4,
+      "topics": [
+        "Terminals and version control",
+        "Layouts and activity lifecycles",
+        "Sample project: Smartchat App"
+      ]
+    }
+  ]
+}
+,
+
+
+{
+  "course_name": "R Programming",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Programming",
+  "objective": "This course teaches programming in R using modern best practices and focuses on data analysis. Students will learn to install and configure R and RStudio, work with the Tidyverse ecosystem, create interactive visualizations, and apply reproducible research methods.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "R Fundamentals and Environment Setup"
+    },
+    {
+      "module": 2,
+      "title": "Modern Data Manipulation with Tidyverse"
+    },
+    {
+      "module": 3,
+      "title": "Data Visualization and Exploration"
+    },
+    {
+      "module": 4,
+      "title": "Statistical Analysis and Hypothesis Testing"
+    },
+    {
+      "module": 5,
+      "title": "Advanced R Programming and Applications"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Professional Computer Instructor",
+  "course_category": "Diploma Courses",
+  "course_duration": "12 Months",
+  "department":"Programming",
+  "objective": "The course covers advanced computer technologies and also focuses on education and teacher training concepts. It helps students understand core educational principles, learning methods, student psychology, and teaching techniques to support diverse learners in different learning environments.",
+  "course_outline": [
+    {
+      "semester": 1,
+      "modules": [
+        {
+          "module": 1,
+          "topics": [
+            "Computer Basics",
+            "MS Office",
+            "Linux OS & Open Office",
+            "PC Technician Essentials Group"
+          ]
+        },
+        {
+          "module": 2,
+          "topics": [
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Adobe InDesign",
+            "CorelDraw"
+          ]
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "modules": [
+        {
+          "module": 3,
+          "topics": [
+            "HTML",
+            "DHTML",
+            "CSS",
+            "JavaScript",
+            "VBScript",
+            "JSON",
+            "XML",
+            "jQuery",
+            "Adobe Dreamweaver"
+          ]
+        },
+        {
+          "module": 4,
+          "topics": [
+            "Manual Accounting Essentials",
+            "Computerized Accounting in Tally"
+          ]
+        },
+        {
+          "module": 5,
+          "topics": [
+            "Programming Logic and Practices",
+            "Programming in JAVA",
+            "Student Psychology and Teaching Technique",
+            "Group Discussion",
+            "Final Project"
+          ]
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Computer Teachers Training Course",
+  "course_category": "Diploma Courses",
+  "course_duration": "8 Months",
+  "department":"mixed",
+  "objective": "The course covers fundamentals of computers, operating systems, office applications, internet operations, programming in Core Java and Visual Basic, manual and computerized accounting using Tally, and hardware/system maintenance. It also includes student psychology to prepare candidates for teaching roles and provides exposure to development environments through a final project.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Computer Basics",
+        "MS Office & Open Office"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Programming Logic & Practices",
+        "Visual Basic"
+      ]
+    },
+    {
+      "module": 3,
+      "topics": [
+        "IT in Multimedia",
+        "Adobe Photoshop",
+        "Adobe Animate"
+      ]
+    },
+    {
+      "module": 4,
+      "topics": [
+        "IT in Hardware",
+        "Hardware and system maintenance essentials"
+      ]
+    },
+    {
+      "module": 5,
+      "topics": [
+        "Student Psychology and Teaching Techniques",
+        "OJT"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Diploma in Graphics and Information Technology",
+  "course_category": "Diploma Courses",
+  "course_duration": "8 Months",
+  "department":"mixed",
+  "objective": "The course covers key areas in Information Technology including office automation, designing, and computer hardware. After completion, students will be able to handle major designing tasks and IT-enabled services.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Computer Basics",
+        "MS DOS",
+        "Windows & Introduction to OS",
+        "GUI",
+        "MS Office",
+        "Internet & E-mail",
+        "ISM"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Adobe Photoshop",
+        "CorelDraw",
+        "Adobe PageMaker"
+      ]
+    },
+    {
+      "module": 3,
+      "topics": [
+        "HTML",
+        "DHTML",
+        "JavaScript",
+        "Dreamweaver"
+      ]
+    },
+    {
+      "module": 4,
+      "topics": [
+        "Hardware essentials"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Advanced Diploma in UI/UX Designing",
+  "course_category": "Diploma Courses",
+  "course_duration": "7 Months",
+  "department":"Programming",
+  "objective": "This course focuses on designing meaningful and user-centered web and mobile applications. It provides a deep understanding of UI/UX design, covering the full design lifecycle including process, purpose, and tools. UI design focuses on visual appearance and feel, while UX design improves user experience and interaction. The course offers practical, skill-based training with a design-centric approach and visual communication perspective, along with exposure to front-end and back-end concepts.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Introduction to UI/UX Design",
+        "UX Design & Research"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Adobe XD",
+        "Figma",
+        "Miro",
+        "Notion"
+      ]
+    },
+    {
+      "module": 3,
+      "topics": [
+        "UX User Testing",
+        "Adobe After Effects",
+        "Designing own Project"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Advanced Diploma in Data Analysis",
+  "course_category": "Diploma Courses",
+  "course_duration": "8 Months",
+  "department":"Programming",
+  "objective": "This course helps students build a career in data analysis by covering the full data lifecycle, including data handling, basic analytics, and dashboard design using Advanced Excel, Power BI, Python, and R programming for advanced analysis.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Basic Introduction to Data Analysis",
+        "What is Data Visualization & why?"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Microsoft Excel",
+        "Advanced Excel"
+      ]
+    },
+    {
+      "module": 3,
+      "topics": [
+        "Power BI",
+        "Dashboard preparation",
+        "MIS Reports"
+      ]
+    },
+    {
+      "module": 4,
+      "topics": [
+        "Python Basics",
+        "R Programming"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Diploma in Machine Learning",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "This course focuses on core Machine Learning concepts including Python programming, algorithms, statistics, probability, and practical implementation using tools like Scikit-learn. It covers supervised and unsupervised learning, regression techniques, and prepares students for roles as Machine Learning engineers.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Python"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Django"
+      ]
+    },
+    {
+      "module": 3,
+      "topics": [
+        "Machine Learning",
+        "Real Time Project"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Full-Stack Web Developer - PHP",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "A Full-Stack Web Developer works on both front-end and back-end development of websites and applications. Front-end involves user interface and interaction, while back-end includes server logic, database management, authentication, and server configuration. This course prepares students to work across all layers of web development including APIs, client-side scripting, and design integration.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Front End Development",
+      "topics": [
+        "UI Designing",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "PHP",
+        "MySQL",
+        "Laravel",
+        "GitHub",
+        "Working with Server",
+        "Various APIs",
+        "Project Work"
+      ]
+    }
+  ]
+}
+
+,
+
+{
+  "course_name": "Full-Stack Web Developer - Flutter",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "A Full-Stack Web Developer using Flutter works on both front-end and back-end portions of mobile applications. Front-end involves user interface and interaction, while back-end includes logic, database operations, authentication, and server configuration. The course also covers deployment of mobile applications and publishing to platforms like the Play Store.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Front End Development",
+      "topics": [
+        "UI Designing",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Dart Programming",
+        "Android UI Development using Flutter",
+        "Database operations using Flutter with SQLite Database",
+        "Project Work"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Diploma in Data Analysis",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Programming",
+  "objective": "This course helps students build a career in data analysis by covering the full lifecycle of data work, including basic analytics and dashboard design using Advanced Excel and Power BI.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Basic Introduction to Data Analysis",
+        "What is Data Visualization & why?"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Microsoft Excel",
+        "Advanced Excel"
+      ]
+    },
+    {
+      "module": 3,
+      "topics": [
+        "Power BI",
+        "Dashboard preparation",
+        "MIS Reports"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Diploma in UI/UX Designing",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Programming",
+  "objective": "This course provides practical training in user interface (UI) and user experience (UX) design. It focuses on building meaningful and relevant digital experiences for users and teaches best practices and conventions in UX design for creating effective websites and mobile applications.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Introduction to UI/UX Design Modules",
+        "UX Design & Research"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Adobe XD",
+        "Figma"
+      ]
+    },
+    {
+      "module": 3,
+      "topics": [
+        "UX User Testing",
+        "Developing Own Project"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Certificate in Advanced Software Engineering",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Programming",
+  "objective": "This course helps graduates develop skills in modern software technologies and industry-relevant practices. It includes live project experience and covers current IT industry trends to build confidence and practical expertise for career development.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "HTML",
+        "CSS3",
+        "JavaScript",
+        "jQuery",
+        "JSON",
+        "Adobe Dreamweaver",
+        "Programming Logic and Practices"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "SQL Server Database",
+        "Elective 1: Kotlin & Android",
+        "Elective 2: Python & Django",
+        "Elective 3: C# & ASP.NET",
+        "Elective 4: Java EE",
+        "Elective 5: PHP & MySQL"
+      ]
+    },
+    {
+      "module": 3,
+      "topics": [
+        "Software Engineering",
+        "Personality Development",
+        "Grooming",
+        "Interview Skills",
+        "Live Project"
+      ]
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Full-Stack Web Developer - .NET",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "The objective of this course is to learn core concepts of both frontend and backend development. It helps students, programmers, and developers build dynamic web sites and applications using C# and .NET technologies.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Front End Development",
+      "topics": [
+        "UI Designing",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "C# & ASP.NET",
+        "SQL Server Database",
+        "Crystal Reports",
+        "GitHub",
+        "Working with Server",
+        "Various APIs",
+        "Project Work"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Full-Stack Web Developer - Python",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "The objective of this course is to learn core concepts of both frontend and backend programming, gain familiarity with modern web development technologies like Django, and understand SQL and NoSQL databases to cover the complete web development process.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Front End Development",
+      "topics": [
+        "UI Designing",
+        "HTML",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Python",
+        "RDBMS - MySQL",
+        "Django",
+        "GitHub",
+        "Working with Server",
+        "Various APIs",
+        "Project Work"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Full-Stack Web Developer - JAVA",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Programming",
+  "objective": "The objective of this course is to learn core concepts of both frontend and backend programming. It helps students, programmers, and developers build dynamic and rich websites and web applications using Java as a compiled language.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Front End Development",
+      "topics": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Bootstrap",
+        "Core Java Programming",
+        "RDBMS - SQL Server Programming",
+        "JDBC",
+        "Servlets",
+        "JSP",
+        "Spring Framework",
+        "Hibernate",
+        "Cloud Computing: GitHub, AWS, Azure",
+        "Working with Servers",
+        "Project Work"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Full-Stack Web Developer - React JS",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Programming",
+  "objective": "The objective of this course is to learn core concepts of both frontend and backend programming, and gain familiarity with modern web technologies such as React and React Native. It covers the complete web development process.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Front End Development",
+      "topics": [
+        "UI Designing",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "React JS",
+        "React Native",
+        "GitHub",
+        "Working with Server",
+        "Various APIs",
+        "Project Work"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Professional Certification in Advanced Data Visualisation and Analysis",
+  "course_category": "Diploma Courses",
+  "course_duration": "8 Months",
+  "department":"Programming",
+  "objective": "This course helps students learn advanced data analysis tools and techniques, including SQL databases, R, and Python. It focuses on creating data visualizations and applying statistics and predictive analytics in a business environment.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Introduction to Data Analysis and Visualizations",
+        "Advanced Excel",
+        "Macros with VBA",
+        "MS Access",
+        "Power BI",
+        "Tableau"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Data Analysis - Python",
+        "Basics of R",
+        "SQL",
+        "MongoDB"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Diploma in App Development Using Flutter",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "This course prepares students to create and execute Android applications using the Flutter framework. It provides foundational knowledge for continued learning in app development and helps learners build single-page applications using Dart and Flutter technologies.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "HTML",
+        "CSS",
+        "Introduction to Android Studio"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Java Deep Dive",
+        "Android UI",
+        "Android Material Design"
+      ]
+    },
+    {
+      "module": 3,
+      "topics": [
+        "Networking APIs and JSON",
+        "Advanced Features",
+        "Debugging and publishing app to Play Store"
+      ]
+    },
+    {
+      "module": 4,
+      "topics": [
+        "Dart Programming",
+        "Flutter"
+      ]
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Advanced Certification in Data Visualization and Analysis",
+  "course_category": "Diploma Courses",
+  "department":"Programming",
+  "course_duration": "6 Months",
+  "objective": "This course helps students use reports to answer business questions effectively. It focuses on reporting interfaces, navigation, running reports, and configuring them for better decision-making through data visualization and analysis tools.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Advanced Excel",
+        "Macros with VBA",
+        "MS Access"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "SQL",
+        "Power BI",
+        "Tableau"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "G-Certified Object Oriented Programmer",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "This course is designed to provide foundational knowledge in object-oriented programming using popular OOP languages, helping learners build a strong base for software development.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Programming in C"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Programming in C++"
+      ]
+    },
+    {
+      "module": 3,
+      "topics": [
+        "Java SE"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Full-Stack Web Developer - MEAN",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "The objective of this course is to learn core concepts of both frontend and backend programming, and gain familiarity with modern web development technologies such as Express.js, Angular, and Node.js. It also covers NoSQL databases and the complete web development process.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Front End Development",
+      "topics": [
+        "UI Designing",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "MongoDB",
+        "Express JS",
+        "Node JS",
+        "Angular",
+        "Working with Server",
+        "Various APIs",
+        "Project Work"
+      ]
+    }
+  ]
+}
+
+,
+
+{
+  "course_name": "Full-Stack Web Developer - MERN",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "The objective of this course is to learn core concepts of both frontend and backend programming, and gain familiarity with modern web development technologies such as MongoDB, Express.js, React.js, and Node.js. It covers NoSQL databases and the complete web development process.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Front End Development",
+      "topics": [
+        "UI Designing",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "MongoDB",
+        "Express JS",
+        "Node JS",
+        "React JS",
+        "Working with Server",
+        "Various APIs",
+        "Project Work"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Diploma in Office Automation",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Ms office/typing",
+  "objective": "This course introduces Microsoft Office software and teaches students how to create business documents using MS Word, presentations using PowerPoint, and spreadsheets using Excel. It also covers cloud-based office tools and Linux operating system basics.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Introduction to Data Entry Practice",
+        "Windows OS",
+        "Microsoft Office",
+        "Internet & E-mail"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Introduction to Cloud Based Office Applications",
+        "AI Tools in Office Automation"
+      ]
+    },
+    {
+      "module": 3,
+      "topics": [
+        "Adobe Acrobat Pro",
+        "Introduction to Linux OS",
+        "Managing Online Meetings"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Diploma in Generative AI",
+  "course_category": "Diploma Courses",
+  "course_duration": "6 Months",
+  "department":"Programming",
+  "objective": "This course equips participants with comprehensive knowledge and practical skills in Generative AI and Prompt Engineering, focusing on free and open-source tools. It enables learners to create dynamic content across domains while understanding underlying technologies and ethical considerations.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Introduction to Generative AI",
+        "Responsible AI & Ethics",
+        "Advanced Concepts",
+        "Free & Open-Source AI Tools Ecosystem"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Generative AI Fundamentals & Applications",
+        "Python Programming for Generative AI",
+        "Programming Based Concepts for Generative AI"
+      ]
+    },
+    {
+      "module": 3,
+      "topics": [
+        "Advanced Topics in Generative AI with NLP",
+        "Hugging Face & The Open-Source AI Ecosystem",
+        "Vector Databases for LLM Use Cases"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Diploma in AI Integration MS Office",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Ms office/typing",
+  "objective": "This course equips students with skills to use AI tools within Microsoft Office applications to improve productivity, enhance data analysis, boost creativity, and automate routine tasks.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Microsoft Office Word",
+        "AI Integration in Microsoft Word"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Microsoft Office Excel",
+        "AI Integration in Microsoft Excel"
+      ]
+    },
+    {
+      "module": 3,
+      "topics": [
+        "Microsoft Office Presentation",
+        "AI Integration in Microsoft Presentation"
+      ]
+    }
+  ]
+}
+,
+
+
+{
+  "course_name": "Certificate Course in Microsoft 365",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Ms office/typing",
+  "objective": "This course equips students with essential skills to master Microsoft 365, a cloud-based productivity suite. It covers core applications such as Word, Excel, PowerPoint, and Outlook, along with collaboration tools and cloud storage using OneDrive. Students will learn to create professional documents, analyze data, build presentations, manage communication, and collaborate effectively in a secure cloud environment.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Office Apps",
+      "topics": [
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Outlook",
+        "Sway"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Team Collaboration",
+      "topics": [
+        "Teams",
+        "SharePoint",
+        "Calendar",
+        "Contacts"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Diploma in Data Science",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Programming",
+  "objective": "This comprehensive course introduces modern data science principles required to solve real-world problems in business and academia. It covers data acquisition, cleaning, analysis, statistical foundations, machine learning, and emerging technologies in AI and data science.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Python Programming Basics",
+        "Control Structures",
+        "Data Structures",
+        "Functions & Modules",
+        "Object-Oriented Programming",
+        "File Operations & Exception Handling"
+      ]
+    },
+    {
+      "module": 2,
+      "topics": [
+        "Data Science Fundamentals",
+        "Python Libraries for Data Science",
+        "Data Analysis Process",
+        "Data Mining Concepts",
+        "Data Preprocessing",
+        "Web Scraping & Data Collection"
+      ]
+    },
+    {
+      "module": 3,
+      "topics": [
+        "Machine Learning Fundamentals",
+        "Supervised Learning Algorithms",
+        "Unsupervised Learning Algorithms",
+        "Deep Learning & NLP Basics",
+        "Model Deployment Basics"
+      ]
+    },
+    {
+      "module": 4,
+      "topics": [
+        "Advanced Data Visualization",
+        "Business Intelligence & Visualization Tools",
+        "Time Series & Advanced Analytics",
+        "Industry Capstone Projects",
+        "Professional Development & Deployment",
+        "Emerging Technologies Overview"
+      ]
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Certified Course in Data Structure Algorithms",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Programming",
+  "objective": "This course helps candidates learn efficient ways to organize and store data using fundamental data structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables, along with core algorithmic problem-solving techniques.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Analysis of Algorithm",
+        "Mathematics & Bit Manipulation",
+        "Arrays",
+        "Recursion, Backtracking & Searching",
+        "Sorting, Matrix & Hashing",
+        "Strings",
+        "Stack",
+        "Queue and Deque",
+        "Bit Magic",
+        "Dynamic Programming",
+        "Greedy Algorithms"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Certificate Course in Data Structure Algorithms - Online",
+  "course_category": "Diploma Courses",
+  "course_duration": "4 Months",
+  "department":"Programming",
+  "objective": "This course helps candidates learn efficient ways to organize and store data using fundamental data structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables, along with algorithmic problem-solving techniques.",
+  "course_outline": [
+    {
+      "module": 1,
+      "topics": [
+        "Analysis of Algorithm",
+        "Mathematics & Bit Manipulation",
+        "Arrays",
+        "Recursion, Backtracking & Searching",
+        "Sorting, Matrix & Hashing",
+        "Strings",
+        "Stack",
+        "Queue and Deque",
+        "Bit Magic",
+        "Dynamic Programming",
+        "Greedy Algorithms"
+      ]
+    }
+  ]
+}
+]
+

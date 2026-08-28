@@ -1,0 +1,2192 @@
+[
+  {
+    "course_name": "G-TEC Arabic Data Entry Course",
+    "course_category": "Certificate Course",
+    "department": "Ms office/typing",
+    "course_duration": "1 Month",
+    "objective": "This course introduces Arabic typing skills using the G-TEC Arabic Touch-type Tutor (GATT). It helps learners understand Arabic letters and build speed and accuracy in Arabic touch typing from basic to advanced levels.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Importance and scope of Arabic in typing",
+          "Introduction to Arabic language",
+          "How to type Arabic letters",
+          "Lesson practice",
+          "Create own test",
+          "Typing reports"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "G-Operator",
+    "course_category": "Certificate Course",
+    "course_duration": "3 Months",
+    "department": "Ms office/typing",
+    "objective": "This course provides learners with fundamental computer knowledge, including MS-DOS, Windows operating system, MS Office, internet, and email skills, enabling them to handle essential digital and office tasks confidently.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Computer Basic & MS-DOS",
+          "Windows & Introduction to OS/GUI",
+          "MS Office",
+          "Internet & Email"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course in PERL",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course introduces learners to Perl programming from basic concepts to database connectivity. It focuses on text processing, file handling, and scripting for system and web-based tasks, enabling learners to develop practical Perl applications.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Perl: Introduction",
+          "Variables, Arrays, Operators",
+          "Functions",
+          "Objects in Perl",
+          "Handling Errors and Signals",
+          "Databases",
+          "Miscellaneous"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course In Linux",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Programming",
+    "objective": "This course helps learners transition from traditional operating systems to Linux, a popular open-source operating system. It introduces Linux usage, file systems, shell scripting, and system extensions.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introducing Linux",
+          "Exploring KDE and Web",
+          "Linux File Structure",
+          "Open Office",
+          "Creating graphs",
+          "Playing sound and video",
+          "Using Linux Shell",
+          "Shell Scripting",
+          "Extending Linux Systems"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in JAVA SE",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course provides learners with essential Java programming skills, including object-oriented programming concepts, multithreading, collections, and JDBC, enabling them to build functional and data-driven applications.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Java",
+          "OOPs Concepts",
+          "Functions, Modules, Interfaces, Inheritance & Exceptions"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Threads",
+          "Strings, Collections & Files",
+          "Databases & JDBC"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course in JAVA EE",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course helps students gain knowledge of Java syntax and semantics to write Java programs and transition from procedural and object-based programming to pure object-oriented programming.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction",
+          "Lambda Programming",
+          "Java Servlets",
+          "Spring",
+          "Hibernate Framework"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in VB.NET",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course provides students with the knowledge and skills needed to develop applications in Microsoft Visual Basic .NET for the Microsoft .NET platform. It focuses on user interfaces, program structure, language syntax, and implementation details, serving as an entry point for further .NET learning.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "VB.NET: Introduction",
+          "Programming in VB.NET",
+          "Classes and Exception Handling",
+          "Unit Testing",
+          "Database Concept and RDBMS",
+          "Working with LINQ"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in C#.NET",
+    "course_category": "Certificate Course",
+    "department": "Programming",
+    "course_duration": "2 Months",
+    "objective": "This course provides students with the knowledge and skills needed to develop applications in Microsoft C#.NET for the .NET platform. It focuses on user interfaces, program structure, language syntax, and implementation details, serving as an entry point for further .NET courses.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to .NET Framework",
+          "Programming in C#",
+          "C# Classes and Exceptions",
+          "Advanced C# Features"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Unit Testing in C#",
+          "Desktop Programming using Windows Forms",
+          "Windows Presentation Foundation",
+          "Database Concepts and RDBMS",
+          "MS SQL Server",
+          "ADO.NET",
+          "Working with LINQ",
+          "Software Development Life Cycle"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course in Programming in VB",
+    "course_category": "Certificate Course",
+    "department": "Programming",
+    "course_duration": "2 Months",
+    "objective": "This course is designed for beginners in programming, providing an easy introduction to Visual Basic and helping learners enter the world of VB programming.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Visual Basic",
+          "Arrays, Control Structures",
+          "Procedures and Functions",
+          "Menu Objects, MDI Forms and Advanced Controls"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Programming in C",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course is designed for beginners in programming, providing an introduction to programming concepts through the C programming language, one of the most popular and widely used programming languages.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Basics of Programming and History of C",
+          "Data Types and Variables",
+          "Constants and Operators"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Control Structures and Functions",
+          "Pointers and Command Line Arguments",
+          "Structures, Linked Lists, File Handling and Basic Graphics"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Programming in C++",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course is designed for beginners in programming, providing an introduction to object-oriented programming concepts using C++, helping learners enter the world of OOP.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Fundamentals of OOP",
+          "Basics of C++",
+          "Functions, Arrays, Union, Pointers",
+          "Classes and Objects",
+          "Inheritance and Polymorphism",
+          "File Organization, Exception Handling & Pre-Processor Directives"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course in Oracle SQL and PL/SQL",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course provides a strong foundation in Oracle SQL and PL/SQL. Learners will gain skills to design, query, and manage Oracle databases using SQL and develop database programs using PL/SQL for real-world applications.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": ["Oracle SQL", "PL/SQL"]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In SQL Server",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Programming",
+    "objective": "This course provides foundational knowledge in database concepts and SQL Server administration. It covers SQL operations, database design, querying, and advanced database management techniques including transactions, procedures, and performance features.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to basic database concepts",
+          "E-R Modelling and Diagram",
+          "Normalization",
+          "Introduction to SQL Server",
+          "Introduction to SQL",
+          "DDL and DML statements",
+          "Working with queries (DQL)",
+          "Aggregate functions",
+          "Joins and set operations",
+          "Implementation of data integrity",
+          "Working with constraints",
+          "Implementing views",
+          "Data Control Language (DCL)",
+          "Working with indexes",
+          "Writing Transact-SQL (T-SQL)",
+          "Working with stored procedures and functions",
+          "Implementing triggers",
+          "Working with cursors",
+          "Transaction Control Language (TCL)",
+          "Backup and restore",
+          "Advanced features"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In MySQL",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Programming",
+    "objective": "This course is designed for users of RDBMS to transition into MySQL, the world's most popular open-source database. It provides knowledge of database management, querying, and administration.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "An Overview of MySQL Architecture",
+          "MySQL Installation and Configuration",
+          "MySQL Functions",
+          "Working with Databases and Tables",
+          "Working with Data",
+          "Joins and Subqueries",
+          "Transactions",
+          "Administration and Configuration",
+          "Security, Access Control, and Privileges",
+          "The MySQL APIs"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in ANDROID STUDIO",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course provides an introduction to Android application development. It covers the fundamentals required to design, build, and execute Android applications and prepares learners for further advanced development studies.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Android Studio",
+          "Java Deep Dive",
+          "Android UI",
+          "Activities and Intents",
+          "Fragments",
+          "Android Material Design"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Networking APIs and JSON",
+          "Data Storage",
+          "Advanced Features",
+          "Debugging",
+          "Publishing App to Play Store"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "G-Basic (Computer Awareness Program)",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Programming",
+    "objective": "This basic course is designed for complete beginners to build fundamental computer awareness and help them become confident computer users.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Computer Basic & MS DOS",
+          "Windows & Introduction to OS/GUI",
+          "Introduction to MS Office",
+          "Internet"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "G-TEC Malayalam Data Entry Course",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Ms office/typing",
+    "objective": "This course is designed to meet the growing demand for local language typists and data entry operators in print media, graphic designing, and office work. It focuses on Malayalam typing, including basic letters and punctuation using ten-finger touch typing.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "How to type",
+          "Introduction to Malayalam language",
+          "Lesson practice",
+          "Test practice",
+          "Typing reports"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "G-TEC Hindi Data Entry Course",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Ms office/typing",
+    "objective": "This course is designed to meet the growing demand for Hindi language typists and data entry operators in print media, graphic designing, and office work. It covers Hindi typing with ten-finger touch typing, along with practice tools such as speed tests, accuracy tests, and reports to improve typing skills.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "How to type",
+          "Introduction to Hindi language",
+          "Lesson practice",
+          "Test practice",
+          "Typing reports"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "G-TEC Kannada Data Entry Course",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Ms office/typing",
+    "objective": "This course is designed to meet the growing demand for Kannada language typists and data entry operators in print media, graphic designing, and office work. It covers Kannada typing with ten-finger touch typing, along with practice tools such as speed tests, accuracy tests, and reports to enhance typing skills.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "How to type",
+          "Introduction to Kannada language",
+          "Lesson practice",
+          "Test practice",
+          "Typing reports"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course in Python",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course provides a solid foundation in Python programming by covering core concepts such as control structures, data types, functions, object-oriented programming, and file handling, enabling learners to develop efficient and structured Python applications.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Programming Concepts",
+          "Introduction to Python",
+          "Installation & Environment Setup",
+          "Program Creation and Execution",
+          "Decision Structures",
+          "Loops",
+          "Collection Data Types (List, Tuple, Dictionary, Set)",
+          "String Manipulation"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Functions",
+          "Exceptions",
+          "Object Oriented Programming: Class, Object & Inheritance",
+          "File Manipulation"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course in ASP.NET using C#.NET",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course provides students with the knowledge and skills needed to develop applications in Microsoft ASP.NET for the .NET platform. It focuses on user interfaces, program structure, language syntax, and implementation details, serving as an entry point for further .NET learning.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Web Designing and Client-Side Programming",
+          "Web Application Development",
+          "OOPS Concept using C#.NET or VB.NET",
+          "ADO.NET Working with Database",
+          "JSON",
+          "Entity Framework",
+          "Introduction to Web Hosting and Cloud Computing",
+          "AWS and Elastic Beanstalk"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in PHP",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course introduces PHP and provides the knowledge required to create and execute PHP web applications. It covers foundational programming concepts and prepares learners for further web development studies.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to PHP (Hypertext Pre-processor)",
+          "Basic Programming Concepts",
+          "Arrays",
+          "String Manipulation",
+          "Functions",
+          "Exceptions",
+          "Cookies & Session Variables",
+          "OOPS Concepts",
+          "Forms in PHP",
+          "File Manipulation",
+          "Introduction to MySQL",
+          "Sending Emails using PHP"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate in Advanced C++",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course is designed to provide advanced knowledge in C++ programming, focusing on modern industry-relevant concepts including object-oriented programming and the Standard Template Library (STL).",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Arrays, Pointers, and Dynamic Memory",
+          "Intro to Classes",
+          "Multi-File Projects",
+          "Classes, Advanced Topics",
+          "Inheritance (is-a relationship)",
+          "Input/Output in C++",
+          "Exception Handling",
+          "Operator Overloading",
+          "Templates"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in REACT JS",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course introduces React JS as a powerful JavaScript library for building dynamic and efficient user interfaces. It covers core concepts, component-based architecture, state management, and modern frontend development practices.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction",
+          "Installation",
+          "Features",
+          "Advantages & Disadvantages",
+          "Architecture",
+          "Creating a React Application",
+          "JSX",
+          "Components",
+          "Styling",
+          "Props (Properties)",
+          "Component Life Cycle",
+          "Event Management",
+          "State Management",
+          "Pagination",
+          "Material UI",
+          "HTTP Client Programming",
+          "Form Programming",
+          "Conditional Rendering",
+          "Lists & Keys",
+          "Routing",
+          "Redux",
+          "Animation & Bootstrap",
+          "Maps & Tables",
+          "Managing State Using Flux",
+          "Testing, Building and Deployment",
+          "Project Work"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Microsoft Azure",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Ms office/typing",
+    "objective": "This course introduces Microsoft Azure and its cloud services, enabling learners to build, manage, and deploy applications on a global cloud infrastructure using modern tools and frameworks.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Cloud Computing",
+          "Microsoft Azure Fundamentals",
+          "Azure Virtual Machines",
+          "Introduction to Azure Virtual Network and Services",
+          "Microsoft Azure Storage",
+          "Manage Azure Active Directory",
+          "Manage App Service Plans",
+          "Azure SQL Database",
+          "Azure Backup and Site Recovery"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course in Amazon Web Services",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course introduces Amazon Web Services (AWS), a leading cloud computing platform. It covers essential cloud services including computing, storage, databases, analytics, and deployment, helping organizations scale applications efficiently and reduce IT costs.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Cloud Computing",
+          "Introduction to AWS Course",
+          "Security Management in AWS",
+          "Object Storage Options",
+          "Amazon EC2",
+          "Database Services and Analytics",
+          "Load Balancing, Auto-Scaling, and Route 53",
+          "Networking and Monitoring Services",
+          "Application Services and AWS Lambda",
+          "Configuration Management and Automation",
+          "Migration to AWS"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Node JS",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course introduces Node.js as an open-source, cross-platform runtime for building fast and scalable network applications using a non-blocking I/O model, ideal for real-time and data-intensive applications.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction",
+          "Environment Setup",
+          "Starting Applications",
+          "REPL Terminal",
+          "Command Line Options",
+          "Package Manager (NPM)",
+          "Callbacks Concept",
+          "Upload Files",
+          "Events & Event Loops",
+          "Event Emitter & Debugger",
+          "Global Objects",
+          "Console",
+          "Process",
+          "Scaling Application",
+          "Packaging",
+          "Buffers",
+          "Streams",
+          "File System"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in MongoDB",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course introduces MongoDB as a popular open-source NoSQL document database used in modern applications.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": ["Introduction to NoSQL", "MongoDB"]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in R Programming (Basics)",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course provides a strong foundation in R programming by covering core concepts such as syntax, data types, operators, control structures, data manipulation, visualization, and basic statistical analysis.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to R and Basic Syntax",
+          "Control Structures and Functions",
+          "Data Structures",
+          "Data Manipulation",
+          "Data Visualization",
+          "Basic Statistics with R"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Advanced Excel – GROUND UP",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This advanced course builds a strong foundation in Microsoft Excel and covers advanced features such as formulas, functions, macros, pivot tables, data analysis, and worksheet management to improve productivity and efficiency.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Excel",
+          "Essential Worksheet Operation",
+          "Working with Cells and Ranges",
+          "Worksheet Formatting",
+          "Working with Formulas and Functions",
+          "Data Sorting and Filtering",
+          "Charts and Tables",
+          "Working with Data",
+          "VBA Macro"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In Advanced Excel",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Ms office/typing",
+    "objective": "This course covers advanced features of Microsoft Excel 2016, including macros, pivot tables, auditing, analysis tools, advanced formulas and functions, and worksheet management to improve productivity and efficiency in professional environments.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Excel",
+          "Working with Formulas and Functions",
+          "Data Sorting and Filtering",
+          "Auditing",
+          "Charts and Tables",
+          "Working with Data",
+          "What-If Analysis",
+          "Exporting, Importing and Reviewing a Worksheet",
+          "VBA Macro"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Openoffice",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Ms office/typing",
+    "objective": "This course introduces Apache OpenOffice and teaches learners how to create business documents, presentations, spreadsheets, and drawings using OpenOffice applications.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "OpenOffice: Introduction",
+          "OpenOffice Writer",
+          "OpenOffice Calc",
+          "OpenOffice Impress",
+          "OpenOffice Draw"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course in React Native",
+    "course_category": "Certificate Course",
+    "course_duration": "3 Months",
+    "department": "Programming",
+    "objective": "This course introduces React Native as a modern framework for building mobile user interfaces. It covers foundational web technologies and React concepts to enable cross-platform mobile app development.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": ["HTML", "CSS", "JavaScript"]
+      },
+      {
+        "module": 2,
+        "topics": ["React JS", "React Native"]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Django",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course introduces learners to Python-based web development using the Django framework. It enables students to design and develop dynamic web applications using the Model–View–Template architecture, forms, and CRUD operations, and deploy applications in a live environment.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Python",
+          "Introduction to Web Development",
+          "Introduction to Django",
+          "Rendering Web Pages using Django",
+          "Model View Template",
+          "Working with Django Forms",
+          "CRUD Operations in Django",
+          "Model Inheritance",
+          "Deployment of Application in Live Environment"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Kotlin",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course introduces Kotlin programming for Android development, helping learners build modern Android applications and connect them with backend databases while understanding core programming and OOP concepts.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction",
+          "Control Structures",
+          "Arrays, Strings, Functions",
+          "OOPS Concept",
+          "Android Development",
+          "Connecting Android to Backend Database"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course in Machine Learning",
+    "course_category": "Certificate Course",
+    "course_duration": "3 Months",
+    "department": "Programming",
+    "objective": "This course builds real-world problem-solving skills in machine learning, focusing on data analysis, AI-driven decision making, supervised and unsupervised learning, neural networks, and practical use of Python, R, and ML libraries such as TensorFlow and PyTorch.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": ["Foundations of AI and Machine Learning"]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Supervised Learning Essentials",
+          "Decision Trees and Ensemble Methods",
+          "Regression Analysis and Model Evaluation"
+        ]
+      },
+      {
+        "module": 3,
+        "topics": [
+          "Unsupervised Learning and Pattern Discovery",
+          "Reinforcement Learning and Text Analytics"
+        ]
+      },
+      {
+        "module": 4,
+        "topics": [
+          "Advanced Machine Learning Techniques",
+          "Reinforcement Learning in Action"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course in Deep Learning",
+    "course_category": "Certificate Course",
+    "course_duration": "3 Months",
+    "department": "Programming",
+    "objective": "This course equips learners with a strong foundation in deep learning concepts, architectures, and practical applications using Python-based libraries. Learners will design and implement ANN, DNN, CNN, and RNN models to solve real-world AI problems.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Overview",
+          "Python and Libraries for Deep Learning",
+          "Artificial Neural Network",
+          "Deep Neural Network"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Convolutional Neural Network",
+          "Advanced CNN",
+          "Recurrent Neural Network",
+          "Advanced Topics"
+        ]
+      },
+      {
+        "module": 3,
+        "topics": ["Deep Learning Projects"]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Data Science",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course introduces data science principles required to solve real-world problems in business and academia, including data acquisition, cleaning, analysis, and basic statistical foundations.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Data Analysis",
+          "Data Mining Concepts and Application",
+          "Data Pre-processing",
+          "Data Wrangling",
+          "Data Integration",
+          "Data Reduction",
+          "Web Mining (Web Scraping)"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Data Visualization",
+          "Scikit Learn",
+          "Implementation of Kaggle Dataset Projects",
+          "Who is Data Analyst",
+          "Real Time Projects"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course in Artificial Intelligence",
+    "course_category": "Certificate Course",
+    "course_duration": "3 Months",
+    "department": "Programming",
+    "objective": "This course helps learners unlock the power of Artificial Intelligence by covering Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing using Python. It includes hands-on projects, modern frameworks, large language models, transformer architecture, prompt engineering, and emphasizes ethical and responsible AI practices.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to AI and Python Programming",
+          "Machine Learning and its Applications",
+          "Introduction to Deep Learning"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Deep Learning and Neural Networks",
+          "Computer Vision with OpenCV and Modern Techniques",
+          "Natural Language Processing and Large Language Models"
+        ]
+      },
+      {
+        "module": 3,
+        "topics": [
+          "Advanced AI Applications and Integration",
+          "Generative AI and Prompt Engineering",
+          "AI Ethics and Responsible AI"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course in Android with Flutter",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course enables learners to develop Android applications using the Flutter framework. It provides foundational and advanced knowledge required to build, debug, and deploy mobile applications using Dart and Flutter.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Android Studio",
+          "Java Deep Dive",
+          "Android UI",
+          "Activities and Intents, Fragments",
+          "Android Material Design",
+          "Networking APIs and JSON"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Advanced Features",
+          "Debugging and Publishing App to Play Store",
+          "Dart Programming",
+          "Flutter"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in POWER BI",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course helps learners connect, model, and visualize data using Power BI. It enables users to create interactive reports and dashboards to support data-driven business decision-making.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Data Analysis",
+          "Power BI Desktop",
+          "Getting Reports in Power BI Desktop",
+          "Graphs and Visualization",
+          "Interactive Dashboards"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "DAX Formulas",
+          "Power BI Query Editor",
+          "Other Data Sources",
+          "Power BI Cloud, Service and Mobile"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in JavaScript",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course introduces the basics of JavaScript programming and core programming fundamentals. Learners will understand JavaScript objects, the Document Object Model (DOM), and event handling to build simple interactive web pages.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to JavaScript",
+          "Programming Fundamentals",
+          "JavaScript Objects",
+          "Document Object Model (DOM)",
+          "DOM Events"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Data Analytics",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course equips learners with essential skills in data analysis, visualization, and reporting using tools such as Excel, Python, and Power BI, enabling them to interpret data and support data-driven decision-making in real-world scenarios.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Data Analysis",
+          "Data Analysis with Excel",
+          "Project on Excel"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": ["Data Analytics with Python", "Project on Python"]
+      },
+      {
+        "module": 3,
+        "topics": ["Data Analytics with Power BI", "Project on Power BI"]
+      },
+      {
+        "module": 4,
+        "topics": [
+          "Monitoring Job Application and Exploring Application of Data Analytics",
+          "Capstone Project",
+          "Job Profile Creation and Interview Preparation"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "G-TEC English Data Entry Course",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Ms office/typing",
+    "objective": "This course is designed to meet the growing demand for English language typists and data entry operators in print media, graphic designing, and office work. It focuses on English typing using ten-finger touch typing along with practice tools such as speed tests, accuracy tests, and reporting.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "How to Type",
+          "Introduction to English Language",
+          "Lesson Practice",
+          "Test Practice",
+          "Typing Reports"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In Office 365",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Ms office/typing",
+    "objective": "On completion of this course, learners will understand the components of Office 365 and be able to use its cloud-based productivity features.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": ["Office 365"]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In WordPress",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Ms office/typing",
+    "objective": "This course teaches learners to create responsive and interactive websites, blogs, and portfolios using WordPress. It focuses on designing SEO-friendly and professional websites using themes and development tools.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction",
+          "Designing",
+          "Theme Development",
+          "Website Development",
+          "Deployment"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In Laravel",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Programming",
+    "objective": "This course introduces Laravel, a PHP framework that follows the MVC architectural pattern. It enables learners to build web applications with ease using modern development practices and backend connectivity.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": ["Web Development Basics", "Laravel"]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In Dart Programming",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Programming",
+    "objective": "This course introduces Dart programming language for building single-page web applications. It covers core programming concepts and object-oriented programming to help learners develop applications for both server and browser environments.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Dart Programming: Introduction",
+          "Syntax and Data Type",
+          "Variables, Operators and Loops",
+          "Decision Making",
+          "Strings, Boolean, Map, Class, Arrays and Functions",
+          "Dart Enumeration",
+          "Object Oriented Programming"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course In Google Go Programming",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Programming",
+    "objective": "This course introduces the Go programming language (Golang) from scratch, helping learners build foundational understanding and progress toward advanced programming skills.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": ["Google Go Programming"]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course In MS Excel",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Ms office/typing",
+    "objective": "This course provides basic and advanced concepts of Microsoft Excel, enabling learners to manage data in worksheets, perform calculations, analyze data, and create reports using built-in tools.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Microsoft Excel: Introduction",
+          "Workbook and Worksheet",
+          "Excel Calculation and Formula",
+          "Sort and Filter Data",
+          "Analyzing using Pivot Table and Charts"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course In MS Access",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Ms office/typing",
+    "objective": "This course introduces learners to DBMS and RDBMS concepts using Microsoft Access in a simplified and practical manner.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to RDBMS",
+          "Working with Databases",
+          "Queries",
+          "Data Grouping and Ordering",
+          "Data Relationships",
+          "Data Validation",
+          "Forms",
+          "Reports",
+          "Macros",
+          "Importing and Exporting Data"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Advanced Python",
+    "course_category": "Certificate Course",
+    "course_duration": "3 Months",
+    "department": "Programming",
+    "objective": "This course provides in-depth knowledge of Python programming along with data structures and data analytics. It enables learners to build Python applications, connect with MySQL databases, and develop GUI applications using Tkinter.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Core Python Programming",
+          "Programming Concepts",
+          "Introduction to Python",
+          "Installation & Environment Setup",
+          "Program Creation and Execution",
+          "Decision Structures (if, if-else, nested conditions)",
+          "Loops (for, while, nested loops)",
+          "Collection Data Types (List, Tuple, Dictionary, Set)",
+          "String Manipulation",
+          "Functions (User-defined and Built-in)",
+          "Exception Handling"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Advanced Python and Data Handling",
+          "Data Structures in Python",
+          "Object-Oriented Programming Concepts: Class, Object & Inheritance",
+          "File Manipulation (Read, Write, Append Operations)",
+          "Introduction to RDBMS & MySQL",
+          "Database Operations in MySQL using Python",
+          "Python Libraries for Data Analytics"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Software Testing",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "Software testing helps identify defects introduced during software development and ensures the quality of the software meets business and user requirements.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Manual Testing",
+          "SQL (Structured Query Language)",
+          "Selenium",
+          "JMeter",
+          "Atlassian Jira"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in MS Office",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Ms office/typing",
+    "objective": "This course equips learners with practical skills in Microsoft Word, Excel, and PowerPoint to create professional documents, analyze data, and design effective presentations for academic and workplace productivity.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Microsoft Office Word",
+          "Microsoft Office Presentation",
+          "Microsoft Office Excel"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course in Angular",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course provides hands-on training in building dynamic web applications using Angular. Learners will understand components, forms, routing, event handling, and asynchronous programming with RxJS to develop structured front-end applications.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction",
+          "Installation & Environment Setup",
+          "Event Emitter",
+          "Iteration",
+          "Forms",
+          "Pipes",
+          "Routing",
+          "RxJS and Observables",
+          "Sharing Data among Components"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Soft Skill Development Program",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Ms office/typing",
+    "objective": "This course enhances communication skills, personality development, and professional etiquette, improving employability and preparing learners for interviews, group discussions, and workplace interactions.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Communicative English",
+          "Personality Development",
+          "Group Discussion"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Interview Skills / HR Round",
+          "Aptitude / Numerical Ability",
+          "Reasoning and Aptitude"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Programming in C - Online",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This online course builds a strong foundation in C programming, covering data types, control structures, functions, pointers, and file handling, enabling learners to develop problem-solving skills through flexible online learning.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Basics of programming and history of C",
+          "Data types and variables",
+          "Constants and operators"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Control structure and function",
+          "Pointers and command line arguments",
+          "Structure linked list, file handling and basic graphics"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Programming in C++ - Online",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This online course builds strong programming skills in C++ with an object-oriented approach. Learners will understand core OOP concepts and develop efficient programs using classes, inheritance, polymorphism, file handling, and exception management.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Fundamentals of OOP",
+          "Basics of C++",
+          "Functions, Arrays, Union, Pointers",
+          "Classes and Objects",
+          "Inheritance and Polymorphism",
+          "File Organization, Exception Handling & Pre-Processor Directives"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Python Basics - Online",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This online course is designed for beginners to learn the basics of Python programming, including fundamental programming concepts, control structures, functions, and basic data handling.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Programming Concepts, Introduction to Python, Installation & Environment Setup",
+          "Program Creation and Execution",
+          "Decision Structures",
+          "Loops",
+          "Collection Data Types (List, Tuple, Dictionary, Set)",
+          "String Manipulation"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Functions",
+          "Exceptions",
+          "Object Oriented Programming: Class, Object & Inheritance",
+          "File Manipulation"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in AI Powered Excel",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Ms office/typing",
+    "objective": "This course combines Microsoft Excel with AI features to help learners analyze data faster, automate tasks, create visualizations, and make data-driven decisions using AI-powered tools and insights.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Microsoft Excel: Introduction",
+          "Workbook and Worksheet",
+          "Excel Calculation and Formula",
+          "Sort and Filter Data",
+          "Analyzing using Pivot Table and Charts"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Introduction to AI in Excel",
+          "Advanced AI Tools and Techniques",
+          "Introduction to Microsoft Copilot in Excel",
+          "Introduction to ChatGPT and Excel Integration"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in AI Powered Word",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months / 72 Hours",
+    "department": "Ms office/typing",
+    "objective": "This course integrates Microsoft Word with AI features to help learners automate writing tasks, generate content, summarize information, and make data-driven document improvements using AI-powered tools.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": ["Microsoft Office Word"]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Introduction to AI in Word",
+          "Drafting with Copilot in Word",
+          "Transforming Content with Copilot",
+          "Summarizing and Understanding with Copilot"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in AI Powered PowerPoint",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Ms office/typing",
+    "objective": "This course integrates Microsoft PowerPoint with AI features to help learners create impactful presentations, automate slide creation, generate insights, and make data-driven visual content using AI tools.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": ["Microsoft Office Presentation"]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Introduction to AI in PowerPoint",
+          "Creating Engaging Presentations With AI",
+          "Interactive Conversations With ChatGPT",
+          "Data-Driven Slides",
+          "Advanced AI Techniques"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate in Office Administration",
+    "course_category": "Certificate Course",
+    "course_duration": "3 Months",
+    "department": "Ms office/typing",
+    "objective": "This program develops competent office professionals with administrative, interpersonal, and technological skills required for modern workplace environments.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Organizational Behavior",
+          "Personality Development",
+          "Office Management",
+          "Spoken English Training",
+          "Microsoft Word/Excel",
+          "Telecommunications and Closing Skills",
+          "Advanced Sales Strategies",
+          "Public Relations Officer",
+          "Importance of ChatGPT in Today's Working Condition"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": ["Internship Programme"]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in TABLEAU",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course provides learners with the essential knowledge and practical skills required to design, develop, and interpret data visualizations and apply business intelligence techniques using Tableau.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Tableau",
+          "Tableau Interface",
+          "Chart Types & Data Visualization",
+          "Run Time Columns"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Data Formatting & Advanced Function",
+          "Filters",
+          "Dashboards & Storyline in Tableau",
+          "Publish Workbooks"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Data Manipulation Using Python",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course provides basic Python programming skills and focuses on data manipulation techniques using Python libraries such as NumPy and Pandas.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Programming Concepts, Introduction to Python, Installation & Environment Setup",
+          "Program Creation and Execution",
+          "Decision Structures",
+          "Loops",
+          "Collection Data Types (List, Tuple, Dictionary, Set)",
+          "String Manipulation",
+          "Functions",
+          "Exceptions"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Overview of Data Manipulation",
+          "Packages for Data Manipulation (NumPy and Pandas)",
+          "Data Manipulation using NumPy and Pandas"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Data Visualization Using Python",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course provides basic Python programming skills and focuses on data manipulation and visualization using libraries such as NumPy, Matplotlib, and Seaborn.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Programming Concepts, Introduction to Python, Installation & Environment Setup",
+          "Program Creation and Execution",
+          "Decision Structures",
+          "Loops",
+          "Collection Data Types (List, Tuple, Dictionary, Set)",
+          "String Manipulation",
+          "Functions",
+          "Exceptions"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "NumPy",
+          "Overview of Data Visualization",
+          "Data Visualization using Matplotlib and NumPy",
+          "Data Visualization using Seaborn"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in GUI Programming Using Python",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course provides basic Python programming skills and focuses on GUI and Windows application development using Tkinter.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Programming Concepts, Introduction to Python, Installation & Environment Setup",
+          "Program Creation and Execution",
+          "Decision Structures",
+          "Loops",
+          "Collection Data Types (List, Tuple, Dictionary, Set)",
+          "String Manipulation",
+          "Functions",
+          "Exceptions"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Concepts of GUI Programming",
+          "Tkinter Programming",
+          "Tkinter Widgets",
+          "Standard Attributes",
+          "Geometry Management"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course In Internet Of Things Using Python",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course enables learners to design and develop real-time Internet of Things (IoT) prototypes using Python programming and Raspberry Pi integration.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Programming Concepts, Introduction to Python, Installation & Environment Setup",
+          "Program Creation and Execution",
+          "Decision Structures & Loops",
+          "Collection Data Types (List, Tuple, Dictionary, Set)",
+          "Functions",
+          "Exceptions",
+          "Object Oriented Programming: Class, Object & Inheritance",
+          "File Manipulation"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Introduction to Internet of Things",
+          "Introduction to Raspberry Pi",
+          "Python Program with Raspberry Pi",
+          "IoT Physical Servers and Cloud Offerings"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In C++ With Graphics",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course introduces beginners to object-oriented programming using C++, along with graphical programming concepts for building visual applications.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Fundamentals of OOP",
+          "Basics of C++",
+          "Functions, Arrays",
+          "Classes and Objects",
+          "Inheritance",
+          "File Organization, Exception Handling & Pre-Processor Directives",
+          "Graphical Programming using C++"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "G-TEC Certified Object-Oriented Programmer",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course introduces core programming concepts using popular object-oriented programming languages to build a strong foundation in software development.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": ["Programming in C", "Programming in C++", "Java SE"]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In Excel And Looker Studio",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Ms office/typing",
+    "objective": "This course provides a comprehensive introduction to data analysis and visualization using Microsoft Excel and Looker Studio, including AI-powered tools for building dashboards, reports, and data-driven insights.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Data Analysis & Visualization",
+          "Introduction to Excel",
+          "Working with Formulas and Functions",
+          "Data Sorting and Filtering",
+          "Auditing",
+          "Charts and Tables",
+          "Working with Data",
+          "What-If Analysis",
+          "AI-Powered Features in Excel",
+          "Exporting, Importing and Reviewing a Worksheet",
+          "VBA Macro"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Modern Looker Studio with AI Analytics",
+          "Looker Studio Fundamentals",
+          "AI-Powered Insights with Gemini",
+          "Advanced Visualization and Dashboard Design",
+          "Integration and Collaboration",
+          "Real-World Applications and Case Studies"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In PostgreSQL",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course provides a strong foundation in relational databases using PostgreSQL, enabling learners to design, query, and manage structured data efficiently using SQL.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Databases & PostgreSQL",
+          "Database Design Basics",
+          "SQL Basics – CRUD Operations",
+          "Joins & Subqueries",
+          "Data Integrity & Constraints",
+          "Views and Indexes",
+          "Functions and Stored Procedures",
+          "Transactions & Concurrency"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In ODOO",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course provides an understanding of Odoo ERP, including core business modules such as Sales, Purchase, Inventory, Accounting, CRM, and Project management. Learners will gain skills in configuration, customization, user management, and end-to-end business workflows.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to ODOO",
+          "Understanding ODOO Modules",
+          "Basic Functional Flows",
+          "Users and Security"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Sales & CRM in Detail",
+          "Purchasing & Inventory",
+          "Accounting (Functional Overview)"
+        ]
+      },
+      {
+        "module": 3,
+        "topics": [
+          "ODOO Studio (No-code Customization)",
+          "Reporting and Dashboards"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in DRUPAL",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course helps learners master Drupal development, including site architecture, theming, and content management, to build and maintain robust content-rich web applications.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Web Application Development",
+          "Introduction to PHP",
+          "RDBMS with MySQL",
+          "Introduction to Drupal",
+          "Site Planning",
+          "Installation",
+          "Basic Site Configuration",
+          "Basic Page Management",
+          "Database Management in Drupal Using MySQL",
+          "Setting Up Content Structure",
+          "Managing User Accounts",
+          "Blocks",
+          "Creating Listings with Views",
+          "Extending and Customizing Your Site"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In DEVOPS",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course focuses on enabling faster, more reliable, and continuous software delivery by integrating development and operations through automation, collaboration, and monitoring practices.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Overview of DevOps",
+          "Traditional SDLC",
+          "History",
+          "Architecture",
+          "Life Cycle",
+          "Tools",
+          "Automation",
+          "Pipeline",
+          "Agile",
+          "AWS Solutions for DevOps",
+          "Azure Solutions for DevOps"
+        ]
+      },
+      {
+        "module": 2,
+        "topics": [
+          "Development",
+          "Integration",
+          "Testing",
+          "Delivery",
+          "Deployment",
+          "Monitoring",
+          "Improvement"
+        ]
+      },
+      {
+        "module": 3,
+        "topics": [
+          "Infrastructure",
+          "Git",
+          "Docker",
+          "Selenium",
+          "Jenkins",
+          "Ansible",
+          "Kubernetes",
+          "Jira"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In Looker Studio",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Programming",
+    "objective": "This course equips participants with the skills to use Looker Studio for effective data visualization and reporting, enabling them to create dashboards and derive insights for data-driven decision-making.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Getting Started with Looker Studio",
+          "Data Connections",
+          "Building Dashboards",
+          "Enhancing Visualizations",
+          "Collaboration and Sharing Insights",
+          "Real-World Applications"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In FIGMA",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Programming",
+    "objective": "This course introduces user interface design using Figma, focusing on creating interactive designs and prototypes with strong collaboration features.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Tools in Figma",
+          "Creating Designs, Prototyping and Exporting"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "G-TEC Tamil Data Entry Course",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Ms office/typing",
+    "objective": "This course is designed to meet the growing demand for Tamil language typing and data entry skills in print media, graphic design, and office work, focusing on touch typing proficiency and accuracy.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "How to Type",
+          "Introduction to Tamil Language",
+          "Lesson Practice",
+          "Test Practice",
+          "Typing Reports"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In Bootstrap",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Programming",
+    "objective": "This course provides a comprehensive introduction to Bootstrap, a popular mobile-first front-end framework that simplifies faster and responsive web development using HTML, CSS, and JavaScript.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction",
+          "Layouts",
+          "Content",
+          "Components",
+          "Forms",
+          "Helpers",
+          "Utilities"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In AI Integration In Excel",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Ms office/typing",
+    "objective": "This course provides an understanding of AI tools and their integration within Microsoft Excel to enhance data analysis, visualization, and automation skills for data-centric roles.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to AI in Excel",
+          "Advanced AI Tools and Techniques",
+          "Introduction to Microsoft Copilot in Excel",
+          "Introduction to ChatGPT and Excel Integration"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In AI Integration In Word",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Ms office/typing",
+    "objective": "This course provides an understanding of AI tools and their integration within Microsoft Word to enhance document creation, editing, and automation for document-centric roles.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to AI in Word",
+          "Drafting with Copilot in Word",
+          "Transforming Content with Copilot",
+          "Summarizing and Understanding with Copilot"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In AI Integration In PowerPoint",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Ms office/typing",
+    "objective": "This course provides an understanding of AI tools and their integration within Microsoft PowerPoint to enhance presentation creation, design automation, and data-driven storytelling for presentation-centric roles.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to AI in PowerPoint",
+          "Creating Engaging Presentations with AI",
+          "Interactive Conversations with ChatGPT",
+          "Data-Driven Slides",
+          "Advanced AI Techniques"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course In Java Basics",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Programming",
+    "objective": "This course introduces basic Java syntax and semantics, helping learners transition to object-oriented programming through core Java concepts.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Java",
+          "OOPS Concept",
+          "Functions, Modules, Interfaces, Inheritances & Exceptions",
+          "String, Collections and Files"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In Adobe Acrobat",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Ms office/typing",
+    "objective": "This course develops skills in handling and manipulating PDF files using Adobe Acrobat to improve productivity and professional document management.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Acrobat",
+          "Workspace",
+          "Creating PDFs",
+          "Editing PDFs",
+          "Saving and Exporting PDFs",
+          "Printing",
+          "Searching and Indexing",
+          "Color Management"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In Express.Js",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Programming",
+    "objective": "This course introduces Express.js for building fast, scalable, and efficient server-side applications using a non-blocking I/O model suitable for real-time and data-intensive applications.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Overview",
+          "Environment",
+          "Routing",
+          "HTTP Methods",
+          "URL Building",
+          "Middleware",
+          "Templating",
+          "Static Files",
+          "Form Data",
+          "Database",
+          "Cookies",
+          "Sessions",
+          "Authentication",
+          "RESTful APIs",
+          "Scaffolding",
+          "Error Handling",
+          "Debugging",
+          "Project Work"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In MS Outlook",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Ms office/typing",
+    "objective": "This course enables learners to effectively use Microsoft Outlook for email communication, calendar management, and contact organization to improve personal and professional productivity.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Microsoft Outlook",
+          "Using Microsoft Outlook Email Folders",
+          "Linking Email Accounts to Microsoft Outlook",
+          "Composing an Email in Microsoft Outlook",
+          "Creating and Using Microsoft Outlook Folders",
+          "Using Microsoft Outlook Calendar",
+          "Using Microsoft Outlook Contacts"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Digi Pro",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Programming",
+    "objective": "This course introduces learners to basic digital tools including Google Drive, video conferencing platforms, social media marketing, and basic image editing using Canva.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "IT Basics",
+          "Google Drive",
+          "Video Conferencing Services",
+          "Social Media Marketing",
+          "Image Editing using Canva"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Certificate Course In Next.js",
+    "course_category": "Certificate Course",
+    "course_duration": "1 Month",
+    "department": "Programming",
+    "objective": "This course enables learners to build modern, high-performance web applications using Next.js, including server-side rendering, static site generation, routing, and backend functionality.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Overview",
+          "Environment Setup",
+          "Pages",
+          "Static File Serving",
+          "Features",
+          "Pre-Rendering",
+          "Routing",
+          "Environment Variables"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course in Embedded C Programming",
+    "course_category": "Certificate Course",
+    "course_duration": "2 Months",
+    "department": "Programming",
+    "objective": "This course equips learners with skills in Embedded C programming, GNU toolchain usage, and 8051 microcontroller programming, including serial communication, interrupts, and interfacing for embedded systems and IoT applications.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Basic Programming Concepts",
+          "Introduction to Embedded C",
+          "8051 Programming in C",
+          "8051 Serial Port and Interrupt Programming in C",
+          "8051 Interfacing"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_name": "Certificate Course In Generative AI",
+    "course_category": "Certificate Course",
+    "course_duration": "3 Months",
+    "department": "Programming",
+    "objective": "This course provides comprehensive knowledge and practical skills in Generative AI and Prompt Engineering, enabling learners to create innovative and dynamic content across various domains.",
+    "course_outline": [
+      {
+        "module": 1,
+        "topics": [
+          "Introduction to Generative AI",
+          "Responsible AI & Ethics",
+          "Advanced Concepts",
+          "Free & Open-source AI Tools Ecosystem",
+          "Generative AI Fundamentals & Applications"
+        ]
+      }
+    ]
+  }
+]

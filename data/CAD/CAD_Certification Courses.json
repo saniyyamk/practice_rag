@@ -1,0 +1,1177 @@
+[
+{
+  "course_name": "Certificate Course in ArchiCAD",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 72,
+    "months": 2
+  },
+  "objective": "ArchiCAD is a powerful software offering integrated 2D and 3D design, modeling, documentation, and visualization tools to manage projects from concept to construction. The course emphasizes efficient workflows, collaboration, and data-driven design within a single platform. Participants will learn to manage all project data in a central model, streamlining design, documentation, and coordination processes.",
+  "course_outline": [
+    {
+      "module": "ArchiCAD Internal & External Structures"
+    },
+    {
+      "module": "Design and Analyze"
+    },
+    {
+      "module": "Dimensioning"
+    },
+    {
+      "module": "Visualization"
+    },
+    {
+      "module": "Layout and Publishing"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "G-Draughtsman",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 108,
+    "months": 3
+  },
+  "objective": "Learn the fundamentals of engineering drawing and AutoCAD. This course provides the foundational skills required to enter the engineering design and drafting field, enabling learners to create precise and accurate technical drawings and infrastructure designs.",
+  "course_outline": [
+    {
+      "module": "Manual Drawing"
+    },
+    {
+      "module": "AutoCAD 2D"
+    },
+    {
+      "module": "AutoCAD 3D"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Diploma in Electrical Drawing",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 108,
+    "months": 3
+  },
+  "objective": "The program is designed to equip students with the knowledge and practical skills required to create, interpret, and modify electrical drawings used in residential and commercial electrical systems. The course focuses on developing proficiency in drafting techniques using CAD, as well as understanding electrical symbols, wiring diagrams, circuit layouts, and electrical design standards.",
+  "course_outline": [
+    {
+      "module": "AutoCAD 2D"
+    },
+    {
+      "module": "AutoCAD Electrical"
+    },
+    {
+      "module": "Autodesk Eagle Basic"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Diploma in Project Management",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 72,
+    "months": 2
+  },
+  "objective": "The course focuses on modern project management principles, methodologies, and best practices, enabling participants to manage time, cost, scope, quality, risk, and resources effectively. It includes training in project management software such as MS Project and Primavera.",
+  "course_outline": [
+    {
+      "module": "Primavera P6"
+    },
+    {
+      "module": "Microsoft Project"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Certificate Course in Pre-Engineering",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "For all engineering streams, Engineering Drawing and Programming are mandatory subjects. Engineering students often find it difficult to follow these subjects due to limited focus on basics in regular classes. This course is designed to strengthen foundational knowledge and help students build confidence in core engineering concepts.",
+  "course_outline": [
+    {
+      "module": "Engineering Graphics (Manual Drawing & AutoCAD)"
+    },
+    {
+      "module": "Computer Programming (C / C++ / Java)"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Certificate Course in Revit Architecture",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "This course helps learners visualize building and architectural designs using Revit Architecture. It introduces a meaningful and highly recommended BIM tool for architects and engineers to create and understand design visualization beyond pure technical engineering concepts.",
+  "course_outline": [
+    {
+      "module": "Introduction to BIM and Revit Architecture"
+    },
+    {
+      "module": "Basics of Building Model"
+    },
+    {
+      "module": "Editing and Modifying Elements"
+    },
+    {
+      "module": "Creating Views"
+    },
+    {
+      "module": "Graphics and Visibility Settings"
+    },
+    {
+      "module": "Annotation and Detailing"
+    },
+    {
+      "module": "Importing and Exporting"
+    },
+    {
+      "module": "Rendering and Walkthrough"
+    },
+    {
+      "module": "Project"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Certificate Course in CATIA",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 72,
+    "months": 2
+  },
+  "objective": "CATIA is CAD/CAM/CAE software used in automotive, aerospace, and industrial design. This course trains students in 3D modeling, surface design, assembly creation, drafting, and product design workflows. Learners gain hands-on skills to design complex mechanical parts and assemblies used in real-world engineering applications.",
+  "course_outline": [
+    {
+      "module": "CATIA Workbench"
+    },
+    {
+      "module": "Assembly Design"
+    },
+    {
+      "module": "Wireframe and Surface Design"
+    },
+    {
+      "module": "Generative Sheet Metal Design"
+    },
+    {
+      "module": "Simulation and DMU Kinematics"
+    },
+    {
+      "module": "Project"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Certificate Course in SolidWorks",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 72,
+    "months": 2
+  },
+  "objective": "SolidWorks is an industry-leading 3D CAD software used for product design, mechanical engineering, and manufacturing. The course trains learners in parametric design, part modeling, assemblies, sheet metal, surface modeling, and drafting. Students acquire essential skills to design mechanical components, simulate performance, and create manufacturing-ready drawings.",
+  "course_outline": [
+    {
+      "module": "2D Sketching"
+    },
+    {
+      "module": "3D Modeling"
+    },
+    {
+      "module": "Sheet Metal Designing"
+    },
+    {
+      "module": "Assembly Drawing"
+    },
+    {
+      "module": "Motion Simulation and Process"
+    },
+    {
+      "module": "Case Studies and Projects"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Certificate Course in ANSYS",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 72,
+    "months": 2
+  },
+  "objective": "ANSYS is a powerful engineering simulation software used for Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), and multiphysics simulations. This course trains students to analyze structural, thermal, fluid, and dynamic problems using industry-standard ANSYS Workbench tools. Learners gain skills to validate and optimize engineering designs through simulation.",
+  "course_outline": [
+    {
+      "module": "Basics of FEA"
+    },
+    {
+      "module": "ANSYS Workbench"
+    },
+    {
+      "module": "ANSYS Mechanical Modeler"
+    },
+    {
+      "module": "ANSYS SpaceClaim"
+    },
+    {
+      "module": "Modeling Periodic Flow and Heat Transfer"
+    },
+    {
+      "module": "Fluid Analysis"
+    },
+    {
+      "module": "Failure Analysis"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Certificate Course in Primavera P6",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 72,
+    "months": 2
+  },
+  "objective": "Primavera P6 is a powerful project portfolio management (PPM) software used for planning, managing, and executing projects, programs, and portfolios. It provides integrated solutions for project scheduling, resource allocation, cost control, and progress tracking, making it suitable for projects of any size and complexity.",
+  "course_outline": [
+    {
+      "module": "Getting Started with Primavera P6"
+    },
+    {
+      "module": "Scheduling in Primavera P6"
+    },
+    {
+      "module": "Resource Management in Primavera"
+    },
+    {
+      "module": "Cost Management in Primavera"
+    },
+    {
+      "module": "Activity Coding in Primavera"
+    },
+    {
+      "module": "Baselines in Primavera"
+    },
+    {
+      "module": "Progress Updating in Primavera"
+    },
+    {
+      "module": "Advanced P6 Techniques in Excel"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Certificate Course in STAAD.Pro",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 72,
+    "months": 2
+  },
+  "objective": "STAAD.Pro addresses all production needs of structural engineering. Its core capabilities include model generation, static and dynamic analysis, and steel and concrete design.",
+  "course_outline": [
+    {
+      "module": "Theory on Structural Analysis"
+    },
+    {
+      "module": "Introduction to STAAD.Pro"
+    },
+    {
+      "module": "Cross Sectional Shapes and Finite Element Modeling"
+    },
+    {
+      "module": "Structural Analysis I"
+    },
+    {
+      "module": "Structural Analysis II"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Certificate Course in AutoCAD Electrical",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "This course provides knowledge in electrical design and drawing using AutoCAD Electrical. It focuses on creating electrical control schematics for single and three phase AC as well as DC applications. It also enables learners to define control panel layouts with different components according to industry-standard diagrams.",
+  "course_outline": [
+    {
+      "module": "Introduction to AutoCAD Electrical"
+    },
+    {
+      "module": "Drawing Tools"
+    },
+    {
+      "module": "Schematics"
+    },
+    {
+      "module": "Panel Drawings"
+    },
+    {
+      "module": "Wiring Drawings"
+    },
+    {
+      "module": "Terminals"
+    },
+    {
+      "module": "Symbols"
+    },
+    {
+      "module": "Settings and Templates"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Certificate Course in AutoCAD (Civil)",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 72,
+    "months": 2
+  },
+  "objective": "The course is designed to provide learners with essential skills to create, modify, and manage civil engineering drawings using AutoCAD software. It focuses on drafting techniques used in civil engineering projects, including plans, building layouts, sections, elevations, and infrastructure drawings. Learners develop proficiency in 2D drafting, annotation, layering, dimensioning, and plot management. The course also introduces 3D concepts relevant to civil designs and prepares students to interpret technical drawings accurately.",
+  "course_outline": [
+    {
+      "module": "AutoCAD Tools"
+    },
+    {
+      "module": "Layer Management"
+    },
+    {
+      "module": "Annotation Tools"
+    },
+    {
+      "module": "3D Modeling"
+    },
+    {
+      "module": "Surface & Mesh Modeling"
+    },
+    {
+      "module": "Layout, Plot & Publish"
+    },
+    {
+      "module": "Projects"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Certificate Course in AutoCAD (Mechanical)",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 72,
+    "months": 2
+  },
+  "objective": "The course is designed to provide students and professionals with technical skills needed to create precise mechanical drawings using AutoCAD software. It focuses on 2D drafting and 3D concepts used in mechanical design, manufacturing, and product development. Learners gain hands-on experience with mechanical components, assembly drawings, dimensioning standards, and industrial drafting practices.",
+  "course_outline": [
+    {
+      "module": "AutoCAD Tools"
+    },
+    {
+      "module": "Layer Management"
+    },
+    {
+      "module": "Annotation Tools"
+    },
+    {
+      "module": "3D Modeling"
+    },
+    {
+      "module": "Surface & Mesh Modeling"
+    },
+    {
+      "module": "Layout, Plot & Publish"
+    },
+    {
+      "module": "Mechanical Projects"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Digital Architect",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 108,
+    "months": 3
+  },
+  "objective": "A designing and animation course focused on building design. It enables learners to create and visualize architectural models and animate building concepts using digital tools.",
+  "course_outline": [
+    {
+      "module": "Basics of Engineering Graphics"
+    },
+    {
+      "module": "AutoCAD"
+    },
+    {
+      "module": "3ds Max"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Certificate Course in Autodesk Civil 3D",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 72,
+    "months": 2
+  },
+  "objective": "AutoCAD Civil 3D is designed for civil engineers and surveyors to utilize interactive, dynamic design functionality. It enables rapid development of design alternatives through model-based tools. Learners gain skills in organizing project data, working with points, creating and analyzing surfaces, modeling road corridors, creating parcel layouts, performing grading and volume calculations, and designing pipe networks.",
+  "course_outline": [
+    {
+      "module": "Civil 3D"
+    },
+    {
+      "module": "Project Management"
+    },
+    {
+      "module": "Parcels, Survey & Surfaces"
+    },
+    {
+      "module": "Breaklines and Boundaries"
+    },
+    {
+      "module": "Corridor Design"
+    },
+    {
+      "module": "Pipe Networks"
+    },
+    {
+      "module": "Grading"
+    },
+    {
+      "module": "Quantity Takeoff"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Certificate Course in Creo Parametric",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 72,
+    "months": 2
+  },
+  "objective": "CREO is a professional 3D CAD software used for product design, mechanical engineering, and manufacturing design. The course trains students in parametric modeling, assembly design, sheet metal, surface modeling, and detailed drafting. Learners develop the skills required to create industry-standard mechanical components, simulate product performance, and prepare manufacturing-ready drawings.",
+  "course_outline": [
+    {
+      "module": "Introduction to Creo"
+    },
+    {
+      "module": "Creating Sketches"
+    },
+    {
+      "module": "Advanced Sketching"
+    },
+    {
+      "module": "Creating Datum Features"
+    },
+    {
+      "module": "Part Modeling"
+    },
+    {
+      "module": "Surface Modeling"
+    },
+    {
+      "module": "Assembly Modeling"
+    },
+    {
+      "module": "Sheet Metal Components"
+    },
+    {
+      "module": "Dimensioning Drawing Views"
+    },
+    {
+      "module": "Project"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Certificate Course in Siemens NX",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 72,
+    "months": 2
+  },
+  "objective": "Siemens NX is an advanced integrated CAD/CAM/CAE software used for product design, engineering analysis, and manufacturing. This course trains learners in 3D parametric modeling, surface design, assembly creation, drafting, simulation, and CNC programming. Students gain hands-on experience in designing industry-grade mechanical components and preparing manufacturing-ready tool paths.",
+  "course_outline": [
+    {
+      "module": "Drawing Sketches for Solid Models"
+    },
+    {
+      "module": "Editing, Extruding and Revolving Sketches"
+    },
+    {
+      "module": "Advanced Modelling Tools I"
+    },
+    {
+      "module": "Advanced Modelling Tools II"
+    },
+    {
+      "module": "Assembly Modelling I"
+    },
+    {
+      "module": "Assembly Modelling II"
+    },
+    {
+      "module": "Surface Modelling"
+    },
+    {
+      "module": "Sheet Metal Design"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Certificate Course in Architectural Visualization",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 72,
+    "months": 2
+  },
+  "objective": "This certificate program is a specialized training designed to equip learners with the skills needed to create photorealistic 3D visualizations, renders, and walkthrough animations for architectural and interior design projects.",
+  "course_outline": [
+    {
+      "module": "Getting Started with 3ds Max"
+    },
+    {
+      "module": "Viewing and Navigating in 3D Space"
+    },
+    {
+      "module": "Creating Geometry"
+    },
+    {
+      "module": "Surface Modeling"
+    },
+    {
+      "module": "Animation"
+    },
+    {
+      "module": "Lights and Cameras"
+    },
+    {
+      "module": "Rendering"
+    },
+    {
+      "module": "Effects and Environment"
+    },
+    {
+      "module": "Autodesk Civil View"
+    },
+    {
+      "module": "Basics of AutoCAD and Revit Architecture"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Certificate Course in Revit MEP",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 72,
+    "months": 2
+  },
+  "objective": "This certificate program provides practical training in Building Information Modeling (BIM) using Autodesk Revit MEP. Students learn to design and model HVAC systems, electrical power and lighting layouts, water supply, drainage, and fire protection systems in a BIM workflow. It focuses on working with Mechanical, Electrical, and Piping components in Autodesk Revit.",
+  "course_outline": [
+    {
+      "module": "Tools and Drawing"
+    },
+    {
+      "module": "HVAC Networks"
+    },
+    {
+      "module": "Electrical Power Systems"
+    },
+    {
+      "module": "Plumbing Systems"
+    },
+    {
+      "module": "Fire Fighting Systems"
+    },
+    {
+      "module": "Detailing & Documentation"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Certificate Course in Lumion",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "Lumion is a 3D visualization software used by architects, designers, and engineers to create architectural renders, animations, and walkthroughs. This course trains learners to produce photorealistic images, videos, and VR-ready scenes, enhancing presentations for clients, real estate, and design studios. It equips learners with practical skills to transform CAD or BIM models into high-quality renders and animations using Lumion.",
+  "course_outline": [
+    {
+      "module": "Introduction to Lumion"
+    },
+    {
+      "module": "Creating Landscape"
+    },
+    {
+      "module": "Landscape Components"
+    },
+    {
+      "module": "Importing 3D Models"
+    },
+    {
+      "module": "Material and Object Creation"
+    },
+    {
+      "module": "Lighting"
+    },
+    {
+      "module": "Camera Placement and Rendering"
+    },
+    {
+      "module": "Walkthrough"
+    },
+    {
+      "module": "Project"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Certificate Course in Revit Structure",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "Revit Structure is a BIM software used for structural engineering design and documentation. This course trains learners to model, analyze, and document structural components such as beams, columns, slabs, foundations, and reinforcement in a coordinated 3D environment, enabling clash-free construction-ready drawings.",
+  "course_outline": [
+    {
+      "module": "Introduction to BIM and Autodesk Revit"
+    },
+    {
+      "module": "Basic Sketching and Modify Tools"
+    },
+    {
+      "module": "Starting Structural Project"
+    },
+    {
+      "module": "Structural Grids and Columns"
+    },
+    {
+      "module": "Foundation"
+    },
+    {
+      "module": "Structural Framing"
+    },
+    {
+      "module": "Working with Views"
+    },
+    {
+      "module": "Structural Slabs"
+    },
+    {
+      "module": "Structural Reinforcement"
+    },
+    {
+      "module": "Structural Analysis"
+    },
+    {
+      "module": "Construction Documentation"
+    },
+    {
+      "module": "Annotation of Construction Documents"
+    },
+    {
+      "module": "Creating Details"
+    },
+    {
+      "module": "Scheduling"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Certificate Course in AutoCAD (2D)",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "AutoCAD 2D is a fundamental computer-aided design software used for drafting, drawing, and designing technical plans in engineering, mechanical, and construction fields. This course trains learners to create precise 2D drawings, annotations, layouts, and blueprints following industry standards.",
+  "course_outline": [
+    {
+      "module": "Introduction to Engineering Drawings"
+    },
+    {
+      "module": "Introduction to AutoCAD"
+    },
+    {
+      "module": "File Management"
+    },
+    {
+      "module": "Drawing & Drafting Settings"
+    },
+    {
+      "module": "Drawing Tools"
+    },
+    {
+      "module": "Modify Tools"
+    },
+    {
+      "module": "Display Control"
+    },
+    {
+      "module": "Object Properties"
+    },
+    {
+      "module": "Layer Management"
+    },
+    {
+      "module": "Annotation Tools"
+    },
+    {
+      "module": "Hatching Objects"
+    },
+    {
+      "module": "Parametric Modeling"
+    },
+    {
+      "module": "Layout, Plot & Publish"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Certificate Course in Bentley MicroStation",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "Bentley MicroStation is a CAD software used for 2D drafting, 3D modeling, and design documentation in civil, architectural, and infrastructure projects. This course trains learners to create technical drawings, site layouts, structural plans, and construction documentation using industry-standard MicroStation tools.",
+  "course_outline": [
+    {
+      "module": "Getting Started with MicroStation"
+    },
+    {
+      "module": "Generating Basic 2D Geometry"
+    },
+    {
+      "module": "Dimensioning"
+    },
+    {
+      "module": "Locks and Snapping"
+    },
+    {
+      "module": "Model Designing"
+    },
+    {
+      "module": "Levels"
+    },
+    {
+      "module": "Creating Drawing Models and Sheet Models"
+    },
+    {
+      "module": "Rendering Completed Design"
+    },
+    {
+      "module": "Creating Deliverables"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Certificate Course in Pre-Engineering (BASIC)",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "For all engineering streams including Mechanical, Civil, Computer, Electrical, and Electronics, Engineering Drawing and Computer Programming are mandatory subjects. Engineering students often find it difficult to follow these subjects due to limited focus on basics in regular classes. This course is designed to strengthen foundational understanding of engineering drawing concepts.",
+  "course_outline": [
+    {
+      "module": "Introduction to Engineering Drawing"
+    },
+    {
+      "module": "Geometric Constructions"
+    },
+    {
+      "module": "Projections"
+    },
+    {
+      "module": "Engineering Curves"
+    },
+    {
+      "module": "Isometric Projections"
+    },
+    {
+      "module": "Introduction to AutoCAD 2D"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Certificate Course in SketchUp",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "SketchUp is a multi-purpose and easy-to-learn 3D modeling application used across mechanical, architectural, and civil engineering industries. It enables users to create 3D objects quickly and efficiently with professional-quality design and drafting capabilities.",
+  "course_outline": [
+    {
+      "module": "SketchUp Interface"
+    },
+    {
+      "module": "Tools"
+    },
+    {
+      "module": "Drawing"
+    },
+    {
+      "module": "3D Modeling"
+    },
+    {
+      "module": "Creating Textures and Materials"
+    },
+    {
+      "module": "Working with Solid Tools"
+    },
+    {
+      "module": "Rendering and Walkthrough"
+    },
+    {
+      "module": "Project"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "AutoCAD and 3DS Max",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 180,
+    "months": 5
+  },
+  "objective": "This course is a professional choice for 2D drafting, 3D modeling, rendering, and animation. AutoCAD and 3ds Max provide the speed, power, and flexibility needed for architecture and design industries.",
+  "course_outline": [
+    {
+      "module": "AutoCAD 2D"
+    },
+    {
+      "module": "AutoCAD 3D"
+    },
+    {
+      "module": "3ds Max"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Architectural Visualization",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 72,
+    "months": 2
+  },
+  "objective": "This comprehensive program teaches candidates how to transform architectural designs into high-quality visual presentations using advanced 3D modeling and rendering tools. The course begins with basic modeling techniques and progresses through materials, lighting, rendering engines, camera animation, and post-production workflows.",
+  "course_outline": [
+    {
+      "module": "3ds Max"
+    },
+    {
+      "module": "Viewing and Navigating in 3D Space"
+    },
+    {
+      "module": "Surface Modeling"
+    },
+    {
+      "module": "Animation"
+    },
+    {
+      "module": "Lights and Cameras"
+    },
+    {
+      "module": "Material Editor, Materials and Maps"
+    },
+    {
+      "module": "Rendering"
+    },
+    {
+      "module": "Effects and Environment"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Certificate Course in Tekla Structure",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "Tekla Structures is a BIM software used for structural engineering and construction. This course trains learners to create accurate 3D models of steel, concrete, and composite structures, produce fabrication-ready drawings, and manage structural projects with clash detection and coordination tools.",
+  "course_outline": [
+    {
+      "module": "Modeling in Tekla Structure"
+    },
+    {
+      "module": "Drawings and Reports"
+    },
+    {
+      "module": "Project Settings"
+    },
+    {
+      "module": "Template Editing"
+    },
+    {
+      "module": "Collaborations"
+    },
+    {
+      "module": "Profile and Material Database"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Certificate Course in Microsoft Office Project",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "Microsoft Project provides a powerful, visually enhanced way to effectively manage a wide range of projects and programs. It helps in meeting deadlines, selecting the right resources, empowering teams, and delivering intuitive tools to plan, manage, and collaborate across individuals, teams, and enterprises.",
+  "course_outline": [
+    {
+      "module": "MS Project Fundamentals"
+    },
+    {
+      "module": "Set Up Resources"
+    },
+    {
+      "module": "Plan Duration, Cost and Time"
+    },
+    {
+      "module": "Track Progress"
+    },
+    {
+      "module": "Advanced Scheduling"
+    },
+    {
+      "module": "Status Reporting"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Certificate Course in Revit Electrical",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "Learn and get familiar with Autodesk Revit Electrical. This course introduces Building Information Modeling (BIM) methodology and its benefits, and trains learners to work with electrical components, panels, and power systems in Autodesk Revit MEP with detailed views.",
+  "course_outline": [
+    {
+      "module": "Introduction to BIM & Revit MEP"
+    },
+    {
+      "module": "Basics of Building Model"
+    },
+    {
+      "module": "Electrical System"
+    },
+    {
+      "module": "Electrical Components and Drafting"
+    },
+    {
+      "module": "Power System"
+    },
+    {
+      "module": "Electrical Panels"
+    },
+    {
+      "module": "Project"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Certificate Course in Corona Renderer",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "Chaos Corona is designed to provide beginners with a comprehensive understanding of rendering software. The course introduces essential tools, techniques, and workflows needed to create high-quality visual content through hands-on exercises and practical projects.",
+  "course_outline": [
+    {
+      "module": "3ds Max and V-Ray Introduction"
+    },
+    {
+      "module": "Modeling Techniques"
+    },
+    {
+      "module": "Interior and Exterior Modeling"
+    },
+    {
+      "module": "Camera and Lights"
+    },
+    {
+      "module": "Texturing and Materials"
+    },
+    {
+      "module": "Rendering"
+    },
+    {
+      "module": "Project"
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Certificate Course in BIM 360",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "Autodesk BIM 360 covers various aspects of Building Information Modeling (BIM), including project management, collaboration workflows, document management, model viewing, clash detection, and integration with other software. The course emphasizes best practices for using BIM 360 across design, construction, and operation phases of construction projects.",
+  "course_outline": [
+    {
+      "module": "Introduction to BIM 360"
+    },
+    {
+      "module": "Administration"
+    },
+    {
+      "module": "Project Configuration"
+    },
+    {
+      "module": "Project Insight"
+    },
+    {
+      "module": "Document Management"
+    },
+    {
+      "module": "Collaboration Settings"
+    },
+    {
+      "module": "Project"
+    }
+  ]
+}
+,
+
+{
+  "course_name": "Certificate Course in Navisworks",
+  "course_category": "Certificate Course",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "Navisworks is a software used for project review in the architecture, engineering, and construction industries. It allows users to integrate models from various sources, review and analyze construction schedules, and identify and resolve conflicts in design and construction.",
+  "course_outline": [
+    {
+      "module": "Introduction to Navisworks"
+    },
+    {
+      "module": "Selecting and Controlling Objects"
+    },
+    {
+      "module": "Animations"
+    },
+    {
+      "module": "Quantification and Applying Material"
+    },
+    {
+      "module": "Clash Detection"
+    },
+    {
+      "module": "Rendering"
+    },
+    {
+      "module": "Project"
+    }
+  ]
+}
+]
+
+  

@@ -1,0 +1,718 @@
+[
+{
+  "course_name": "G-Accountant - Tally Essential Comprehensive",
+  "course_category": "Certificate Course",
+  "course_duration": "4 Months",
+  "department":"Accounting",
+  "objective": "This course is designed to provide learners with essential MS Office skills and in-depth knowledge of Tally Essential. It prepares learners to handle everyday office work efficiently and manage end-to-end accounting tasks in Tally, including bookkeeping, inventory, GST, and financial reporting. The course also adds professional value through Tally Direct Certification and G-TEC Global Certification, enhancing career opportunities and workplace readiness.",
+  "course_outline": {
+    "module_1": {
+      "title": "IT and Office Fundamentals",
+      "subjects": [
+        "IT Basics and Windows",
+        "MS Office Fundamentals"
+      ]
+    },
+    "module_2": {
+      "title": "Accounting and Tally",
+      "subjects": [
+        "Basic Accounting (Manual)",
+        "Tally Essential Comprehensive"
+      ]
+    }
+  }
+},
+{
+  "course_name": "G-Accountant – SAGE 50 Accounting",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"Accounting",
+  "objective": "This course introduces students to the world of finance and accounting, enabling them to record and manage financial transactions in a structured manner using computer technology. It begins with fundamental computer skills and progresses through manual accounting, laying the foundation for effective computerized accounting using Sage 50 Accounting software.",
+  "course_outline": {
+    "module_1": {
+      "title": "IT and Office Fundamentals",
+      "subjects": [
+        "IT Basics and Windows",
+        "MS Office Fundamentals"
+      ]
+    },
+    "module_2": {
+      "title": "Sage 50 Accounting",
+      "subjects": [
+        "Sage 50 Accounting",
+        "Sage 50 Practice Session"
+      ]
+    }
+  }
+},
+{
+  "course_name": "G-Accountant – QuickBooks Accounting",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"Accounting",
+  "objective": "This course provides learners with essential computer skills through MS Office fundamentals and comprehensive training in QuickBooks accounting. It enables learners to manage accounting processes such as recording transactions, invoicing, payroll, and financial reporting, preparing them for practical roles in accounting and office administration.",
+  "course_outline": {
+    "module_1": {
+      "title": "IT and Office Fundamentals",
+      "subjects": [
+        "IT Basics and Windows",
+        "MS Office Fundamentals"
+      ]
+    },
+    "module_2": {
+      "title": "QuickBooks Accounting",
+      "subjects": [
+        "QuickBooks Accounting",
+        "QuickBooks Practice Session"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course in MYOB Accounting",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Accounting",
+  "objective": "The MYOB Accounting course is designed to equip participants with practical knowledge and skills to effectively use MYOB (Mind Your Own Business) software for managing financial records and accounting tasks in a business environment. The course provides a comprehensive understanding of setting up and managing company accounts, recording day-to-day transactions, managing payroll, generating financial reports, and performing bank reconciliations. By the end of the course, learners will be able to confidently use MYOB software to streamline accounting processes, improve financial accuracy, and support informed business decision-making.",
+  "course_outline": {
+    "module_1": {
+      "title": "MYOB Accounting Fundamentals",
+      "subjects": [
+        "MYOB Accounting"
+      ]
+    }
+  }
+},
+{
+  "course_name": "GST Using Tally",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Accounting",
+  "objective": "This course is designed to equip students with comprehensive knowledge of India’s taxation system, from traditional practices to the latest Goods and Services Tax (GST). It provides a solid foundation in GST concepts and offers practical training on implementing GST using Tally. The course helps learners understand GST easily, even without prior background in taxation.",
+  "course_outline": {
+    "module_1": {
+      "title": "GST in Tally",
+      "subjects": [
+        "GST Using TallyPrime"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Tally Basic with GST",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"Accounting",
+  "objective": "The objective of this course is to provide learners with a strong foundation in accounting by covering manual accounting principles, fundamentals of Tally software, introduction to Goods and Services Tax (GST), and practical implementation of GST within TallyPrime. The course builds essential accounting skills and prepares learners for real-world accounting tasks and GST compliance in a computerized environment.",
+  "course_outline": {
+    "module_1": {
+      "title": "Basic Accounting and Tally Fundamentals",
+      "subjects": [
+        "Basic Accounting",
+        "Tally Basics"
+      ]
+    },
+    "module_2": {
+      "title": "GST Theory",
+      "subjects": [
+        "Introduction to GST (Only Theory)"
+      ]
+    },
+    "module_3": {
+      "title": "GST in Tally",
+      "subjects": [
+        "GST Using Tally"
+      ]
+    }
+  }
+},
+{
+  "course_name": "GCC VAT Using Tally",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Accounting",
+  "objective": "This course provides a comprehensive understanding of GCC VAT and its application using Tally Prime. It helps learners understand VAT compliance in the GCC region and gain practical experience using Tally software. The course is suitable for professionals and aspiring accountants or entrepreneurs looking to build expertise in finance and accounting within GCC VAT regulations.",
+  "course_outline": {
+    "module_1": {
+      "title": "GCC VAT in Tally",
+      "subjects": [
+        "GCC VAT Using TallyPrime"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course in QuickBooks",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Accounting",
+  "objective": "The QuickBooks Accounting Course is designed to equip learners with practical skills in managing financial records using QuickBooks. It develops a solid understanding of accounting principles and their application within the software. Participants learn to set up company files, record daily transactions, manage customers and vendors, perform bank reconciliations, track inventory, process payroll, and generate financial reports.",
+  "course_outline": {
+    "module_1": {
+      "title": "QuickBooks Fundamentals",
+      "subjects": [
+        "QuickBooks Accounting"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certification in SAP Finance and Control",
+  "course_category": "Certificate Course",
+  "department":"SAP",
+  "course_duration": "2 Months",
+  "objective": "This certification is designed for learners aspiring to build a career in the finance domain in reputed organizations. The SAP FICO Power User module provides structured training from basic SAP accounting concepts to advanced financial reporting. It covers major financial transactions from daily entries to management reports, enabling learners to become proficient SAP FICO users.",
+  "course_outline": {
+    "module_1": {
+      "title": "SAP Finance and Control (FICO)",
+      "subjects": [
+        "SAP Power User - FICO"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Tally Essential Comprehensive",
+  "course_category": "Certificate Course",
+  "course_duration": "3 Months",
+  "department":"Accounting",
+  "objective": "This course is designed for beginners in the accounting and finance domain. It covers basic to intermediate financial accounting concepts, including accounting, inventory, and basic taxation such as GST and TDS. The course also focuses on simplifying company books of accounts using TallyPrime software, ensuring learners stay updated with the latest software versions and practices.",
+  "course_outline": {
+    "module_1": {
+      "title": "Tally Essential Level 1",
+      "subjects": [
+        "Tally Essential - Level 1"
+      ]
+    },
+    "module_2": {
+      "title": "Tally Essential Level 2",
+      "subjects": [
+        "Tally Essential - Level 2"
+      ]
+    },
+    "module_3": {
+      "title": "Tally Essential Level 3",
+      "subjects": [
+        "Tally Essential - Level 3"
+      ]
+    }
+  }
+},
+{
+  "course_name": "G-Accountant Tally",
+  "course_category": "Certificate Course",
+  "course_duration": "3 Months",
+  "department":"Accounting",
+  "objective": "G-Accountant is a practical training course designed to enable learners to manage accounts and essential MS Office applications required for roles such as accountant, front office executive, or entrepreneur. The course also prepares students for Tally Direct Certification and G-TEC Global Certification.",
+  "course_outline": {
+    "module_1": {
+      "title": "IT and Office Fundamentals",
+      "subjects": [
+        "IT Basics & Windows",
+        "MS Office Fundamentals"
+      ]
+    },
+    "module_2": {
+      "title": "Accounting and Tally Basics",
+      "subjects": [
+        "Basic Accounting (Manual)",
+        "Tally Essential (Level 1)",
+        "Tally Essential (Level 2)"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course in SAP FICO & S/4 HANA",
+  "course_category": "Certificate Course",
+  "course_duration": "3 Months",
+  "department":"SAP",
+  "objective": "This course is designed to develop modern accounting professionals who can use ERP tools for data analysis and decision-making. It introduces learners to SAP FICO and SAP S/4HANA, the latest ERP platform used by leading global enterprises, enabling them to transition from traditional accounting roles to advanced finance and analytics roles.",
+  "course_outline": {
+    "module_1": {
+      "title": "SAP FICO",
+      "subjects": [
+        "SAP Power User - FICO"
+      ]
+    },
+    "module_2": {
+      "title": "SAP S/4HANA",
+      "subjects": [
+        "SAP S/4HANA"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Advanced Certification in Taxation & Statutory Filing",
+  "course_category": "Certificate Course",
+  "course_duration": "3 Months",
+  "department":"Accounting",
+  "objective": "This course combines taxation, statutory compliance, and financial accounting to develop commerce professionals capable of handling taxation and statutory filings along with accounting tasks using practical tools and simulation-based learning. It builds expertise as a taxation and statutory filing expert accountant.",
+  "course_outline": {
+    "module_1": {
+      "title": "GST and Financial Executive Basics",
+      "subjects": [
+        "Financial Executive - Theory",
+        "GST Registration & Filing Process"
+      ]
+    },
+    "module_2": {
+      "title": "Income Tax and Compliance",
+      "subjects": [
+        "Income Tax Registration & Filing",
+        "Labour Law",
+        "MSME & MCA"
+      ]
+    },
+    "module_3": {
+      "title": "Financial Accounting",
+      "subjects": [
+        "Financial Accounting"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certification in SAP Material Management",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"SAP",
+  "objective": "This course provides a comprehensive understanding of SAP Material Management (MM), covering procurement, purchasing, and inventory management. It trains learners to become SAP MM power users capable of handling end-to-end material management processes in global business environments using SAP platforms.",
+  "course_outline": {
+    "module_1": {
+      "title": "SAP Material Management",
+      "subjects": [
+        "SAP Power User - MM"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certification in Production Planning",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"SAP",
+  "objective": "This course is designed for learners aspiring to build a career in production and manufacturing. SAP PP Power User module provides comprehensive training across the production planning cycle, including planning, production execution, and quality management, preparing learners for global career opportunities in production planning.",
+  "course_outline": {
+    "module_1": {
+      "title": "SAP Production Planning (PP)",
+      "subjects": [
+        "SAP Power User - PP"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certification in SAP Sales & Distribution",
+  "course_category": "Certificate Course",
+  "department":"SAP",
+  "course_duration": "2 Months",
+  "objective": "This course provides comprehensive knowledge of the Sales and Distribution (SD) process in SAP, covering the complete order-to-cash cycle. It prepares learners to handle sales operations, shipping, and warehouse distribution processes, making them globally employable SAP SD professionals.",
+  "course_outline": {
+    "module_1": {
+      "title": "SAP Sales & Distribution (SD)",
+      "subjects": [
+        "SAP Power User - SD"
+      ]
+    }
+  }
+}
+
+,{
+  "course_name": "Certification in SAP FICO (S/4 HANA)",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"SAP",
+  "objective": "This course provides learners with a comprehensive understanding of core financial accounting and controlling processes within SAP S/4HANA. It equips participants with the knowledge and hands-on skills required to configure, implement, and manage financial accounting and controlling functionalities in real-time SAP environments.",
+  "course_outline": {
+    "module_1": {
+      "title": "SAP S/4HANA Finance",
+      "subjects": [
+        "SAP S/4 HANA"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certification in SAP Business One",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"SAP",
+  "objective": "SAP Business One (SAP B1) is an ERP platform designed for small and medium-sized businesses. It helps manage core business functions such as finance, customer relationship management, warehousing, production, purchasing, procurement, and reporting. The course equips learners with practical knowledge of SAP B1 for efficient business management and analytics.",
+  "course_outline": {
+    "module_1": {
+      "title": "SAP Business One Fundamentals",
+      "subjects": [
+        "SAP B1"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate in SAP Extended Warehouse Management (SAP S/4 HANA)",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"SAP",
+  "objective": "This course teaches how warehouse operations are managed using SAP S/4HANA Extended Warehouse Management (EWM). It covers warehouse setup, goods movement, storage, picking, packing, handling units, RF mobile operations, system integration, and reporting tools. The course prepares learners for real-world warehouse projects and SAP EWM certification.",
+  "course_outline": {
+    "module_1": {
+      "title": "SAP Extended Warehouse Management (S/4 HANA)",
+      "subjects": [
+        "SAP Extended Warehouse Management (S/4 HANA)"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate in SAP Human Capital Management (S/4 HANA)",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"SAP",
+  "objective": "This course provides an understanding of the SAP S/4HANA HCM landscape and architecture. It covers core HR processes, data management, and key system integrations. Learners gain practical skills in SAP S/4HANA HCM modules and are prepared for SAP HCM certification and real-world implementation scenarios.",
+  "course_outline": {
+    "module_1": {
+      "title": "SAP Human Capital Management (S/4 HANA)",
+      "subjects": [
+        "SAP HCM",
+        "SAP S/4 HANA"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Tally Professional",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"Accounting",
+  "objective": "This professional certification is designed for candidates aspiring to build strong skills in computerized accounting using Tally for career growth. It validates understanding of advanced accounting concepts in Tally and prepares learners to become confident, competent, and job-ready for accounting roles.",
+  "course_outline": {
+    "module_1": {
+      "title": "Tally Professional",
+      "subjects": [
+        "Tally Professional"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certification in Taxation and Statutory Filing",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"Accounting",
+  "objective": "This course helps students learn taxation and statutory compliances using simulated scenarios in various e-filing topics such as GST and Income Tax filings, labour registrations, corporate affairs, and MSME registration. It focuses on hands-on exercises and simulated learning to build practical knowledge and problem-solving skills in statutory compliance.",
+  "course_outline": {
+    "module_1": {
+      "title": "Income Tax and GST Basics",
+      "subjects": [
+        "Income Tax - Theory",
+        "GST Registration & Filing Process"
+      ]
+    },
+    "module_2": {
+      "title": "Statutory Compliance and E-Filing",
+      "subjects": [
+        "Income Tax Registration & Filing",
+        "Labour Law",
+        "MSME & MCA"
+      ]
+    }
+  }
+},
+{
+  "course_name": "G-Tally",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"Accounting",
+  "objective": "This course starts from the fundamentals of bookkeeping and progresses to essential features of Tally Prime. It covers maintaining accounting and inventory master records, accounts payable and receivable transactions, inventory management, cost and profit center management, budgets and scenarios, and concludes with generating and printing reports.",
+  "course_outline": {
+    "module_1": {
+      "title": "Tally Essential Level 1",
+      "subjects": [
+        "Tally Essential Level 1"
+      ]
+    },
+    "module_2": {
+      "title": "Tally Essential Level 2",
+      "subjects": [
+        "Tally Essential Level 2"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certification in SAP MM (S/4 HANA)",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"SAP",
+  "objective": "This course provides a global understanding of SAP Material Management (MM) in S/4HANA. It covers procurement, purchasing, and inventory management processes, enabling learners to become proficient SAP MM professionals capable of working on automated ERP systems worldwide.",
+  "course_outline": {
+    "module_1": {
+      "title": "SAP Material Management (S/4 HANA)",
+      "subjects": [
+        "SAP MM (S/4 HANA)"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certification in SAP PP (S/4 HANA)",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"SAP",
+  "objective": "This course is designed for learners aspiring to build a career in production and manufacturing. It covers SAP Production Planning (PP) processes including planning, production execution, and quality management within SAP S/4HANA, preparing learners for global career opportunities in production planning.",
+  "course_outline": {
+    "module_1": {
+      "title": "SAP Production Planning (S/4 HANA)",
+      "subjects": [
+        "SAP PP (S/4 HANA)"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certification in SAP SD (S/4 HANA)",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"SAP",
+  "objective": "This course provides a complete understanding of the Sales and Distribution (SD) process in SAP S/4HANA. It covers the entire order-to-cash cycle, including order processing, sales execution, shipment, and warehouse distribution, preparing learners for global SAP SD roles.",
+  "course_outline": {
+    "module_1": {
+      "title": "SAP Sales & Distribution (S/4 HANA)",
+      "subjects": [
+        "SAP SD (S/4 HANA)"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate in Financial Accounting with GST",
+  "course_category": "Certificate Course",
+  "department":"Accounting",
+  "course_duration": "2 Months",
+  "objective": "This course provides a foundational understanding of TallyPrime, focusing on core accounting principles, chart of accounts management, and recording financial transactions. It includes training in accounts receivable and payable, preparation of financial statements and MIS reports, and provides in-depth knowledge of GST and TDS taxation systems to ensure practical tax compliance skills.",
+  "course_outline": {
+    "module_1": {
+      "title": "TallyPrime Fundamentals",
+      "subjects": [
+        "Introduction to Tally Prime",
+        "Maintain Chart of Accounts",
+        "Recording and Maintaining Accounting Transactions",
+        "Data Security",
+        "Banking",
+        "Company Data Management",
+        "Generating Financial Statement and MIS Report"
+      ]
+    },
+    "module_2": {
+      "title": "GST and TDS in Accounting",
+      "subjects": [
+        "GST Introduction",
+        "Hierarchy of Calculating Tax in Transactions",
+        "Recording GST Compliant Transactions",
+        "Filing GST Returns",
+        "Introduction to TDS Recording",
+        "TDS Compliant Transactions",
+        "TDS Report"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Prime Student Certification in Zoho Books",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"Accounting",
+  "objective": "This course equips learners with practical expertise in Zoho Books to manage end-to-end business accounting and compliance. It covers organization setup, financial configuration, daily transactions, purchase-to-pay and quote-to-cash cycles, banking integration, GST filing, e-way bills, e-invoicing, project billing, inventory adjustments, budgeting, branch management, workflow automation, reporting, and integrations for data-driven financial management.",
+  "course_outline": {
+    "module_1": {
+      "title": "Manual Accounting",
+      "subjects": [
+        "Manual Accounting"
+      ]
+    },
+    "module_2": {
+      "title": "GST Basics",
+      "subjects": [
+        "GST Filing (Theory only)"
+      ]
+    },
+    "module_3": {
+      "title": "Zoho Books Setup",
+      "subjects": [
+        "Setting up Organizations",
+        "Posting Opening Balances"
+      ]
+    },
+    "module_4": {
+      "title": "Zoho Books Transactions",
+      "subjects": [
+        "Handling day-to-day transactions",
+        "Configuring transaction approval process"
+      ]
+    },
+    "module_5": {
+      "title": "Banking and Compliance",
+      "subjects": [
+        "Connecting Banking Technology",
+        "Statutory and Taxation process in Zoho Books"
+      ]
+    },
+    "module_6": {
+      "title": "Reporting",
+      "subjects": [
+        "Reports"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course in Sage 50 Accounting",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Accounting",
+  "objective": "This course provides learners with practical knowledge and hands-on skills in Sage 50 Accounting. It enables learners to record business transactions, manage accounts, control inventory, handle taxation, and generate accurate financial reports. By the end of the course, learners will be able to use Sage 50 efficiently for real-world accounting tasks and support effective financial decision-making in business environments.",
+  "course_outline": {
+    "module_1": {
+      "title": "Sage 50 Accounting Fundamentals",
+      "subjects": [
+        "Sage 50 Accounting"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certification in SAP Production Planning",
+  "course_category": "Certificate Course",
+  "course_duration": "2 Months",
+  "department":"SAP",
+  "objective": "This course is designed for learners aspiring to build a career in production and manufacturing. SAP PP Power User module provides comprehensive training across the production planning cycle, including planning, production execution, and quality management, preparing learners for global career opportunities in production planning.",
+  "course_outline": {
+    "module_1": {
+      "title": "SAP Production Planning",
+      "subjects": [
+        "SAP Power User - PP"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course in ZOHO Books",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Accounting",
+  "objective": "This course helps learners unlock the power of Zoho Books, a comprehensive accounting software designed to streamline financial operations and improve efficiency. It covers basic and advanced functionalities, financial management techniques, optimization tips, and data security best practices. It is designed for business owners, accountants, and finance professionals to effectively use Zoho Books.",
+  "course_outline": {
+    "module_1": {
+      "title": "Zoho Books Fundamentals",
+      "subjects": [
+        "Introduction to Zoho Books",
+        "Company Setup and Personalize Settings",
+        "Maintain Master Records",
+        "Transactions with Zoho Books",
+        "Banking",
+        "Statutory and Taxation - GST"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Tally Essential - Level 1",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Accounting",
+  "objective": "This course introduces learners to the fundamentals of bookkeeping and Tally Prime. It covers maintaining chart of accounts, recording accounting and banking transactions, generating MIS reports, managing data security, and company data management.",
+  "course_outline": {
+    "module_1": {
+      "title": "Recording and Reporting",
+      "subjects": [
+        "Tally Essential Level 1 - Recording and Reporting"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Tally Essential Level 2",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Accounting",
+  "objective": "This course is a continuation of Tally Essential Level 1. It focuses on inventory management and covers accounts payable and receivable, including purchase and sales management, order management, cost and profit centre management, budgeting and scenarios, and reporting.",
+  "course_outline": {
+    "module_1": {
+      "title": "Advanced Accounting in Tally",
+      "subjects": [
+        "Tally Essential Level 2"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Tally Essential Level 3",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Accounting",
+  "objective": "This course focuses on statutory and taxation procedures in Tally. It covers Goods and Services Tax (GST), TDS, and company year-end processes, and prepares learners for advanced certification in Tally solutions.",
+  "course_outline": {
+    "module_1": {
+      "title": "Statutory and Taxation in Tally",
+      "subjects": [
+        "Tally Essential Level 3 - Goods and Service Tax"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certification in GST Filing",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Accounting",
+  "objective": "This program provides comprehensive knowledge of Goods and Services Tax (GST) along with hands-on experience in GST filing through simulated scenarios. It focuses on developing practical GST compliance skills, improving problem-solving abilities through task-based learning, and ensuring accurate GST system handling for real-world tax-related challenges.",
+  "course_outline": {
+    "module_1": {
+      "title": "GST Fundamentals and Filing",
+      "subjects": [
+        "Introduction to GST",
+        "Concepts and Application of GST",
+        "GST Registration & Filing Process"
+      ]
+    }
+  }
+},
+{
+  "course_name": "Certificate Course in GST Filing",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Accounting",
+  "objective": "This course provides participants with the knowledge and skills required to accurately file GST returns and comply with legal requirements. It builds a strong understanding of the GST system, its principles, and the procedures involved in GST filing.",
+  "course_outline": {
+    "module_1": {
+      "title": "GST Filing Fundamentals",
+      "subjects": [
+        "Introduction to GST",
+        "Basic GST Computation Practice (Assignments)",
+        "Tax Invoice & Other Documents Preparations",
+        "Working with GST Portal Simulation Software"
+      ]
+    }
+  }
+},
+{
+  "course_name": "TDS Using Tally",
+  "course_category": "Certificate Course",
+  "course_duration": "1 Month",
+  "department":"Accounting",
+  "objective": "This specialization course on TDS (Tax Deducted at Source) provides step-by-step training from fundamental concepts to practical implementation in Tally. It covers various TDS processes including different deduction rates, works contracts, foreign currency income, challan generation, reporting, and e-filing forms such as 26Q and 27Q, preparing learners for professional TDS compliance roles.",
+  "course_outline": {
+    "module_1": {
+      "title": "TDS Fundamentals and Process in Tally",
+      "subjects": [
+        "Basic Concepts of TDS",
+        "TDS Process in Tally Prime",
+        "Basic & Advanced TDS Transactions",
+        "TDS Statutory Masters",
+        "TDS Reports"
+      ]
+    }
+  }
+}
+]

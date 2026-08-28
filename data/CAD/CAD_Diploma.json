@@ -1,0 +1,468 @@
+[
+{
+  "course_name": "Diploma in Machine Designing",
+  "course_category": "Diploma Courses",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 144,
+    "months": 4
+  },
+  "objective": "The Machine Designing course is a comprehensive program that equips learners with the knowledge and skills required to design and draft mechanical components used in manufacturing, automation, automotive, and industrial systems. The course blends engineering fundamentals with modern CAD/CAE tools to help students conceptualize, model, analyze, and optimize machine elements using industry-standard practices.",
+  "course_outline": {
+    "modules": [
+      {
+        "module_name": "AutoCAD 2D"
+      },
+      {
+        "module_name": "AutoCAD 3D"
+      },
+      {
+        "module_name": "SolidWorks"
+      },
+      {
+        "module_name": "Creo"
+      },
+      {
+        "module_name": "CATIA"
+      }
+    ]
+  }
+},
+{
+  "course_name": "Diploma in Interior Designing",
+  "course_category": "Diploma Courses",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 288,
+    "months": 8
+  },
+  "objective": "The Diploma in Interior Design is a comprehensive program designed to develop creative, technical, and professional skills required for a successful career in the interior design industry. This course provides training in design principles, space planning, materials, furnishings, drafting, and 2D/3D design software, enabling learners to transform ideas into functional and aesthetically pleasing interior spaces.",
+  "course_outline": {
+    "modules": [
+      {
+        "module_name": "Manual Drawing"
+      },
+      {
+        "module_name": "AutoCAD 2D"
+      },
+      {
+        "module_name": "AutoCAD 3D"
+      },
+      {
+        "module_name": "ArchiCAD"
+      },
+      {
+        "module_name": "3Ds Max"
+      }
+    ]
+  }
+},
+{
+  "course_name": "G-Engineer (Civil)",
+  "course_category": "Diploma Courses",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 252,
+    "months": 7
+  },
+  "objective": "An exclusive, matchless diploma course focused on civil engineering solutions. Designed and developed comprehensively to explore the vast potential of the civil engineering domain through an outstanding and unique approach.",
+  "course_outline": {
+    "modules": [
+      {
+        "module_name": "AutoCAD 2D"
+      },
+      {
+        "module_name": "AutoCAD 3D"
+      },
+      {
+        "module_name": "SketchUp"
+      },
+      {
+        "module_name": "3ds Max"
+      },
+      {
+        "module_name": "V-Ray"
+      },
+      {
+        "module_name": "Microsoft Office Project"
+      },
+      {
+        "module_name": "Adobe Photoshop"
+      },
+      {
+        "module_name": "Adobe Premiere Pro"
+      }
+    ]
+  }
+},
+{
+  "course_name": "Advanced Diploma in CAD Training",
+  "course_category": "Diploma Courses",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 360,
+    "months": 10
+  },
+  "objective": "This course is designed for candidates who have a strong interest in becoming a CAD trainer or practitioner. It covers basic drawing concepts through to advanced design and engineering applications using a variety of industry-standard software tools.",
+  "course_outline": {
+    "modules": [
+      {
+        "module_name": "Manual Drafting"
+      },
+      {
+        "module_name": "AutoCAD 2D"
+      },
+      {
+        "module_name": "AutoCAD 3D"
+      },
+      {
+        "module_name": "Bentley MicroStation"
+      },
+      {
+        "module_name": "STAAD.Pro"
+      },
+      {
+        "module_name": "V-Ray"
+      },
+      {
+        "module_name": "CATIA"
+      },
+      {
+        "module_name": "ANSYS"
+      }
+    ]
+  }
+},
+{
+  "course_name": "Diploma in Building Design and Animation",
+  "course_category": "Diploma Courses",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 216,
+    "months": 6
+  },
+  "objective": "The Diploma in Building Design and Animation combines building design principles with 3D modeling, visualization, and animation techniques. Learners gain the skills to design building layouts and create realistic 3D visualizations and animated walkthroughs of their designs.",
+  "course_outline": {
+    "modules": [
+      {
+        "module_name": "AutoCAD 2D"
+      },
+      {
+        "module_name": "AutoCAD 3D"
+      },
+      {
+        "module_name": "3DS Max"
+      },
+      {
+        "module_name": "Adobe Photoshop"
+      },
+      {
+        "module_name": "Adobe Premiere Pro"
+      }
+    ]
+  }
+},
+{
+  "course_name": "Advanced Diploma in Interior Designing",
+  "course_category": "Diploma Courses",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 360,
+    "months": 10
+  },
+  "objective": "This course provides the qualities and skills needed to become a professional Interior Designer from beginner to advanced level. It covers key areas such as space planning, material selection, design principles, furniture arrangement, and interior design concepts. The program helps learners enhance their design skills for professional projects while exploring their creativity. The curriculum combines theoretical knowledge with hands-on practical training, industry case studies, and real-time projects.",
+  "course_outline": {
+    "modules": [
+      {
+        "module_name": "Manual Drawing"
+      },
+      {
+        "module_name": "AutoCAD 2D"
+      },
+      {
+        "module_name": "AutoCAD 3D"
+      },
+      {
+        "module_name": "3Ds Max"
+      },
+      {
+        "module_name": "Revit Architecture"
+      },
+      {
+        "module_name": "SketchUp"
+      },
+      {
+        "module_name": "Interior Designing"
+      },
+      {
+        "module_name": "Adobe Photoshop"
+      }
+    ]
+  }
+},
+{
+  "course_name": "Advanced Diploma in Building Design and Animation",
+  "course_category": "Diploma Courses",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 288,
+    "months": 8
+  },
+  "objective": "This is a specialized course within Architecture, Civil Engineering, and Interior Design that focuses on creating realistic representations of buildings and structures. It combines technical design skills with creative visualization techniques to help engineers, architects, and clients understand how a building will look and function before construction begins.",
+  "course_outline": {
+    "modules": [
+      {
+        "module_name": "AutoCAD 2D"
+      },
+      {
+        "module_name": "AutoCAD 3D"
+      },
+      {
+        "module_name": "SketchUp"
+      },
+      {
+        "module_name": "3ds Max"
+      },
+      {
+        "module_name": "V-Ray"
+      },
+      {
+        "module_name": "Revit Architecture"
+      },
+      {
+        "module_name": "Adobe Photoshop"
+      },
+      {
+        "module_name": "Adobe Premiere Pro"
+      }
+    ]
+  }
+},
+{
+  "course_name": "Diploma in Building Design and Animation with Revit",
+  "course_category": "Diploma Courses",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 216,
+    "months": 6
+  },
+  "objective": "A specialized designing and animation course focused on building design. The program enables learners to create visually appealing building designs and bring them to life through animation using industry-standard software tools.",
+  "course_outline": {
+    "modules": [
+      {
+        "module_name": "AutoCAD 2D"
+      },
+      {
+        "module_name": "AutoCAD 3D"
+      },
+      {
+        "module_name": "Adobe Photoshop"
+      },
+      {
+        "module_name": "3DS Max"
+      },
+      {
+        "module_name": "Revit Architecture"
+      },
+      {
+        "module_name": "Adobe Premiere Pro"
+      }
+    ]
+  }
+},
+{
+  "course_name": "Professional Diploma in Building Designing and Planning Engineering",
+  "course_category": "Diploma Courses",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 324,
+    "months": 9
+  },
+  "objective": "Learners will acquire knowledge in architectural design, construction techniques, quantity surveying, site analysis, building codes and regulations, as well as the use of industry-standard software for drawing and modeling. The program emphasizes a combination of theoretical knowledge and practical skills to prepare graduates for successful careers in building design and planning engineering.",
+  "course_outline": {
+    "modules": [
+      {
+        "module_name": "Application Level of Civil Engineering"
+      },
+      {
+        "module_name": "AutoCAD"
+      },
+      {
+        "module_name": "Revit Architecture"
+      },
+      {
+        "module_name": "Estimation and Quantity Surveying"
+      },
+      {
+        "module_name": "Primavera (Project Management Software)"
+      },
+      {
+        "module_name": "Project Awareness"
+      }
+    ]
+  }
+},
+{
+  "course_name": "Advanced Diploma in BIM Architecture",
+  "course_category": "Diploma Courses",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 288,
+    "months": 8
+  },
+  "objective": "The Advanced Diploma in BIM Architecture is an intensive, industry-oriented program designed to equip learners with advanced skills in Building Information Modeling (BIM) for architectural design, documentation, coordination, and project management. The course integrates modern BIM workflows using leading software tools, enabling students to create 3D models, manage project data, collaborate with multidisciplinary teams, and deliver high-quality construction documentation.",
+  "course_outline": [
+    {
+      "module": "AutoCAD 2D"
+    },
+    {
+      "module": "AutoCAD 3D"
+    },
+    {
+      "module": "Revit Architecture"
+    },
+    {
+      "module": "3ds Max"
+    },
+    {
+      "module": "V-Ray"
+    },
+    {
+      "module": "Corona Renderer"
+    },
+    {
+      "module": "BIM 360"
+    }
+  ]
+},
+{
+  "course_name": "Advanced Diploma in BIM Structural",
+  "course_category": "Diploma Courses",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 288,
+    "months": 8
+  },
+  "objective": "The Diploma in BIM Structural program is designed to provide learners with the technical and practical skills to create, manage, and coordinate structural Building Information Models (BIM) for modern construction projects. The course equips students with advanced knowledge of structural modeling, detailing, analysis integration, and interdisciplinary coordination using leading BIM tools.",
+  "course_outline": [
+    {
+      "module": "AutoCAD 2D"
+    },
+    {
+      "module": "AutoCAD 3D"
+    },
+    {
+      "module": "Revit Structure"
+    },
+    {
+      "module": "Revit MEP"
+    },
+    {
+      "module": "Navisworks"
+    },
+    {
+      "module": "BIM 360"
+    },
+    {
+      "module": "Projects"
+    }
+  ]
+},
+{
+  "course_name": "G-Engineer (Mechanical)",
+  "course_category": "Diploma Courses",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 252,
+    "months": 7
+  },
+  "objective": "An exclusive, matchless Diploma course focused on mechanical engineering solutions. Designed and developed comprehensively to explore the vast scope of Mechanical Engineering, providing learners with industry-relevant design, modeling, analysis, and project management skills.",
+  "course_outline": [
+    {
+      "module": "AutoCAD 2D"
+    },
+    {
+      "module": "AutoCAD 3D"
+    },
+    {
+      "module": "SolidWorks"
+    },
+    {
+      "module": "Creo"
+    },
+    {
+      "module": "CATIA"
+    },
+    {
+      "module": "ANSYS"
+    },
+    {
+      "module": "Primavera P6"
+    }
+  ]
+},
+{
+  "course_name": "Professional Diploma in Building Designing",
+  "course_category": "Diploma Courses",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 216,
+    "months": 6
+  },
+  "objective": "This program covers various aspects of civil engineering applications, engineering drawing, building construction, software proficiency, detailed estimation, quantity surveying, and data management. Participants will gain hands-on experience with industry-standard software such as AutoCAD, Revit Architecture, and Excel, enabling them to create accurate designs and presentations, perform cost estimations, and effectively manage project data.",
+  "course_outline": [
+    {
+      "module": "Module 1",
+      "topics": [
+        "Application Level of Civil Engineering"
+      ]
+    },
+    {
+      "module": "Module 2",
+      "topics": [
+        "AutoCAD",
+        "Revit Architecture"
+      ]
+    },
+    {
+      "module": "Module 3",
+      "topics": [
+        "Estimation and Quantity Surveying"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Professional Diploma in Planning Engineering",
+  "course_category": "Diploma Courses",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 144,
+    "months": 4
+  },
+  "objective": "The Professional Diploma in Planning Engineering is a comprehensive program that covers essential aspects of project management and execution in the field of engineering. Participants will gain a holistic understanding of project planning, estimation, resource management, effective utilization of project management software, and various technical aspects related to construction projects. This diploma equips participants with the knowledge and skills necessary to successfully plan, execute, and control projects in the planning engineering field.",
+  "course_outline": [
+    {
+      "module": "Module 1",
+      "topics": [
+        "Project Awareness"
+      ]
+    },
+    {
+      "module": "Module 2",
+      "topics": [
+        "Detailed Estimation and Quantity Surveying"
+      ]
+    },
+    {
+      "module": "Module 3",
+      "topics": [
+        "Primavera"
+      ]
+    }
+  ]
+}
+
+
+]
+

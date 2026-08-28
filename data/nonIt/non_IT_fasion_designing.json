@@ -1,0 +1,436 @@
+[{
+  "course_name": "Master Diploma in Fashion Designing",
+  "course_category": "Fashion Designing",
+  "course_duration": "12 Months",
+  "department":"nonIt",
+  "objective": "The Master in Fashion Design program combines fashion studies, design thinking, and intensive studio practice. Students are guided to question, refine, and strengthen their individual creative vision while addressing the challenge of designing for existing fashion brands. The program explores interdisciplinary approaches including textile manipulation, garment prototyping, branding, photo and video storytelling, and business intelligence. Students develop an understanding of the fashion system, the various professions within its value chain, and future industry trends.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Foundations of Fashion Design",
+      "topics": [
+        "Fashion Theory",
+        "Illustration",
+        "Pattern Making Theory",
+        "Hand Embroidery",
+        "Painting",
+        "Records and Project Works",
+        "Revision and Exam"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Advanced Fashion Techniques",
+      "topics": [
+        "Fashion Theory",
+        "Illustration",
+        "Pattern Making Theory",
+        "Traditional Embroidery"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Advanced Diploma in Fashion Designing",
+  "course_category": "Fashion Designing",
+  "course_duration": "8 Months",
+  "department":"nonIt",
+  "objective": "This course is designed to teach the various nuances of pattern making and fashion dress designing in a comprehensive manner. The program covers patterns for both standard measurements and personal tailoring. By learning different types of patterns, students will be able to design stylish garments according to the latest fashion trends.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Garment Construction and Embellishment",
+      "topics": [
+        "Garment Making",
+        "Embroidery and Stone Works"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Textile Decoration Techniques",
+      "topics": [
+        "Fabric Painting",
+        "Glass Painting"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Computer Aided Fashion Design",
+      "topics": [
+        "Computer Aided Designing"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Practical Application",
+      "topics": [
+        "Project Work"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Diploma in Fashion Designing",
+  "course_category": "Fashion Designing",
+  "course_duration": "6 Months",
+  "department":"nonIt",
+  "objective": "The course provides a thorough grounding in design development skills, fashion presentation, market knowledge, and trend forecasting. It introduces beginners to fashion by helping them use themes to create and present work that prepares them for further studies in the fashion field. Students learn to design clothing using traditional methods and computer-generated images with advanced software. The program helps develop individual style, professional design skills, and portfolio development for career readiness in fashion design and graphical presentation.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Foundations of Fashion and Textile Science",
+      "topics": [
+        "Basic Terms and Textile Science",
+        "Pattern Making",
+        "Basic Garment Construction",
+        "Surface Ornamentation"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Garment Production Techniques",
+      "topics": [
+        "Garment Manufacturing Technology",
+        "Advanced Garment Construction",
+        "Value Addition Techniques"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Computer Aided Fashion Design",
+      "topics": [
+        "Computer Aided Fashion Designing"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Advanced Diploma in Beautician Course",
+  "course_category": "Fashion Designing",
+  "course_duration": "6 Months",
+  "department":"nonIt",
+  "objective": "This course is designed to provide in-depth training in advanced beauty, grooming, and creative skills, preparing individuals for a professional career in the beauty industry. The curriculum combines traditional and modern techniques to enhance expertise in skincare, haircare, makeup, and creative artistry.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Advanced Beauty and Grooming Techniques",
+      "topics": [
+        "Facial Types",
+        "Advanced Skin Treatment Using Machine",
+        "Hair Treatment",
+        "Hair Cut",
+        "Bridal Makeup",
+        "Advanced Hair Styling",
+        "Hair Coloring",
+        "Hair Pack",
+        "Hair Treatment",
+        "Flower Making",
+        "Saree Draping",
+        "Saree Box Folding",
+        "Mehendi"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Diploma in Beautician Course",
+  "course_category": "Fashion Designing",
+  "course_duration": "6 Months",
+  "department":"nonIt",
+  "objective": "To provide comprehensive knowledge and hands-on training in beauty therapy, hair care, skin treatment, and grooming. The course is designed for beginners aspiring to become professional beauticians or entrepreneurs in the beauty industry.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Beauty Therapy and Personal Grooming",
+      "topics": [
+        "Introduction to Beauty Therapy and Skin Care",
+        "Hair Removal and Bleaching Techniques",
+        "Facial Techniques and Types",
+        "Hair Care, Treatments and Henna Application",
+        "Haircutting Techniques and Face Shape Analysis",
+        "Manicure and Pedicure",
+        "Hair Styling Techniques",
+        "Saree Draping Techniques",
+        "Makeup Techniques",
+        "Product Knowledge and Client Safety"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Fabric & Glass Painting",
+  "course_category": "Fashion Designing",
+  "course_duration": "2 Months",
+  "department":"nonIt",
+  "objective": "Glass art refers to individual works of art that are substantially or wholly made of glass, ranging from monumental installations to jewelry and tableware. Fabric painting is a creative art form and professional skill used both as a hobby and in commercial applications. This course introduces learners to modern fabric and glass painting techniques using a variety of artistic styles and materials.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Basic Painting Techniques",
+      "topics": [
+        "Fabric Painting",
+        "Glass Painting",
+        "Canvas Painting"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Traditional Art Forms",
+      "topics": [
+        "Mural Painting",
+        "Kalamkari Painting",
+        "Warli Painting"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Creative Art Techniques",
+      "topics": [
+        "Nib Painting",
+        "Coffee Painting",
+        "Pot Painting"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Embroidery Works",
+  "course_category": "Fashion Designing",
+  "course_duration": "2 Months",
+  "department":"nonIt",
+  "objective": "Embroidery is the craft of decorating fabric or other materials using a needle to apply thread or yarn, often enhanced with beads, sequins, and other decorative elements. This course introduces traditional and modern embroidery techniques used in garments and textile decoration. It helps learners develop foundational and advanced hand embroidery skills suitable for fashion and commercial applications.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Fundamentals of Embroidery",
+      "topics": [
+        "Hand Embroidery",
+        "Traditional Embroidery"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Advanced Embellishment Techniques",
+      "topics": [
+        "Mirror Work",
+        "Aari Work",
+        "Zardosi Work"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Tailoring",
+  "course_category": "Fashion Designing",
+  "course_duration": "2 Months",
+  "department":"nonIt",
+  "objective": "This course is designed for individuals who wish to learn garment design and pattern-making. It focuses on essential tailoring skills required for everyday clothing. The program helps learners understand the basics of pattern making and tailoring within a short time frame, enabling them to create and stitch garments independently.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Fundamentals of Tailoring",
+      "topics": [
+        "Basic Methods"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Garment Construction",
+      "topics": [
+        "Blouse",
+        "Salwar",
+        "Pant"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Advanced Course in Mehandi Design",
+  "course_category": "Fashion Designing",
+  "course_duration": "2 Months",
+  "department":"nonIt",
+  "objective": "The Mehandi Artist Course is designed to develop creative and professional skills in traditional and contemporary mehndi art. The course covers basic to advanced mehndi patterns, including Arabic, Indian, bridal, and fusion designs, along with cone preparation, design practice, and client handling. It prepares learners for freelance work, bridal assignments, and career opportunities in the beauty and event industry.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Fundamentals of Mehndi Art",
+      "topics": [
+        "Basic Knowledge",
+        "Basic Elements",
+        "Types of Designs",
+        "Making and Removal of Mehndi",
+        "Different Forms of Lines and Symbols",
+        "Patterns of Designs"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Traditional Mehndi Styles",
+      "topics": [
+        "Arabic Design",
+        "Indian Design",
+        "Pakistani Design"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Advanced Mehndi Techniques",
+      "topics": [
+        "Modern Mehndi Designs",
+        "Advanced Elements",
+        "Tips and Tricks",
+        "Project Work"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Aari Works",
+  "course_category": "Fashion Designing",
+  "course_duration": "2 Months",
+  "department":"nonIt",
+  "objective": "This course provides students with proficiency in Aari embroidery techniques and helps develop skills in creating intricate embroidery designs using various stitches. It prepares students for self-employment opportunities in the textile and fashion industry.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Aari Embroidery Stitches and Techniques",
+      "topics": [
+        "Chain Stitch",
+        "Double Chain Stitch",
+        "Zig Zag Stitch",
+        "Chain with Zig Zag Stitch",
+        "Herringbone Stitch",
+        "Back Chain Stitch",
+        "Stem Stitch",
+        "Wheat (Arrow/Chotti Stitch)",
+        "Pani (Water Filling Stitch)",
+        "Filling Stitch",
+        "Striped Button Hole Stitch",
+        "Y Type Button Hole Stitch",
+        "Double Button Hole Stitch",
+        "Wheel (Round Button Hole Stitch)",
+        "Fish Bone Stitch",
+        "Hat Loading",
+        "Padded Loading",
+        "Butterfly Stitch",
+        "Magic Chain Stitch",
+        "French Knot Stitch",
+        "Long French Knot Stitch",
+        "Ring Knot Stitch",
+        "Bullion Knot Stitch"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Beautician",
+  "course_category": "Fashion Designing",
+  "course_duration": "2 Months",
+  "department":"nonIt",
+  "objective": "The Certificate in Beautician Course is a comprehensive program designed for individuals aspiring to enter the beauty and grooming industry. The course focuses on providing both theoretical knowledge and practical skills in beauty and personal care, enabling students to excel as professional beauticians.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Beauty and Grooming Fundamentals",
+      "topics": [
+        "Personality Development",
+        "Threading",
+        "Facial",
+        "Hair Styling",
+        "Saree Draping",
+        "Bridal Makeup",
+        "Hair Cut",
+        "Flower Making"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Stitching Work",
+  "course_category": "Fashion Designing",
+  "course_duration": "1 Month",
+  "department":"nonIt",
+  "objective": "The Certificate Course in Stitching Works is designed to provide practical knowledge and hands-on skills in garment stitching and basic tailoring. The course covers essential techniques such as machine handling, fabric cutting, measurements, stitching methods, and finishing. It is ideal for beginners and helps learners develop skills needed for tailoring jobs, boutique work, or self-employment.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Basic and Advanced Stitching Techniques",
+      "topics": [
+        "Chain Stitch",
+        "Double Chain Stitch",
+        "Zig Zag Stitch",
+        "Chain with Zig Zag Stitch",
+        "Herringbone Stitch",
+        "Back Chain Stitch",
+        "Stem Stitch",
+        "Wheat / Arrow / Chotti Stitch",
+        "Pani / Water Filling Stitch",
+        "Filling Stitch",
+        "Striped Button Hole Stitch",
+        "Y Type Button Hole Stitch",
+        "Double Button Hole Stitch",
+        "Wheel / Round Button Hole Stitch",
+        "Fish Bone Stitch",
+        "Shaded Button Hole Stitch",
+        "Mat Filling Stitch",
+        "Hat Loading",
+        "Padded Loading",
+        "Butterfly Stitch",
+        "Magic Chain Stitch",
+        "French Knot Stitch",
+        "Long French Knot Stitch",
+        "Ring Knot Stitch",
+        "Bullion Knot Stitch",
+        "Lazy Daisy Stitch",
+        "Stone Chain Stitch",
+        "Kundan Stone Work",
+        "Bead Work",
+        "Chamki / Chakhri / Sequence Work",
+        "Mirror Work",
+        "Zardosi Loading Stitch",
+        "Zardosi Chain Stitch",
+        "Zardosi Lazy Daisy Stitch",
+        "Zardosi Filling Stitch",
+        "Zardosi Mat Stitch",
+        "Zardosi French Knot Stitch",
+        "Zardosi Fishbone Stitch",
+        "Zardosi Long French Knot Stitch",
+        "Zardosi Rose Stitch",
+        "Cut Work Design",
+        "Patch Work",
+        "Ribbon Work",
+        "Pendant Work",
+        "Blouse Design"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Mehandi Design",
+  "course_category": "Fashion Designing",
+  "course_duration": "1 Month",
+  "department":"nonIt",
+  "objective": "The Certificate Course in Mehndi Design is designed to introduce learners to the art of traditional and contemporary mehndi patterns. The course covers basic to advanced designs, including bridal, Arabic, and modern styles, along with techniques for cone preparation, application, and finishing. It helps learners develop creativity and practical skills for professional mehndi designing and self-employment opportunities.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Fundamentals of Mehndi Design",
+      "topics": [
+        "Basic Knowledge",
+        "Basic Elements",
+        "Types of Designs",
+        "Making and Removal of Mehndi"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Traditional Mehndi Styles and Practice",
+      "topics": [
+        "Arabic Design",
+        "Indian Design",
+        "Project Work"
+      ]
+    }
+  ]
+}
+]

@@ -1,0 +1,272 @@
+[{
+  "course_name": "Post Graduate Diploma in Logistics Management (SAP, TALLY)",
+  "course_category": "Logistics Management",
+  "course_duration": "12 Months",
+  "department":"nonIt",
+  "duration_details": {
+    "academic_duration": "1 Year",
+    "total_hours": 432,
+    "internship_duration": "45 Days"
+  },
+  "objective": "The course aims to provide a comprehensive understanding of logistics, including supply chain management, transportation, warehousing, inventory management, distribution, Tally Prime essentials, SAP MM Power User concepts, and Human Resources Development. The program also focuses on interview skills, language development, and professional grooming to prepare students for careers as logistics professionals and executives.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Core Logistics and Supply Chain Management",
+      "topics": [
+        "Logistics Management",
+        "Supply Chain Management",
+        "Inventory Management",
+        "Warehouse Management",
+        "Transportation and Shipping",
+        "Cargo Management",
+        "Procurement and Air Cargo",
+        "Import and Export",
+        "International Trade",
+        "Commercial Geography",
+        "International Transport Conventions",
+        "Documentation and Clearance Processes",
+        "Techniques of Operations Efficiency"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Industrial and Risk Management",
+      "topics": [
+        "Industrial Relation and Labour Laws",
+        "Risk and Insurance Management",
+        "Marketing in Shipping and Logistics",
+        "Trends in Logistics"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Accounting and ERP Systems",
+      "topics": [
+        "Tally Essential Comprehensive",
+        "SAP MM"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Human Resource Development and Professional Skills",
+      "topics": [
+        "HRD - Level 1",
+        "HRD - Level 2",
+        "Interview and Grooming",
+        "Language Training"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Advance Diploma in Logistics Management (SAP, TALLY)",
+  "course_category": "Logistics Management",
+  "course_duration": "1 Year",
+  "department":"nonIt",
+  "duration_details": {
+    "total_hours": 432,
+    "internship_duration": "45 Days"
+  },
+  "objective": "The course aims to provide a comprehensive understanding of logistics, including supply chain management, transportation, warehousing, inventory management, distribution, Tally Prime essentials, SAP MM Power User concepts, and Human Resources Development. The program also focuses on interview skills, language development, and professional grooming to prepare students for careers as logistics professionals and executives.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Core Logistics and Supply Chain Management",
+      "topics": [
+        "Logistics Management",
+        "Supply Chain Management",
+        "Inventory Management",
+        "Warehouse Management",
+        "Transportation and Shipping",
+        "Cargo Management",
+        "Procurement and Air Cargo",
+        "Import and Export",
+        "International Trade",
+        "Commercial Geography",
+        "International Transport Conventions",
+        "Documentation and Clearance Processes",
+        "Techniques of Operations Efficiency"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Industrial and Risk Management",
+      "topics": [
+        "Industrial Relation and Labour Laws",
+        "Risk and Insurance Management",
+        "Marketing in Shipping and Logistics",
+        "Trends in Logistics"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Accounting and ERP Systems",
+      "topics": [
+        "Tally Essential Comprehensive",
+        "SAP MM"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Human Resource Development and Professional Skills",
+      "topics": [
+        "HRD - Level 1",
+        "HRD - Level 2",
+        "Interview and Grooming",
+        "Language Training"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Post Graduation Diploma in Logistics Management",
+  "course_category": "Logistics Management",
+  "course_duration": "8 Months",
+  "department":"nonIt",
+  "duration_details": {
+    "total_hours": 288,
+    "internship_duration": "45 Days"
+  },
+  "objective": "The course aims to provide a comprehensive understanding of logistics, including supply chain management, transportation, warehousing, inventory management, distribution, and Human Resources Development. The program also focuses on interview skills, language development, and professional grooming to prepare students for careers as logistics professionals and executives.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Core Logistics and Supply Chain Management",
+      "topics": [
+        "Logistics Management",
+        "Supply Chain Management",
+        "Inventory Management",
+        "Warehouse Management",
+        "Transportation and Shipping",
+        "Cargo Management",
+        "Procurement and Air Cargo",
+        "Import and Export",
+        "International Trade",
+        "Commercial Geography",
+        "International Transport Conventions",
+        "Documentation and Clearance Processes",
+        "Techniques of Operations Efficiency"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Industrial and Risk Management",
+      "topics": [
+        "Industrial Relation and Labour Laws",
+        "Risk and Insurance Management",
+        "Marketing in Shipping and Logistics",
+        "Trends in Logistics"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Human Resource Development and Professional Skills",
+      "topics": [
+        "HRD - Level 1",
+        "HRD - Level 2",
+        "Interview and Grooming (8 Days / 12 Hours)",
+        "Language Training"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Advance Diploma in Logistic Management",
+  "course_category": "Logistics Management",
+  "course_duration": "8 Months",
+  "department":"nonIt",
+  "duration_details": {
+    "total_hours": 288,
+    "internship_duration": "45 Days"
+  },
+  "objective": "The course aims to provide a comprehensive understanding of logistics, including supply chain management, transportation, warehousing, inventory management, distribution, and Human Resources Development. The program also focuses on interview skills, language development, and professional grooming to prepare students for careers as logistics professionals and executives.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Core Logistics and Supply Chain Management",
+      "topics": [
+        "Logistics Management",
+        "Supply Chain Management",
+        "Inventory Management",
+        "Warehouse Management",
+        "Transportation and Shipping",
+        "Cargo Management",
+        "Procurement and Air Cargo",
+        "Import and Export",
+        "International Trade",
+        "Commercial Geography",
+        "International Transport Conventions",
+        "Documentation and Clearance Processes",
+        "Techniques of Operations Efficiency"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Industrial and Risk Management",
+      "topics": [
+        "Industrial Relation and Labour Laws",
+        "Risk and Insurance Management",
+        "Marketing in Shipping and Logistics",
+        "Trends in Logistics"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Human Resource Development and Professional Skills",
+      "topics": [
+        "HRD - Level 1",
+        "HRD - Level 2",
+        "Interview and Grooming (8 Days / 12 Hours)",
+        "Language Training"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Diploma in Logistic Management",
+  "course_category": "Logistics Management",
+  "course_duration": "4 Months",
+  "department":"nonIt",
+  "duration_details": {
+    "total_hours": 144,
+    "internship_duration": "15 Days"
+  },
+  "objective": "The course aims to provide a comprehensive understanding of logistics along with a strong foundation in Human Resources Development. The program also focuses on interview skills, language development, and professional grooming to prepare students for careers as logistics professionals and executives.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Core Logistics Management",
+      "topics": [
+        "Logistics Management",
+        "Supply Chain Management",
+        "Inventory Management",
+        "Warehouse Management",
+        "Transportation and Shipping",
+        "Cargo Management",
+        "Procurement and Air Cargo",
+        "Techniques of Operations Efficiency"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Industrial and Regulatory Management",
+      "topics": [
+        "Industrial Relation and Labour Laws",
+        "Risk and Insurance Management",
+        "International Transport Conventions"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Human Resource Development and Professional Skills",
+      "topics": [
+        "HRD - Level 1",
+        "HRD - Level 2",
+        "Interview and Grooming",
+        "Language Training"
+      ]
+    }
+  ]
+}
+]

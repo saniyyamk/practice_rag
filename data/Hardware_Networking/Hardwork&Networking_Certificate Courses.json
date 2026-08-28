@@ -1,0 +1,951 @@
+[{
+  "course_name": "Certificate Course in Computer Hardware and Networking",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 3
+  },
+  "objective": "This course teaches newcomers the essentials of installing and troubleshooting PC hardware. On completion, participants will be able to install and configure PC hardware and system components, understand the basics of peripherals and local area networking, support and troubleshoot PC hardware, software, and peripherals, and apply customer service techniques.",
+  "course_outline": [
+    {
+      "module": "Computer Hardware (A+)"
+    },
+    {
+      "module": "Networking (N+)"
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Computer Hardware",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 2
+  },
+  "objective": "This course uses a wide range of hands-on practical training to teach newcomers the essentials of installing and troubleshooting all types of PC hardware. It provides the foundational skills required for PC installation, maintenance, and troubleshooting.",
+  "course_outline": [
+    {
+      "module": "Basic and Digital Electronics"
+    },
+    {
+      "module": "Hardware and Installation"
+    }
+  ]
+},
+{
+  "course_name": "A+ Certification Course",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 3
+  },
+  "objective": "The A+ certification course is an industry-standard certification for computer support engineers. It validates competence in installation, preventive maintenance, networking, security, and troubleshooting. It is globally recognized as a trusted indicator of qualified IT professionals and prepares entry-level candidates for IT support roles.",
+  "course_outline": [
+    {
+      "module": "A+ Core 1 (220-1201)"
+    },
+    {
+      "module": "A+ Core 2 (220-1202)"
+    }
+  ]
+},
+{
+  "course_name": "N+ Certification Course",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": 108,
+    "months": 3
+  },
+  "objective": "The N+ certification course provides a general introduction to computer networking, including local and wide area network technologies. It covers network architecture, topologies, protocols (especially TCP/IP), network operating systems, installation, upgrading, troubleshooting, user account management, security, remote access, and disaster recovery. It serves as a foundation for advanced vendor-specific networking certifications.",
+  "course_outline": [
+    {
+      "module": "Introduction to Networks"
+    },
+    {
+      "module": "The Open Systems Interconnection (OSI) Model"
+    },
+    {
+      "module": "Networking Topologies, Connectors, and Wiring Standards"
+    },
+    {
+      "module": "Ethernet Specifications"
+    },
+    {
+      "module": "Networking Devices"
+    },
+    {
+      "module": "Introduction to Internet Protocol (IP)"
+    },
+    {
+      "module": "IP Addressing"
+    },
+    {
+      "module": "IP Subnetting, Troubleshooting IP, and NAT"
+    },
+    {
+      "module": "Introduction to IP Routing"
+    },
+    {
+      "module": "Routing Protocols"
+    },
+    {
+      "module": "Switching and Virtual LANs"
+    },
+    {
+      "module": "Wireless Networking"
+    },
+    {
+      "module": "Authentication and Access Control"
+    },
+    {
+      "module": "Network Threats and Mitigation"
+    },
+    {
+      "module": "Physical Security and Risk Management"
+    },
+    {
+      "module": "Wide Area Networks"
+    },
+    {
+      "module": "Troubleshooting Tools"
+    },
+    {
+      "module": "Software and Hardware Tools"
+    },
+    {
+      "module": "Network Troubleshooting"
+    },
+    {
+      "module": "Network Management, Monitoring, and Optimization"
+    }
+  ]
+},
+{
+  "course_name": "Diploma in CCTV and Security Systems",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 3
+  },
+  "objective": "This course helps learners understand the fundamental components of CCTV and security systems, including identification of malicious activity, fire alarm system zoning, and evaluation of detectors, beacons, and sounders used in security systems.",
+  "course_outline": [
+    {
+      "module": "Hardware Installation, Maintenance and Troubleshooting"
+    },
+    {
+      "module": "Introduction to CCTV"
+    },
+    {
+      "module": "CCTV Camera Models and Types"
+    },
+    {
+      "module": "DVR Connection and Configuration"
+    },
+    {
+      "module": "NVR (Network Video Recorder)"
+    },
+    {
+      "module": "IP Camera"
+    },
+    {
+      "module": "Access Controller"
+    },
+    {
+      "module": "Intrusion Alarm Systems"
+    },
+    {
+      "module": "Fire Alarm Systems"
+    }
+  ]
+},
+{
+  "course_name": "Diploma in CCTV Installation",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 2
+  },
+  "objective": "The objective of this course is to provide complete knowledge of CCTV system planning, design, specification, installation, setup, and maintenance of key components such as cameras, lenses, DVRs, NVRs, and cabling.",
+  "course_outline": [
+    {
+      "module": "History of Computer"
+    },
+    {
+      "module": "Hardware Installation, Maintenance and Troubleshooting"
+    },
+    {
+      "module": "Introduction to CCTV"
+    },
+    {
+      "module": "CCTV Camera Models and Types"
+    },
+    {
+      "module": "DVR Connection and Configuration"
+    },
+    {
+      "module": "NVR (Network Video Recorder)"
+    },
+    {
+      "module": "IP Camera"
+    },
+    {
+      "module": "Remote Monitoring through Phone and Internet"
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Security System",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 2
+  },
+  "objective": "This course provides fundamental knowledge of computer hardware and security systems. It focuses on access control, intrusion detection, fire alarm systems, and understanding methods, tools, and techniques used to prevent unauthorized access to physical and logical systems.",
+  "course_outline": [
+    {
+      "module": "Computer Hardware (A+)"
+    },
+    {
+      "module": "Access Controller"
+    },
+    {
+      "module": "Intrusion Alarm Systems"
+    },
+    {
+      "module": "Fire Alarm Systems"
+    }
+  ]
+},
+{
+  "course_name": "G-TEC Certified CISCO Network Associate",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 2
+  },
+  "objective": "G-TEC Certified Cisco Network Associate (G-CCNA) validates the ability to install, configure, operate, and troubleshoot medium-sized routed and switched networks, including WAN connectivity. The course includes security fundamentals, wireless networking concepts, and introduces Cisco IOS and networking hardware.",
+  "course_outline": [
+    {
+      "module": "Network Fundamentals"
+    },
+    {
+      "module": "Network Access"
+    },
+    {
+      "module": "IP Connectivity"
+    },
+    {
+      "module": "IP Services"
+    },
+    {
+      "module": "Security Fundamentals"
+    },
+    {
+      "module": "Automation and Programmability"
+    }
+  ]
+},
+{
+  "course_name": "G-TEC Certified Red Hat Engineering",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 3
+  },
+  "objective": "G-TEC Certified Red Hat Engineer (G-CRHE) is a performance-based certification that measures real-world competency on live Linux systems. It validates the ability to configure networking services and security on servers running Red Hat-based operating systems and is considered an advanced Linux certification.",
+  "course_outline": [
+    {
+      "module": "RHCSA"
+    },
+    {
+      "module": "RHCE"
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Cyber Security & Ethical Hacking",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 3
+  },
+  "objective": "Cyber security involves technologies, processes, and practices designed to protect networks, computers, programs, and data from attack, damage, or unauthorized access. Ethical hacking focuses on identifying weaknesses in computer systems or networks to improve security and prevent exploitation.",
+  "course_outline": [
+    {
+      "module": "Security Concepts and Mechanisms"
+    },
+    {
+      "module": "Security Management"
+    },
+    {
+      "module": "Network Security"
+    },
+    {
+      "module": "System and Application Security"
+    }
+  ]
+},
+{
+  "course_name": "Certified Ethical Hacker",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 3
+  },
+  "objective": "A Certified Ethical Hacker is a skilled professional trained to identify vulnerabilities in target systems using the same tools and techniques as malicious hackers, but in a lawful and authorized manner. The certification validates expertise in assessing system security posture from a vendor-neutral perspective.",
+  "course_outline": [
+    {
+      "module": "Introduction to Ethical Hacking"
+    },
+    {
+      "module": "Footprinting and Reconnaissance"
+    },
+    {
+      "module": "Scanning Networks"
+    },
+    {
+      "module": "Enumeration"
+    },
+    {
+      "module": "Vulnerability Analysis"
+    },
+    {
+      "module": "System Hacking"
+    },
+    {
+      "module": "Malware Threats"
+    },
+    {
+      "module": "Sniffing"
+    },
+    {
+      "module": "Social Engineering"
+    },
+    {
+      "module": "Denial-of-Service (DoS)"
+    },
+    {
+      "module": "Session Hijacking"
+    },
+    {
+      "module": "Evading IDS, Firewalls, and Honeypots"
+    },
+    {
+      "module": "Hacking Web Servers"
+    },
+    {
+      "module": "Hacking Web Applications"
+    },
+    {
+      "module": "SQL Injection"
+    },
+    {
+      "module": "Hacking Wireless Networks"
+    },
+    {
+      "module": "Hacking Mobile Platforms"
+    },
+    {
+      "module": "IoT Hacking"
+    },
+    {
+      "module": "Cloud Computing Security"
+    },
+    {
+      "module": "Cryptography"
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Mobile Phone Technology",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": 72,
+    "months": 2
+  },
+  "objective": "This course is designed for students and professionals who want to build a career in mobile phone technology. It covers servicing of major smartphone brands, including fundamental hardware and software concepts.",
+  "course_outline": [
+    {
+      "module": "Basic Electronics"
+    },
+    {
+      "module": "Parts and Their Functions in Mobile Phones"
+    },
+    {
+      "module": "Motherboard Repair Tools Study"
+    },
+    {
+      "module": "Study of Different Operating Systems"
+    },
+    {
+      "module": "Smartphone and Tablet Processors"
+    },
+    {
+      "module": "Assembling and Disassembling Mobile Phones"
+    }
+  ]
+},
+{
+  "course_name": "Certified Network Defender",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 1
+  },
+  "objective": "Certified Network Defender (CND v2) is designed to help professionals actively protect digital business assets and detect and respond to cyber threats. The course focuses on network defense strategies, threat intelligence, and building comprehensive network security systems.",
+  "course_outline": [
+    {
+      "module": "Network Attacks and Defense Strategies"
+    },
+    {
+      "module": "Administrative Network Security"
+    },
+    {
+      "module": "Technical Network Security"
+    },
+    {
+      "module": "Network Perimeter Security"
+    },
+    {
+      "module": "Endpoint Security - Windows Systems"
+    },
+    {
+      "module": "Endpoint Security - Linux Systems"
+    },
+    {
+      "module": "Endpoint Security - Mobile Devices"
+    },
+    {
+      "module": "Endpoint Security - IoT Devices"
+    },
+    {
+      "module": "Administrative Application Security"
+    },
+    {
+      "module": "Data Security"
+    },
+    {
+      "module": "Enterprise Virtual Network Security"
+    },
+    {
+      "module": "Enterprise Cloud Network Security"
+    },
+    {
+      "module": "Enterprise Wireless Network Security"
+    },
+    {
+      "module": "Network Traffic Monitoring and Analysis"
+    },
+    {
+      "module": "Network Logs Monitoring and Analysis"
+    },
+    {
+      "module": "Incident Response and Forensic Investigation"
+    },
+    {
+      "module": "Business Continuity and Disaster Recovery"
+    },
+    {
+      "module": "Risk Anticipation and Risk Management"
+    },
+    {
+      "module": "Threat Assessment and Attack Surface Analysis"
+    },
+    {
+      "module": "Cyber Threat Intelligence and Prediction"
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Hardware and Software Installation",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "This course provides hands-on practical training for newcomers in installing and troubleshooting PC hardware and software. It builds foundational skills required for PC support, focusing on installation, configuration, and basic troubleshooting.",
+  "course_outline": [
+    {
+      "module": "Hardware and Software Installation"
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Software Installation",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "days": 6
+  },
+  "objective": "This course provides hands-on practical training for newcomers in installing and troubleshooting PC software. It builds essential foundational skills required for PC support, focusing on software installation and basic troubleshooting.",
+  "course_outline": [
+    {
+      "module": "Software Installation"
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Ethical Hacking",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": 36,
+    "months": 1
+  },
+  "objective": "The Ethical Hacking Associate (E|HA) certification demonstrates knowledge in information security and network security, including the tools and methodologies used by malicious hackers, but applied in a lawful and ethical manner. It establishes minimum standards for entry-level ethical hacking professionals and reinforces ethical hacking as a structured profession.",
+  "course_outline": [
+    {
+      "module": "Information Security Fundamentals"
+    },
+    {
+      "module": "Hardware Fundamentals"
+    },
+    {
+      "module": "Networking Fundamentals"
+    },
+    {
+      "module": "Secure Network Protocols"
+    },
+    {
+      "module": "Information Security Threats and Attacks"
+    },
+    {
+      "module": "Social Engineering"
+    },
+    {
+      "module": "Hacking Cycle"
+    },
+    {
+      "module": "Identification, Authentication and Authorization"
+    },
+    {
+      "module": "Cryptography"
+    },
+    {
+      "module": "Firewalls"
+    },
+    {
+      "module": "Intrusion Detection Systems"
+    },
+    {
+      "module": "Data Backup"
+    },
+    {
+      "module": "Virtual Private Network (VPN)"
+    },
+    {
+      "module": "Wireless Network Security"
+    },
+    {
+      "module": "Web Security"
+    },
+    {
+      "module": "Ethical Hacking and Penetration Testing"
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Cyber Forensics",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 1
+  },
+  "objective": "The Cyber Forensics Associate (C|FA) certification validates knowledge in detecting hacking attacks, extracting digital evidence, and conducting investigations to support legal proceedings. It prepares individuals to become part of incident response teams and helps in identifying intruder activities and preventing future cyber attacks.",
+  "course_outline": [
+    {
+      "module": "Computer Hardware Fundamentals"
+    },
+    {
+      "module": "Networking Fundamentals"
+    },
+    {
+      "module": "Computer Forensics Fundamentals"
+    },
+    {
+      "module": "Incident Response"
+    },
+    {
+      "module": "Digital Evidence Handling"
+    },
+    {
+      "module": "Understanding File Systems"
+    },
+    {
+      "module": "Windows Forensics"
+    },
+    {
+      "module": "Network Forensics and Traffic Investigation"
+    },
+    {
+      "module": "Steganography"
+    },
+    {
+      "module": "Log Analysis"
+    },
+    {
+      "module": "Email Crime Investigation"
+    },
+    {
+      "module": "Writing Investigation Reports"
+    }
+  ]
+},
+{
+  "course_name": "Certification in Windows Server Administration",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 3
+  },
+  "objective": "This course trains beginners in Windows Server 2019/2022 administration, covering installation, Active Directory, networking, virtualization, security, PowerShell, and hybrid identity management using Microsoft Entra ID (Azure AD). It prepares learners for IT administrator roles with hands-on enterprise-level skills.",
+  "course_outline": [
+    {
+      "module": "Introduction to Windows Server"
+    },
+    {
+      "module": "Installing Windows Server"
+    },
+    {
+      "module": "Networking Basics for Server Administrators"
+    },
+    {
+      "module": "Active Directory Domain Services (AD DS)"
+    },
+    {
+      "module": "Group Policy Management"
+    },
+    {
+      "module": "DHCP and DNS Server Configuration"
+    },
+    {
+      "module": "File Services and Storage"
+    },
+    {
+      "module": "Print Services"
+    },
+    {
+      "module": "Virtualization with Hyper-V"
+    },
+    {
+      "module": "Server Security and Hardening"
+    },
+    {
+      "module": "PowerShell for Windows Server"
+    },
+    {
+      "module": "Backup and Disaster Recovery"
+    },
+    {
+      "module": "Monitoring and Performance Tuning"
+    },
+    {
+      "module": "Remote Desktop and Remote Access"
+    },
+    {
+      "module": "IIS Web Server"
+    },
+    {
+      "module": "Windows Server Update Services (WSUS)"
+    },
+    {
+      "module": "Introduction to Microsoft Entra ID (Azure AD)"
+    },
+    {
+      "module": "Hybrid Identity with Entra ID"
+    },
+    {
+      "module": "Entra ID Security Essentials"
+    },
+    {
+      "module": "Integration with Microsoft Cloud Services"
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Cyber Security",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 2
+  },
+  "objective": "This course is designed to provide foundational knowledge and practical skills in cybersecurity. It equips students with essential understanding of cybersecurity principles, techniques, and best practices to protect digital assets and mitigate cyber threats effectively.",
+  "course_outline": [
+    {
+      "module": "Essential Security Principles"
+    },
+    {
+      "module": "Basic Network Security Concepts"
+    },
+    {
+      "module": "Endpoint Security Concepts"
+    },
+    {
+      "module": "Vulnerability Assessment and Risk Management"
+    },
+    {
+      "module": "Incident Handling"
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Penetration Testing",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 2
+  },
+  "objective": "This course equips individuals with essential skills to identify, exploit, and mitigate security vulnerabilities in computer systems, networks, and applications. It focuses on ethical hacking techniques used to simulate real-world cyber-attacks and assess an organization's security posture.",
+  "course_outline": [
+    {
+      "module": "Introduction to Penetration Testing"
+    },
+    {
+      "module": "Penetration Testing Scoping and Engagement"
+    },
+    {
+      "module": "Open Source Intelligence (OSINT)"
+    },
+    {
+      "module": "Social Engineering Penetration Testing"
+    },
+    {
+      "module": "Network Penetration Testing - External"
+    },
+    {
+      "module": "Network Penetration Testing - Internal"
+    },
+    {
+      "module": "Network Penetration Testing - Perimeter Devices"
+    },
+    {
+      "module": "Web Application Penetration Testing"
+    },
+    {
+      "module": "Wireless Penetration Testing"
+    },
+    {
+      "module": "IoT Penetration Testing"
+    },
+    {
+      "module": "OT/SCADA Penetration Testing"
+    },
+    {
+      "module": "Cloud Penetration Testing"
+    },
+    {
+      "module": "Binary Analysis and Exploitation"
+    },
+    {
+      "module": "Report Writing and Post-Testing Actions"
+    }
+  ]
+},
+{
+  "course_name": "Certificate in Ethical Hacking Essentials",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 1
+  },
+  "objective": "This course provides fundamental knowledge and practical skills in ethical hacking (penetration testing). It focuses on identifying and addressing vulnerabilities in computer systems, networks, and applications through authorized and legal methods as part of cybersecurity defense.",
+  "course_outline": [
+    {
+      "module": "Information Security Fundamentals"
+    },
+    {
+      "module": "Ethical Hacking Fundamentals"
+    },
+    {
+      "module": "Information Security Threats and Vulnerability Assessment"
+    },
+    {
+      "module": "Password Cracking Techniques and Countermeasures"
+    },
+    {
+      "module": "Social Engineering Techniques and Countermeasures"
+    },
+    {
+      "module": "Network Level Attacks and Countermeasures"
+    },
+    {
+      "module": "Web Application Attacks and Countermeasures"
+    },
+    {
+      "module": "Wireless Attacks and Countermeasures"
+    },
+    {
+      "module": "Mobile Attacks and Countermeasures"
+    },
+    {
+      "module": "IoT and OT Attacks and Countermeasures"
+    },
+    {
+      "module": "Cloud Computing Threats and Countermeasures"
+    },
+    {
+      "module": "Penetration Testing Fundamentals"
+    }
+  ]
+},
+{
+  "course_name": "Certificate in Network Defense Essentials",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 1
+  },
+  "objective": "This course provides a comprehensive understanding of fundamental concepts and techniques required to defend computer networks against cyber threats. It focuses on core principles of network security, controls, cryptography, and monitoring strategies.",
+  "course_outline": [
+    {
+      "module": "Network Security Fundamentals"
+    },
+    {
+      "module": "Identification, Authentication, and Authorization"
+    },
+    {
+      "module": "Network Security Controls - Administrative Controls"
+    },
+    {
+      "module": "Network Security Controls - Physical Controls"
+    },
+    {
+      "module": "Network Security Controls - Technical Controls"
+    },
+    {
+      "module": "Virtualization and Cloud Computing"
+    },
+    {
+      "module": "Wireless Network Security"
+    },
+    {
+      "module": "Mobile Device Security"
+    },
+    {
+      "module": "IoT Device Security"
+    },
+    {
+      "module": "Cryptography and Public Key Infrastructure (PKI)"
+    },
+    {
+      "module": "Data Security"
+    },
+    {
+      "module": "Network Traffic Monitoring"
+    }
+  ]
+},
+{
+  "course_name": "Certificate in Digital Forensics Essentials",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 1
+  },
+  "objective": "The Certificate in Digital Forensics Essentials course provides fundamental knowledge and practical skills in digital forensics. It focuses on identifying, collecting, preserving, and analyzing digital evidence from computer systems, networks, and applications using lawful and structured investigation methods.",
+  "course_outline": [
+    {
+      "module": "Computer Forensics Fundamentals"
+    },
+    {
+      "module": "Computer Forensics Investigation Process"
+    },
+    {
+      "module": "Understanding Hard Disks and File Systems"
+    },
+    {
+      "module": "Data Acquisition and Duplication"
+    },
+    {
+      "module": "Defeating Anti-Forensics Techniques"
+    },
+    {
+      "module": "Windows Forensics"
+    },
+    {
+      "module": "Linux and Mac Forensics"
+    },
+    {
+      "module": "Network Forensics"
+    },
+    {
+      "module": "Investigating Web Attacks"
+    },
+    {
+      "module": "Dark Web Forensics"
+    },
+    {
+      "module": "Investigating Email Crimes"
+    },
+    {
+      "module": "Malware Forensics"
+    }
+  ]
+},
+{
+  "course_name": "Certificate Course in Dark Web and Anonymity",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 1
+  },
+  "objective": "This course provides a comprehensive exploration of the Dark Web, anonymity tools, and cryptocurrencies. It helps learners understand the technologies behind the Dark Web, methods for achieving online anonymity, and the role of cryptocurrencies in private transactions, along with legal, ethical, and societal implications.",
+  "course_outline": [
+    {
+      "module": "Introduction to the Dark Web and Anonymity"
+    },
+    {
+      "module": "Exploring the Tor Network and Anonymity Tools"
+    },
+    {
+      "module": "Cryptocurrency Fundamentals and Anonymity"
+    },
+    {
+      "module": "Legal and Ethical Considerations and Societal Implications"
+    }
+  ]
+},
+{
+  "course_name": "Certificate in Basic Hardware and Networking",
+  "course_category": "Certificate Course",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 1
+  },
+  "objective": "This introductory program equips students with foundational knowledge and skills in computer hardware and networking. It is designed for individuals seeking careers in IT support or network administration, covering system assembly, troubleshooting, and basic networking concepts with hands-on practice.",
+  "course_outline": [
+    {
+      "module": "Computer Hardware"
+    },
+    {
+      "module": "Networking Fundamentals"
+    }
+  ]
+}
+
+
+]

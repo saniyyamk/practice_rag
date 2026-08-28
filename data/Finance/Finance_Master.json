@@ -1,0 +1,481 @@
+[{
+  "course_name": "Master in Financial Accounting and SAP FICO",
+  "course_category": "Master Courses",
+  "course_duration": "14 Months",
+  "department":"SAP",
+  "objective": "MFAS is a comprehensive program that blends traditional accounting subjects such as manual and computerized accounting with modern standards including IFRS, GST, SAP accounting, and management concepts like men and material management. The course includes practical training in real-life accounting scenarios and offers international certifications such as IAB (UK) and SAP FICO Power User, making it suitable for aspiring global accounting professionals.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "MS Office"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals",
+      "topics": [
+        "Basic Accounting Standards (Manual Accounting)",
+        "Tally Essential Comprehensive"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Accounting Software Tools",
+      "topics": [
+        "Sage 50",
+        "QuickBooks",
+        "E-Accounting Concept"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Laws, Taxation and HR",
+      "topics": [
+        "Government Laws & Taxes (GST)",
+        "IFRS Basics",
+        "HR Management"
+      ]
+    },
+    {
+      "module": 5,
+      "title": "SAP Finance",
+      "topics": [
+        "SAP FICO Power User"
+      ]
+    },
+    {
+      "module": 6,
+      "title": "Practical Training",
+      "topics": [
+        "Practical Accounting and Project"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Master in Financial Accounting",
+  "course_category": "Master Courses",
+  "course_duration": "12 Months",
+  "department":"Accounting",
+  "objective": "This comprehensive program is designed to transform learners into experts in both manual and computerized accounting. It begins with foundational computer skills and MS Office, progresses through manual and computerized accounting practices, introduces advanced E-Accounting concepts, and concludes with essential HR and business management principles.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "MS Office"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals and Software",
+      "topics": [
+        "Basic Accounting Standards (Manual Accounting)",
+        "Tally Essential Comprehensive",
+        "Sage 50",
+        "QuickBooks"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "E-Accounting Concepts",
+      "topics": [
+        "E-Accounting Concept"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "HR and Practical Accounting",
+      "topics": [
+        "HR Management",
+        "Practical Accounting"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Professional Diploma in Indian and Foreign Accounting with SAP FICO",
+  "course_category": "Master Courses",
+  "course_duration": "11 Months",
+  "department":"SAP",
+  "objective": "This comprehensive course is designed to shape learners into globally recognized professional accountants. It begins with computer fundamentals, progresses through manual and computerized accounting, and culminates with SAP FICO Power User training. The program provides a complete understanding of the evolution of accounting systems and practices.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "MS Office"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals and Software",
+      "topics": [
+        "Basic Accounting Standards (Manual Accounting)",
+        "Tally Essential Comprehensive",
+        "Sage 50",
+        "QuickBooks"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "E-Accounting Concepts",
+      "topics": [
+        "E-Accounting Concept"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Finance and ERP Systems",
+      "topics": [
+        "Finance Management Basics - Theory",
+        "SAP FICO Power User"
+      ]
+    }
+  ]
+}
+
+,
+{
+  "course_name": "Global Professional Accounting with SAP FICO",
+  "course_category": "Master Courses",
+  "course_duration": "20 Months",
+  "department":"SAP",
+  "objective": "Global Professional Accounting is an industry-relevant program designed to equip learners with comprehensive accounting skills across IT fundamentals, manual accounting, Indian and foreign accounting software, e-money systems, and share trading fundamentals. The course integrates foundational ACCA modules and provides preparation for internationally recognized certifications such as IFRS, IAB (UK), Tally Education, QuickBooks, SAP, and G-TEC Global Certification, enabling strong global career opportunities.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals and Business Accounting",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "MS Office",
+        "Accountant in Business"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals and Software",
+      "topics": [
+        "Financial Accounting",
+        "Basic Accounting Standards (Manual Accounting)",
+        "Tally Essential Comprehensive",
+        "Sage 50",
+        "QuickBooks"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "International Accounting and Management",
+      "topics": [
+        "IFRS",
+        "Management Accounting",
+        "HR & Business Management Fundamentals"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "E-Accounting Concepts",
+      "topics": [
+        "E-Accounting Concept"
+      ]
+    },
+    {
+      "module": 5,
+      "title": "Financial Markets",
+      "topics": [
+        "Share Trading Fundamentals"
+      ]
+    },
+    {
+      "module": 6,
+      "title": "Practical Training",
+      "topics": [
+        "Practical Accounting and Project"
+      ]
+    },
+    {
+      "module": 7,
+      "title": "ERP Accounting",
+      "topics": [
+        "SAP Power User - FICO"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Global Professional Accounting",
+  "course_category": "Master Courses",
+  "course_duration": "18 Months",
+  "department":"Accounting",
+  "objective": "Global Professional Accounting is an industry-relevant program designed to equip learners with comprehensive accounting skills across IT fundamentals, manual accounting, Indian and foreign accounting software, e-money systems, and share trading fundamentals. The course is aligned with ACCA foundation modules and supports progression toward ACCA qualification. It also includes internationally recognized certifications such as IFRS, IAB (UK), Tally Education, QuickBooks, and G-TEC Global Certification.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals and Business Accounting",
+      "topics": [
+        "IT Basics",
+        "Windows",
+        "MS Office",
+        "Accountant in Business"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals and Software",
+      "topics": [
+        "Financial Accounting",
+        "Basic Accounting Standards (Manual Accounting)",
+        "Tally Essential Comprehensive",
+        "Sage 50",
+        "QuickBooks"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "International Accounting and Management",
+      "topics": [
+        "IFRS",
+        "Management Accounting",
+        "HR & Business Management Fundamentals"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "E-Accounting Concepts",
+      "topics": [
+        "E-Accounting Concept"
+      ]
+    },
+    {
+      "module": 5,
+      "title": "Financial Markets",
+      "topics": [
+        "Share Trading Fundamentals"
+      ]
+    },
+    {
+      "module": 6,
+      "title": "Practical Training",
+      "topics": [
+        "Practical Accounting and Project"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Global Professional Accounting and FICO in S/4HANA",
+  "course_category": "Master Courses",
+  "course_duration": "15 Months",
+  "department":"SAP",
+  "objective": "Global Professional Accounting is an industry-relevant program designed to equip learners with comprehensive accounting skills including IT fundamentals, manual accounting, Indian and foreign accounting software, e-money systems, and share trading fundamentals. The course also includes SAP FICO (S/4HANA) training. It prepares students for globally recognized certifications such as IAB (UK), SAP, Tally Education, and G-TEC Global Certification.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals",
+      "topics": [
+        "IT Basic",
+        "Windows",
+        "MS Office"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals and Software",
+      "topics": [
+        "Basic Accounting Standards (Manual Accounting)",
+        "Tally Essential Comprehensive",
+        "Sage 50",
+        "QuickBooks"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "International Accounting and Business",
+      "topics": [
+        "IFRS",
+        "HR & Business Management Fundamentals"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "E-Accounting Concepts",
+      "topics": [
+        "E-Accounting Concept"
+      ]
+    },
+    {
+      "module": 5,
+      "title": "Financial Markets",
+      "topics": [
+        "Share Trading Fundamentals"
+      ]
+    },
+    {
+      "module": 6,
+      "title": "Practical Accounting and Project Work",
+      "topics": [
+        "Practical Accounting and Project"
+      ]
+    },
+    {
+      "module": 7,
+      "title": "SAP ERP Finance",
+      "topics": [
+        "SAP FICO (S/4 HANA)"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Master in Financial and SAP Accounting in SAP S/4HANA",
+  "course_category": "Master Courses",
+  "course_duration": "14 Months",
+  "department":"SAP",
+  "objective": "MFAS is a comprehensive program that blends traditional accounting subjects such as manual and computerized accounting with modern standards including IFRS, GST, SAP accounting, and men and material management to develop globally competent accounting professionals. The course includes one-month practical training in real-life accounting scenarios and offers international certifications such as IAB (UK) and SAP FICO S/4HANA, making it suitable for candidates aspiring for strong careers in the commerce industry.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals",
+      "topics": [
+        "IT Basic",
+        "Windows",
+        "MS Office"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals",
+      "topics": [
+        "Basic Accounting Standards (Manual Accounting)",
+        "Tally Essential Comprehensive"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Accounting Software Tools",
+      "topics": [
+        "Sage 50",
+        "QuickBooks",
+        "E-Accounting Concept"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Laws, Taxation and HR",
+      "topics": [
+        "Government Laws & Taxes (GST)",
+        "IFRS Basics",
+        "HR Management"
+      ]
+    },
+    {
+      "module": 5,
+      "title": "SAP Finance",
+      "topics": [
+        "SAP FICO in S/4HANA"
+      ]
+    },
+    {
+      "module": 6,
+      "title": "Practical Training",
+      "topics": [
+        "Practical Accounting and Project"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Master in Corporate Management with SAP",
+  "course_category": "Master Courses",
+  "course_duration": "12 Months",
+  "department":"SAP",
+  "objective": "This program is designed for aspiring professionals aiming for a career in the corporate world. It covers key business processes across industries, including Production Planning, Material Management, Sales and Distribution, and Finance and Controlling. The course integrates SAP modules such as MM, PP, SD, and FICO to develop complete ERP expertise for corporate management roles.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "SAP Finance and Controlling",
+      "topics": [
+        "SAP Finance & Controlling - Basics",
+        "SAP Power User - FICO"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "SAP Material Management",
+      "topics": [
+        "SAP Material Management - Basics",
+        "SAP Power User - MM"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "SAP Sales and Distribution",
+      "topics": [
+        "SAP Sales & Distribution - Basics",
+        "SAP Power User - SD"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "SAP Production Planning",
+      "topics": [
+        "SAP Production Planning - Basics",
+        "SAP Power User - PP"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Professional Diploma in Indian and Foreign Accounting with SAP S/4 HANA",
+  "course_category": "Master Courses",
+  "course_duration": "11 Months",
+  "department":"SAP",
+  "objective": "This comprehensive course is designed to transform learners into globally recognized professional accountants. It begins with computer fundamentals, progresses through manual and computerized accounting, and culminates in ERP accounting using SAP S/4 HANA. The program provides complete exposure to modern accounting practices and systems.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Computer Fundamentals",
+      "topics": [
+        "IT Basic",
+        "Windows",
+        "MS Office"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Accounting Fundamentals and Software",
+      "topics": [
+        "Basic Accounting Standards (Manual Accounting)",
+        "Tally Essential Comprehensive",
+        "Sage 50",
+        "QuickBooks"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "E-Accounting Concepts",
+      "topics": [
+        "E-Accounting Concept"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Finance and ERP Systems",
+      "topics": [
+        "Finance Management Basics - Theory",
+        "SAP FICO in S/4 HANA"
+      ]
+    }
+  ]
+}
+]

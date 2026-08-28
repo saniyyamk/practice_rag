@@ -1,0 +1,333 @@
+[{
+  "course_name": "Honours Diploma in Computer Hardware and Network",
+  "course_category": "Diploma Courses",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": 288,
+    "months": 8
+  },
+  "objective": "This course ensures a strong career foundation in the hardware and networking sector. It emphasizes practical knowledge and provides detailed understanding of computer basics, internet, digital electronics, hardware, and networking concepts. It prepares students for entry-level computer engineering and networking jobs by building technical and professional skills.",
+  "course_outline": [
+    {
+      "module": "Basic and Digital Electronics"
+    },
+    {
+      "module": "Computer Hardware"
+    },
+    {
+      "module": "Windows"
+    },
+    {
+      "module": "Linux and MS Office"
+    },
+    {
+      "module": "Installation, Maintenance and Troubleshooting"
+    },
+    {
+      "module": "Computer Networking"
+    },
+    {
+      "module": "Windows Server and Server Administration"
+    },
+    {
+      "module": "Practice and Personal Skills Development"
+    }
+  ]
+},
+{
+  "course_name": "G-TEC Certified CISCO Network Professional",
+  "course_category": "Diploma Courses",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 4
+  },
+  "objective": "G-TEC Cisco Certified Network Professional (CCNP) validates the ability to plan, implement, verify, and troubleshoot local and wide-area enterprise networks, and to work collaboratively on advanced security, voice, wireless, and video solutions. It is suitable for candidates with at least one year of networking experience and prepares them for advanced enterprise networking roles such as network technician, support engineer, systems engineer, or network engineer.",
+  "course_outline": [
+    {
+      "module": "CCNP Enterprise"
+    },
+    {
+      "module": "CCNP Security"
+    },
+    {
+      "module": "CCNP Data Center"
+    },
+    {
+      "module": "CCNP Collaboration"
+    },
+    {
+      "module": "CCNP Service Provider"
+    }
+  ]
+},
+{
+  "course_name": "Advanced Diploma In Hardware and Networking",
+  "course_category": "Diploma Courses",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": 216,
+    "months": 6
+  },
+  "objective": "The Advanced Diploma in Hardware and Networking prepares students for careers in computer hardware repair and network administration. The course emphasizes hands-on training in computer systems, networking, internet technologies, and basic electronics. It builds technical, analytical, and teamwork skills required for roles in hardware and network engineering.",
+  "course_outline": [
+    {
+      "module": "Computer Hardware"
+    },
+    {
+      "module": "Networking"
+    },
+    {
+      "module": "Wireless Networking"
+    },
+    {
+      "module": "Internet Technologies"
+    },
+    {
+      "module": "CCNA"
+    },
+    {
+      "module": "RHCSA"
+    },
+    {
+      "module": "RHCE"
+    },
+    {
+      "module": "CCTV Systems"
+    },
+    {
+      "module": "Desktop Support Training"
+    },
+    {
+      "module": "Server Administration"
+    },
+    {
+      "module": "Network Administration"
+    },
+    {
+      "module": "Introduction to Firewall"
+    },
+    {
+      "module": "Introduction to VMware"
+    },
+    {
+      "module": "Live Project"
+    },
+    {
+      "module": "Practicals"
+    }
+  ]
+},
+{
+  "course_name": "G-TEC Certified Laptop Engineering",
+  "course_category": "Diploma Courses",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 4
+  },
+  "objective": "The G-TEC Certified Laptop Engineering course is designed to develop confidence, skills, and expertise in the laptop service industry. It provides both theoretical knowledge and practical training in laptop hardware, troubleshooting, and chip-level servicing.",
+  "course_outline": [
+    {
+      "module": "Computer Hardware"
+    },
+    {
+      "module": "Networking"
+    },
+    {
+      "module": "Wireless Networking"
+    },
+    {
+      "module": "Internet"
+    },
+    {
+      "module": "Electronics"
+    },
+    {
+      "module": "SMPS Servicing"
+    },
+    {
+      "module": "Laptop Chip Level Servicing"
+    },
+    {
+      "module": "Advanced Laptop Chip Level Training"
+    },
+    {
+      "module": "BGA Rework Station Training"
+    },
+    {
+      "module": "Laptop Support Training"
+    }
+  ]
+},
+{
+  "course_name": "Diploma in Mobile Phone Technology & Tablet Engineering",
+  "course_category": "Diploma Courses",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": 180,
+    "months": 5
+  },
+  "objective": "This course is designed for students and professionals who want to build a career in mobile phone technology. It covers servicing of all major smartphone brands, including both hardware and software repair. Training begins with basic electronics and progresses to advanced troubleshooting and chip-level diagnostics.",
+  "course_outline": [
+    {
+      "module": "Parts and Their Functions in Mobile Phones"
+    },
+    {
+      "module": "Motherboard Repair Tools Study"
+    },
+    {
+      "module": "Study of Different Operating Systems"
+    },
+    {
+      "module": "Smartphone and Tablet Processors"
+    },
+    {
+      "module": "Assembling and Disassembling Mobile Phones"
+    },
+    {
+      "module": "Mobile Phone Repairing and Testing Methods"
+    },
+    {
+      "module": "Mobile Phone Problems and Solutions"
+    },
+    {
+      "module": "Software Servicing"
+    },
+    {
+      "module": "Mobile Phone Reset and Secret Codes"
+    },
+    {
+      "module": "eMMC Programming"
+    },
+    {
+      "module": "Glass Changing Using OCA Machine"
+    },
+    {
+      "module": "Lock Removal (FRP, Pattern, Country, SIM Lock)"
+    },
+    {
+      "module": "CPU Reballing"
+    },
+    {
+      "module": "Schematic Tracing"
+    },
+    {
+      "module": "Software Flashing (Android & iOS)"
+    },
+    {
+      "module": "Chip Level Fault Finding"
+    }
+  ]
+},
+{
+  "course_name": "Diploma in Mobile Phone, CCTV & Computer Hardware Technology",
+  "course_category": "Diploma Courses",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": 360,
+    "months": 10
+  },
+  "objective": "This diploma program is designed to provide technical knowledge and practical skills in mobile phone repair, CCTV installation, and computer hardware maintenance. It prepares students for careers in the electronics and IT hardware sectors through hands-on training and applied learning.",
+  "course_outline": [
+    {
+      "module": "Basic Electronics and Component Familiarization"
+    },
+    {
+      "module": "Mobile Phone Technician Training"
+    },
+    {
+      "module": "CCTV Technician Training"
+    },
+    {
+      "module": "Computer Hardware Technician Training"
+    },
+    {
+      "module": "Advanced Mobile Phone Repair (Android and iOS)"
+    },
+    {
+      "module": "Practical Projects and Hands-on Experience"
+    }
+  ]
+},
+{
+  "course_name": "Advanced Diploma in Desktop and Laptop Chip Level Engineering",
+  "course_category": "Diploma Courses",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 6
+  },
+  "objective": "The Advanced Diploma in Desktop and Laptop Chip Level Engineering provides practical and theoretical knowledge in computer repair. Students gain hands-on experience in diagnosing and fixing hardware and software issues in both desktops and laptops, preparing them for careers as skilled technicians in the computer service industry.",
+  "course_outline": [
+    {
+      "module": "Computer Hardware"
+    },
+    {
+      "module": "Networking"
+    },
+    {
+      "module": "Wireless Networking"
+    },
+    {
+      "module": "Internet"
+    },
+    {
+      "module": "Electronics"
+    },
+    {
+      "module": "SMPS Servicing"
+    },
+    {
+      "module": "Desktop Motherboard Chip Level Servicing"
+    },
+    {
+      "module": "Laptop Chip Level Servicing"
+    },
+    {
+      "module": "Advanced Desktop and Laptop Chip Level Training"
+    },
+    {
+      "module": "BGA Rework Station Training"
+    },
+    {
+      "module": "CCTV Camera Installation"
+    },
+    {
+      "module": "Desktop Support Training"
+    },
+    {
+      "module": "Practicals"
+    }
+  ]
+},
+{
+  "course_name": "Advanced Diploma in Mobile Phone Technology",
+  "course_category": "Diploma Courses",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": null,
+    "months": 6
+  },
+  "objective": "This comprehensive program equips learners with in-depth knowledge and practical skills in mobile phone repair, maintenance, and advanced technological upgrades. It prepares individuals to become experts in mobile technology, enabling them to troubleshoot, repair, and enhance the functionality of modern smartphones.",
+  "course_outline": [
+    {
+      "module": "Basic Electronics, Motherboard, Operating System & SMD"
+    },
+    {
+      "module": "Mobile Phone Assembling and Disassembling, Repairing Testing Methods & Software Servicing"
+    },
+    {
+      "module": "iPhone and Android IC Programming and Mobile Phone Repairing"
+    },
+    {
+      "module": "Deep-Level Practical Training in Software Flashing (iOS, Android)"
+    },
+    {
+      "module": "Deep-Level Practical Training in Mobile Phone Chip-Level Fault Finding"
+    }
+  ]
+}
+]
+
+

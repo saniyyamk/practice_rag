@@ -1,0 +1,390 @@
+[{
+  "course_name": "Post Graduate Diploma in Hospital Administration (SAP, TALLY)",
+  "course_category": "Hospital Administration",
+  "course_duration": "12 Months",
+  "department":"nonIt",
+  "duration_details": {
+    "academic_duration": "1 Year",
+    "total_hours": 432,
+    "internship_duration": "45 Days"
+  },
+  "objective": "The course aims to provide students with an in-depth understanding of healthcare systems, including the structure, functions, and components of hospitals. Students will learn Tally Prime essentials, SAP FICO, and Human Resources Development. The program also focuses on interview skills, language development, and professional grooming to prepare students for careers as hospital administration professionals.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Fundamentals of Hospital Administration",
+      "topics": [
+        "Basic Concept of Hospital Administration",
+        "General Management and Hospital Administration",
+        "Supportive Departments in Hospital Administration"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Hospital Operations and Management Systems",
+      "topics": [
+        "Bio-Medical Waste Management",
+        "Health Management Information System",
+        "Material Management",
+        "Drugs and Pharmaceuticals",
+        "Health Insurance",
+        "Hospital Record Management",
+        "Inventory Control in Hospitals"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Quality, Safety and Risk Management",
+      "topics": [
+        "Disaster Management",
+        "Disaster and Risk Management",
+        "Quality Management and Infection Control",
+        "Operation and Maintenance"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Healthcare Administration, Policy and Legal Framework",
+      "topics": [
+        "General Terms and Formalities",
+        "Hospital Policies, Regulation and Medico-Legal Issues",
+        "Epidemiology: Principles, Methods and Limitations",
+        "Research Methodology"
+      ]
+    },
+    {
+      "module": 5,
+      "title": "Management, HR and Professional Skills",
+      "topics": [
+        "HR and Marketing",
+        "Customer Management",
+        "Managerial Economics",
+        "Tally Prime Essentials",
+        "SAP FICO",
+        "Human Resources Development",
+        "Interview and Grooming",
+        "Language Training"
+      ]
+    }
+  ]
+}
+,
+{
+  "course_name": "Advance Diploma in Hospital Administration (SAP, TALLY)",
+  "course_category": "Hospital Administration",
+  "course_duration": "12 Months",
+  "department":"nonIt",
+  "duration_details": {
+    "academic_duration": "1 Year",
+    "total_hours": 432,
+    "internship_duration": "45 Days"
+  },
+  "objective": "The course aims to provide students with an in-depth understanding of healthcare systems, including the structure, functions, and components of hospitals. Students will learn Tally Prime essentials, SAP FICO, and Human Resources Development. The program also focuses on interview skills, language development, and professional grooming to prepare students for careers as hospital administration professionals.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Fundamentals of Hospital Administration",
+      "topics": [
+        "Basic Concept of Hospital Administration",
+        "General Management and Hospital Administration",
+        "Supportive Departments in Hospital Administration"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Hospital Operations and Clinical Support Systems",
+      "topics": [
+        "Bio-Medical Waste Management",
+        "Health Management Information System",
+        "Material Management",
+        "Drugs and Pharmaceuticals",
+        "Health Insurance",
+        "Hospital Record Management",
+        "Inventory Control in Hospitals"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Quality, Safety and Risk Management",
+      "topics": [
+        "Disaster Management",
+        "Disaster and Risk Management",
+        "Quality Management and Infection Control",
+        "Operation and Maintenance"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Healthcare Policy, Legal and Research Framework",
+      "topics": [
+        "General Terms and Formalities",
+        "Hospital Policies, Regulation and Medico-Legal Issues",
+        "Epidemiology: Principles, Methods and Limitations",
+        "Research Methodology"
+      ]
+    },
+    {
+      "module": 5,
+      "title": "Management, HR and Professional Skills",
+      "topics": [
+        "HR and Marketing",
+        "Customer Management",
+        "Managerial Economics",
+        "Tally Prime Essentials",
+        "SAP FICO",
+        "Human Resources Development",
+        "Interview and Grooming",
+        "Language Training"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Post Graduate Diploma in Hospital Administration",
+  "course_category": "Hospital Administration",
+  "course_duration": "8 Months",
+  "department":"nonIt",
+  "duration_details": {
+    "total_hours": 288,
+    "internship_duration": "45 Days"
+  },
+  "objective": "The course aims to provide students with an in-depth understanding of healthcare systems, including the structure, functions, and components of hospitals. Students will gain knowledge in Human Resources Development. The program also focuses on interview skills, language development, and professional grooming to prepare students for careers as hospital administration professionals.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Fundamentals of Hospital Administration",
+      "topics": [
+        "Basic Concept of Hospital Administration",
+        "General Management and Hospital Administration",
+        "Supportive Departments in Hospital Administration"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Hospital Operations and Healthcare Systems",
+      "topics": [
+        "Bio-Medical Waste Management",
+        "Health Management Information System",
+        "Material Management",
+        "Drugs and Pharmaceuticals",
+        "Health Insurance",
+        "Hospital Record Management",
+        "Inventory Control in Hospitals"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Quality, Safety and Risk Management",
+      "topics": [
+        "Disaster Management",
+        "Disaster and Risk Management",
+        "Quality Management and Infection Control",
+        "Operation and Maintenance"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Healthcare Policy, Legal and Research Framework",
+      "topics": [
+        "General Terms and Formalities",
+        "Hospital Policies, Regulation and Medico-Legal Issues",
+        "Epidemiology: Principles, Methods and Limitations",
+        "Research Methodology"
+      ]
+    },
+    {
+      "module": 5,
+      "title": "Management and Professional Skills",
+      "topics": [
+        "HR and Marketing",
+        "Customer Management",
+        "Managerial Economics",
+        "HRD - Level 1",
+        "HRD - Level 2",
+        "Interview and Grooming",
+        "Language Training"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Advance Diploma in Hospital Management",
+  "course_category": "Hospital Administration",
+  "course_duration": "8 Months",
+  "department":"nonIt",
+  "duration_details": {
+    "total_hours": 288,
+    "internship_duration": "45 Days"
+  },
+  "objective": "The course aims to provide students with an in-depth understanding of healthcare systems, including the structure, functions, and components of hospitals. Students will gain knowledge in Human Resources Development. The program also focuses on interview preparation, communication skills, and language development to help learners become professional hospital administration executives.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Fundamentals of Hospital Administration",
+      "topics": [
+        "Basic Concept of Hospital Administration",
+        "General Management and Hospital Administration",
+        "Supportive Departments in Hospital Administration"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Hospital Operations and Systems",
+      "topics": [
+        "Bio-Medical Waste Management",
+        "Health Management Information System",
+        "Material Management",
+        "Drugs and Pharmaceuticals",
+        "Health Insurance",
+        "Hospital Record Management",
+        "Inventory Control in Hospitals"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Quality, Safety and Risk Management",
+      "topics": [
+        "Disaster Management",
+        "Disaster and Risk Management",
+        "Quality Management and Infection Control",
+        "Operation and Maintenance"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Healthcare Policy, Legal and Research Framework",
+      "topics": [
+        "General Terms and Formality",
+        "Hospital Policies, Regulation and Medico-Legal Issues",
+        "Epidemiology: Principles, Methods and Limitations",
+        "Research Methodology"
+      ]
+    },
+    {
+      "module": 5,
+      "title": "Management and Professional Skills",
+      "topics": [
+        "HR and Marketing",
+        "Customer Management",
+        "Managerial Economics",
+        "Human Resources Development Level 1",
+        "Human Resources Development Level 2",
+        "Interview and Grooming",
+        "Language Training"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Diploma in Hospital Administration (SAP, TALLY)",
+  "course_category": "Hospital Administration",
+  "course_duration": "6 Months",
+  "department":"nonIt",
+  "duration_details": {
+    "total_hours": 216,
+    "internship_duration": "15 Days"
+  },
+  "objective": "The course aims to provide students with an in-depth understanding of healthcare systems, including the structure, functions, and components of hospitals. Students will learn Tally Prime Essentials, SAP FICO, and Human Resources Development. The program also focuses on interview preparation, communication skills, and language development to prepare learners for careers as professional hospital administration executives.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Fundamentals of Hospital Administration",
+      "topics": [
+        "Basic Concept of Hospital Administration",
+        "General Management and Hospital Administration",
+        "Supportive Departments in Hospital Administration"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Healthcare Operations and Systems",
+      "topics": [
+        "Bio-Medical Waste Management",
+        "Health Management Information System",
+        "Material Management",
+        "Drugs and Pharmaceuticals",
+        "Epidemiology: Principles, Methods and Limitations",
+        "Research Methodology",
+        "Hospital Record Management",
+        "Customer Management"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Management, Legal and Risk Framework",
+      "topics": [
+        "Managerial Economics",
+        "Hospital Policies, Regulation and Medico-Legal Issues",
+        "Disaster and Risk Management",
+        "Inventory Control in Hospitals"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Accounting, ERP and Professional Skills",
+      "topics": [
+        "Tally Essential Comprehensive",
+        "SAP FICO",
+        "Human Resources Development Level 1",
+        "Human Resources Development Level 2",
+        "Interview and Grooming"
+      ]
+    }
+  ]
+},
+{
+  "course_name": "Diploma in Hospital Administration",
+  "course_category": "Hospital Administration",
+  "course_duration": "4 Months",
+  "department":"nonIt",
+  "duration_details": {
+    "total_hours": 144,
+    "internship_duration": "15 Days"
+  },
+  "objective": "The course aims to provide students with an in-depth understanding of healthcare systems, including the structure, functions, and components of hospitals. Students will gain knowledge in Human Resources Development. The program also focuses on interview preparation, communication skills, and language development to prepare learners for careers as professional hospital administration executives.",
+  "course_outline": [
+    {
+      "module": 1,
+      "title": "Fundamentals of Hospital Administration",
+      "topics": [
+        "Basic Concept of Hospital Administration",
+        "General Management and Hospital Administration",
+        "Supportive Departments in Hospital Administration"
+      ]
+    },
+    {
+      "module": 2,
+      "title": "Hospital Operations and Healthcare Systems",
+      "topics": [
+        "Bio-Medical Waste Management",
+        "Health Management Information System",
+        "Material Management",
+        "Drugs and Pharmaceuticals",
+        "Epidemiology: Principles, Methods and Limitations",
+        "Research Methodology",
+        "Hospital Record Management",
+        "Customer Management"
+      ]
+    },
+    {
+      "module": 3,
+      "title": "Management and Regulatory Framework",
+      "topics": [
+        "Managerial Economics",
+        "Hospital Policies, Regulation and Medico-Legal Issues",
+        "Disaster and Risk Management",
+        "Inventory Control in Hospitals"
+      ]
+    },
+    {
+      "module": 4,
+      "title": "Human Resource Development and Professional Skills",
+      "topics": [
+        "HRD - Level 1",
+        "HRD - Level 2",
+        "Interview and Grooming"
+      ]
+    }
+  ]
+}
+]

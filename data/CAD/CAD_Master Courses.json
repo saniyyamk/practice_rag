@@ -1,0 +1,33 @@
+[
+{
+  "course_name": "Master in CAD (Civil)",
+  "course_category": "Master Courses",
+  "department":"CAD",
+  "course_duration": {
+    "hours": 216,
+    "months": 6
+  },
+  "objective": "This course is designed for civil engineering professionals and students to enhance their productivity and technical expertise. It covers advanced principles and tools in design, drafting, 3D modeling, and project management for architectural, construction, and structural engineering applications.",
+  "course_outline": [
+    {
+      "module": "AutoCAD 2D"
+    },
+    {
+      "module": "AutoCAD 3D"
+    },
+    {
+      "module": "AutoCAD Civil 3D"
+    },
+    {
+      "module": "Revit Architecture"
+    },
+    {
+      "module": "3ds Max"
+    },
+    {
+      "module": "Adobe Photoshop"
+    }
+  ]
+}]
+
+

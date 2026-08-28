@@ -1,0 +1,25 @@
+[{
+  "course_name": "G-TEC Certified Hardware and Network Engineer",
+  "course_category": "Master Courses",
+  "department":"Hardware and Networking",
+  "course_duration": {
+    "hours": 432,
+    "months": 12
+  },
+  "objective": "This program is designed to build internationally recognized IT professionals certified with Microsoft, CompTIA, and Cisco. It prepares learners for certifications such as A+, Network+, CCNA, and MCITP, focusing on hardware, networking, server administration, and wireless technologies.",
+  "course_outline": [
+    {
+      "module": "CompTIA A+"
+    },
+    {
+      "module": "CompTIA Network+"
+    },
+    {
+      "module": "Windows Server and Linux Networking"
+    },
+    {
+      "module": "CCNA and Wireless Networking"
+    }
+  ]
+}
+]
