@@ -1,7 +1,7 @@
 from pathlib import Path
 import json
 
-from .normalizer import normalize_course
+from normalizer import normalize_course
 
 
 DATA_DIR = Path(__file__).resolve().parent.parent/ "data"
@@ -67,7 +67,7 @@ def load_all_courses():
 
             courses.append(normalized_course)
 
-        return courses
+    return courses
 
 def validate_courses(courses):
 

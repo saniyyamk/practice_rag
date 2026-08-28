@@ -9,7 +9,7 @@ def normalization_duration(duration):
     }
 
     if isinstance(duration,dict):
-        print('hited')
+      
         result["months"] = duration.get("months")
         result["hours"] = duration.get("hours")
         
