@@ -6,7 +6,8 @@ from embedding.embedder import Embedder
 
 from retrieval.chroma_store import ChromaStore
 
-def build_documents():
+def build_documents(): 
+    
     courses = load_all_courses()
 
     documents = []
@@ -57,7 +58,7 @@ def main():
 
     store=ChromaStore()
 
-    print("\nAdding documents")
+    print("\nAdding documents.........")
 
     store.add_documents(
         documents,
