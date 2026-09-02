@@ -24,7 +24,7 @@ def main():
 
     print("\nEmbedding shape:")
 
-    print*(embeddings.shape)
+    print(embeddings.shape)
 
     print("\n Saving Vectore store....")
 
